@@ -1,0 +1,742 @@
+[
+  {
+    "id": "ota_en_romance_001_01",
+    "lang": "en",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "I think I fell in love at first sight.",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "아이 띵크 아이 펠 인 러브 앳 퍼스트 사이트.",
+    "pronunciation_en": "i think i fell in love at first sight.",
+    "pronunciation_ko": "아이 띵크 아이 펠 인 러브 앳 퍼스트 사이트.",
+    "example": "I think I fell in love at first sight when you walked in.",
+    "exampleMeaning": "당신이 걸어 들어올 때 첫눈에 반한 것 같아요.",
+    "literal_meaning": "나는 첫 시선에 사랑에 빠진 것 같다.",
+    "nuance": "상대방에게 강한 호감을 표현하는 클래식한 멘트입니다.",
+    "word_breakdown": [
+      {
+        "word": "fell in love",
+        "meaning": "사랑에 빠지다"
+      },
+      {
+        "word": "at first sight",
+        "meaning": "첫눈에"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_romance_001_01",
+    "lang": "ja",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "一目惚れしたみたいです。",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "히토메보레 시타 미타이데스.",
+    "pronunciation_en": "hitomebore shita mitaidesu.",
+    "pronunciation_ko": "히토메보레 시타 미타이데스.",
+    "example": "一目惚れしたみたいです。お茶しませんか？",
+    "exampleMeaning": "첫눈에 반한 것 같아요. 차 한잔 하실래요?",
+    "literal_meaning": "한눈에 반함을 한 것 같습니다.",
+    "nuance": "진심을 전할 때 부드럽게 사용하는 호감 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "一目惚れ",
+        "meaning": "첫눈에 반함"
+      },
+      {
+        "word": "みたいです",
+        "meaning": "~한 것 같습니다"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_romance_001_01",
+    "lang": "zh",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "我想我是一见钟情了。",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "워 시앙 워 스 이지엔 종칭 러.",
+    "pronunciation_en": "wo xiang wo shi yi jian zhong qing le.",
+    "pronunciation_ko": "워 시앙 워 스 이지엔 종칭 러.",
+    "example": "我想我是一见钟情了。可以加个微信吗？",
+    "exampleMeaning": "첫눈에 반한 것 같아요. 위챗 추가해도 될까요?",
+    "literal_meaning": "나는 내가 일견종정(첫눈에 반함)을 했다고 생각한다.",
+    "nuance": "로맨틱하고 직설적인 고백의 느낌을 줍니다.",
+    "word_breakdown": [
+      {
+        "word": "我想",
+        "meaning": "내 생각엔"
+      },
+      {
+        "word": "一见钟情",
+        "meaning": "첫눈에 반하다"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_romance_001_01",
+    "lang": "es",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Creo que fue amor a primera vista.",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "크레오 케 푸에 아모르 아 프리메라 비스타.",
+    "pronunciation_en": "creo que fue amor a primera vista.",
+    "pronunciation_ko": "크레오 케 푸에 아모르 아 프리메라 비스타.",
+    "example": "Creo que fue amor a primera vista. Eres hermosa.",
+    "exampleMeaning": "첫눈에 반한 것 같아요. 당신은 아름답네요.",
+    "literal_meaning": "나는 그것이 첫 시선의 사랑이었다고 생각한다.",
+    "nuance": "남미나 스페인 등에서 열정적으로 마음을 표현할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "amor a primera vista",
+        "meaning": "첫눈에 반하는 사랑"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_romance_001_01",
+    "lang": "fr",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Je crois que c'est le coup de foudre.",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "쥬 크후아 끄 쎄 르 꾸 드 푸드흐.",
+    "pronunciation_en": "je crois que c'est le coup de foudre.",
+    "pronunciation_ko": "쥬 크후아 끄 쎄 르 꾸 드 푸드흐.",
+    "example": "Dès que je t'ai vue, je crois que c'est le coup de foudre.",
+    "exampleMeaning": "당신을 본 순간 첫눈에 반한 것 같아요.",
+    "literal_meaning": "나는 그것이 벼락 맞은 것(첫눈에 반함)이라고 믿는다.",
+    "nuance": "프랑스어 특유의 '벼락을 맞은 듯한 사랑'을 의미하는 시적인 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "coup de foudre",
+        "meaning": "첫눈에 반함 (직역: 벼락)"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_romance_001_01",
+    "lang": "de",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Ich glaube, das ist Liebe auf den ersten Blick.",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "이히 글라우베, 다스 이스트 리베 아우프 덴 에어스텐 블릭.",
+    "pronunciation_en": "ich glaube das ist liebe auf den ersten blick.",
+    "pronunciation_ko": "이히 글라우베, 다스 이스트 리베 아우프 덴 에어스텐 블릭.",
+    "example": "Ich glaube, das ist Liebe auf den ersten Blick. Darf ich mich setzen?",
+    "exampleMeaning": "첫눈에 반한 것 같아요. 합석해도 될까요?",
+    "literal_meaning": "나는 첫눈의 사랑이라고 믿는다.",
+    "nuance": "조금 진지하게 상대에게 호감을 표현할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "Liebe auf den ersten Blick",
+        "meaning": "첫눈에 반함"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_romance_001_01",
+    "lang": "it",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Penso che sia amore a prima vista.",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "펜소 케 시아 아모레 아 프리마 비스타.",
+    "pronunciation_en": "penso che sia amore a prima vista.",
+    "pronunciation_ko": "펜소 케 시아 아모레 아 프리마 비스타.",
+    "example": "Penso che sia amore a prima vista. Sei bellissima.",
+    "exampleMeaning": "첫눈에 반한 것 같아요. 정말 아름다우세요.",
+    "literal_meaning": "나는 첫 시선의 사랑이라고 생각한다.",
+    "nuance": "이탈리아 특유의 낭만적인 고백 문구입니다.",
+    "word_breakdown": [
+      {
+        "word": "amore a prima vista",
+        "meaning": "첫눈에 반함"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_romance_001_01",
+    "lang": "th",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "สงสัยฉันจะรักแรกพบ",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "쏭싸이 찬 짜 락 랙 폽.",
+    "pronunciation_en": "song-sai chan ja rak raek pob.",
+    "pronunciation_ko": "쏭싸이 찬 짜 락 랙 폽.",
+    "example": "สงสัยฉันจะรักแรกพบ ขอไลน์ได้ไหมครับ",
+    "exampleMeaning": "첫눈에 반한 것 같아요. 라인 주실 수 있나요?",
+    "literal_meaning": "내가 첫눈에 반한 것이 아닌가 의심스럽다.",
+    "nuance": "부담스럽지 않게 캐주얼하게 마음을 슬쩍 내비치는 귀여운 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "รักแรกพบ",
+        "meaning": "첫눈에 반함"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_romance_001_01",
+    "lang": "ko",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "첫눈에 반한 것 같아요.",
+    "meaning": "I think I fell in love at first sight.",
+    "pronunciation": "첫눈에 반한 것 같아요.",
+    "pronunciation_en": "cheotnune banhan geot gatayo.",
+    "pronunciation_ko": "첫눈에 반한 것 같아요.",
+    "example": "저기요, 첫눈에 반한 것 같아요.",
+    "exampleMeaning": "Excuse me, I think I fell in love at first sight.",
+    "literal_meaning": "I think I fell in love at first sight.",
+    "nuance": "한국에서 마음에 드는 상대에게 직진으로 호감을 표현할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "첫눈에",
+        "meaning": "at first sight"
+      },
+      {
+        "word": "반한 것 같아요",
+        "meaning": "I think I fell in love"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_romance_001_01",
+    "lang": "lo",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "ຂ້ອຍຄິດວ່າຂ້ອຍຮັກເຈົ້າຕັ້ງແຕ່ທໍາອິດທີ່ເຫັນ.",
+    "meaning": "첫눈에 반한 것 같아요.",
+    "pronunciation": "코이 킷 와 코이 하크 짜오 땅 때 탐 잇 티 헨.",
+    "pronunciation_en": "khoi khid wa khoi hak jao tang tae tham id thi hen.",
+    "pronunciation_ko": "코이 킷 와 코이 하크 짜오 땅 때 탐 잇 티 헨.",
+    "example": "ຂ້ອຍຄິດວ່າຂ້ອຍຮັກເຈົ້າຕັ້ງແຕ່ທໍາອິດທີ່ເຫັນ.",
+    "exampleMeaning": "첫눈에 반한 것 같아요.",
+    "literal_meaning": "나는 처음 본 순간부터 너를 사랑한다고 생각한다.",
+    "nuance": "라오스에서 순수하게 마음을 표현할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "ຮັກ",
+        "meaning": "사랑하다"
+      },
+      {
+        "word": "ຕັ້ງແຕ່ທໍາອິດ",
+        "meaning": "처음부터"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_romance_001_02",
+    "lang": "en",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "You have a really beautiful smile.",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "유 해브 어 리얼리 뷰티풀 스마일.",
+    "pronunciation_en": "you have a really beautiful smile.",
+    "pronunciation_ko": "유 해브 어 리얼리 뷰티풀 스마일.",
+    "example": "I just had to say, you have a really beautiful smile.",
+    "exampleMeaning": "이 말은 꼭 하고 싶었어요, 미소가 정말 아름다우시네요.",
+    "literal_meaning": "당신은 정말 아름다운 미소를 가졌다.",
+    "nuance": "자연스럽게 칭찬하며 대화를 시작하기 좋은 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "beautiful smile",
+        "meaning": "아름다운 미소"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_romance_001_02",
+    "lang": "ja",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "笑顔がとても素敵ですね。",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "에가오가 토테모 스테키데스네.",
+    "pronunciation_en": "egao ga totemo sutekidesune.",
+    "pronunciation_ko": "에가오가 토테모 스테키데스네.",
+    "example": "笑顔がとても素敵ですね。よく笑う人が好きなんです。",
+    "exampleMeaning": "미소가 정말 아름다우시네요. 잘 웃는 사람을 좋아하거든요.",
+    "literal_meaning": "웃는 얼굴이 매우 멋지네요.",
+    "nuance": "상대방의 외모보다 인상을 칭찬하여 기분을 좋게 만드는 섬세한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "笑顔",
+        "meaning": "웃는 얼굴, 미소"
+      },
+      {
+        "word": "素敵",
+        "meaning": "멋지다, 훌륭하다"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_romance_001_02",
+    "lang": "zh",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "你的笑容真好看。",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "니 더 샤오롱 쪈 하오 칸.",
+    "pronunciation_en": "ni de xiao rong zhen hao kan.",
+    "pronunciation_ko": "니 더 샤오롱 쪈 하오 칸.",
+    "example": "你的笑容真好看，让我忍不住想过来打招呼。",
+    "exampleMeaning": "미소가 너무 예뻐서 인사를 안 할 수가 없었어요.",
+    "literal_meaning": "너의 미소는 정말 보기 좋다.",
+    "nuance": "과하지 않으면서도 분명한 호감을 나타내는 칭찬입니다.",
+    "word_breakdown": [
+      {
+        "word": "笑容",
+        "meaning": "미소"
+      },
+      {
+        "word": "好看",
+        "meaning": "보기 좋다, 예쁘다"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_romance_001_02",
+    "lang": "es",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Tienes una sonrisa hermosa.",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "티에네스 우나 손리사 에르모사.",
+    "pronunciation_en": "tienes una sonrisa hermosa.",
+    "pronunciation_ko": "티에네스 우나 손리사 에르모사.",
+    "example": "Me encanta verte reír, tienes una sonrisa hermosa.",
+    "exampleMeaning": "당신이 웃는 걸 보는 게 좋아요, 미소가 정말 아름답거든요.",
+    "literal_meaning": "당신은 아름다운 미소를 가지고 있다.",
+    "nuance": "스페인어권에서 상대를 기분 좋게 띄워줄 때 자주 쓰는 로맨틱한 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "sonrisa",
+        "meaning": "미소"
+      },
+      {
+        "word": "hermosa",
+        "meaning": "아름다운"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_romance_001_02",
+    "lang": "fr",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Tu as un très beau sourire.",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "뛰 아 엉 트헤 보 쑤히흐.",
+    "pronunciation_en": "tu as un tres beau sourire.",
+    "pronunciation_ko": "뛰 아 엉 트헤 보 쑤히흐.",
+    "example": "Tu as un très beau sourire, tu sais ?",
+    "exampleMeaning": "미소가 정말 예쁘네요, 알고 있었어요?",
+    "literal_meaning": "너는 매우 아름다운 미소를 가졌다.",
+    "nuance": "은근하게 매력을 칭찬하는 프랑스식 플러팅입니다.",
+    "word_breakdown": [
+      {
+        "word": "beau",
+        "meaning": "아름다운"
+      },
+      {
+        "word": "sourire",
+        "meaning": "미소"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_romance_001_02",
+    "lang": "de",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Du hast ein wunderschönes Lächeln.",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "두 하스트 아인 분더쇠네스 레혀른.",
+    "pronunciation_en": "du hast ein wunderschoenes laecheln.",
+    "pronunciation_ko": "두 하스트 아인 분더쇠네스 레혀른.",
+    "example": "Ich wollte dir nur sagen, du hast ein wunderschönes Lächeln.",
+    "exampleMeaning": "그냥 이 말을 해주고 싶었어요. 미소가 정말 아름다워요.",
+    "literal_meaning": "너는 경이롭게 아름다운 미소를 가졌다.",
+    "nuance": "부담 없는 칭찬으로 대화를 부드럽게 엽니다.",
+    "word_breakdown": [
+      {
+        "word": "wunderschönes",
+        "meaning": "아름다운"
+      },
+      {
+        "word": "Lächeln",
+        "meaning": "미소"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_romance_001_02",
+    "lang": "it",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Hai un sorriso bellissimo.",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "아이 운 소리소 벨리시모.",
+    "pronunciation_en": "hai un sorriso bellissimo.",
+    "pronunciation_ko": "아이 운 소리소 벨리시모.",
+    "example": "Hai un sorriso bellissimo, illumina la stanza.",
+    "exampleMeaning": "미소가 정말 아름다워요, 방을 환하게 밝히네요.",
+    "literal_meaning": "너는 매우 아름다운 미소를 가졌다.",
+    "nuance": "이탈리아인들이 감탄하며 칭찬할 때 쓰는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "sorriso",
+        "meaning": "미소"
+      },
+      {
+        "word": "bellissimo",
+        "meaning": "매우 아름다운"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_romance_001_02",
+    "lang": "th",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "คุณยิ้มสวยมากเลยครับ",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "쿤 임 쑤어이 막 르어이 크랍.",
+    "pronunciation_en": "khun yim suay mak loey krab.",
+    "pronunciation_ko": "쿤 임 쑤어이 막 르어이 크랍.",
+    "example": "คุณยิ้มสวยมากเลยครับ เห็นแล้วใจละลาย",
+    "exampleMeaning": "미소가 너무 예뻐요, 보고 마음이 녹았어요.",
+    "literal_meaning": "당신은 매우 아름답게 미소 짓네요.",
+    "nuance": "달콤하고 예의바르게 호감을 표시하는 태국식 애정 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "ยิ้ม",
+        "meaning": "웃다, 미소"
+      },
+      {
+        "word": "สวย",
+        "meaning": "예쁘다"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_romance_001_02",
+    "lang": "ko",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "웃는 모습이 정말 예쁘시네요.",
+    "meaning": "You have a really beautiful smile.",
+    "pronunciation": "웃는 모습이 정말 예쁘시네요.",
+    "pronunciation_en": "unneun moseubi jeongmal yeppeusineyo.",
+    "pronunciation_ko": "웃는 모습이 정말 예쁘시네요.",
+    "example": "웃는 모습이 정말 예쁘시네요. 자주 웃어주세요.",
+    "exampleMeaning": "You have a beautiful smile. Please smile often.",
+    "literal_meaning": "Your smiling appearance is really pretty.",
+    "nuance": "상대의 경계를 풀고 호감을 얻을 수 있는 가장 정석적인 칭찬입니다.",
+    "word_breakdown": [
+      {
+        "word": "웃는 모습",
+        "meaning": "smiling appearance"
+      },
+      {
+        "word": "예쁘시네요",
+        "meaning": "pretty"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_romance_001_02",
+    "lang": "lo",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "ເຈົ້າຍິ້ມງາມຫຼາຍ.",
+    "meaning": "미소가 정말 아름다우시네요.",
+    "pronunciation": "짜오 임 งาม 라이.",
+    "pronunciation_en": "jao yim ngam lai.",
+    "pronunciation_ko": "짜오 임 งาม 라이.",
+    "example": "ເຈົ້າຍິ້ມງາມຫຼາຍ.",
+    "exampleMeaning": "미소가 정말 아름다우시네요.",
+    "literal_meaning": "당신은 매우 아름답게 미소 짓는다.",
+    "nuance": "라오스에서 순박하고 직접적으로 상대를 칭찬할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "ຍິ້ມ",
+        "meaning": "미소"
+      },
+      {
+        "word": "ງາມ",
+        "meaning": "아름다운"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_romance_001_03",
+    "lang": "en",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "We should grab a drink sometime.",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "위 슈드 그랩 어 드링크 썸타임.",
+    "pronunciation_en": "we should grab a drink sometime.",
+    "pronunciation_ko": "위 슈드 그랩 어 드링크 썸타임.",
+    "example": "If you're free this weekend, we should grab a drink sometime.",
+    "exampleMeaning": "이번 주말에 시간 되시면, 언제 술 한잔 해요.",
+    "literal_meaning": "우리는 언젠가 음료를 잡아야(마셔야) 한다.",
+    "nuance": "너무 부담스럽지 않게 다음 만남을 기약하는 애프터 신청입니다.",
+    "word_breakdown": [
+      {
+        "word": "grab a drink",
+        "meaning": "술(음료) 한잔 하다"
+      },
+      {
+        "word": "sometime",
+        "meaning": "언젠가"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_romance_001_03",
+    "lang": "ja",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "今度、一緒に飲みに行きませんか？",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "콘도, 잇쇼니 노미니 이키마센카?",
+    "pronunciation_en": "kondo, isshoni nomini ikimasenka?",
+    "pronunciation_ko": "콘도, 잇쇼니 노미니 이키마센카?",
+    "example": "よかったら今度、一緒に飲みに行きませんか？",
+    "exampleMeaning": "괜찮으시다면 언제 술 한잔 같이 하실래요?",
+    "literal_meaning": "다음에 함께 마시러 가지 않겠습니까?",
+    "nuance": "일본에서 가장 보편적이고 거절당해도 무안하지 않은 데이트 신청입니다.",
+    "word_breakdown": [
+      {
+        "word": "今度",
+        "meaning": "다음에, 언제"
+      },
+      {
+        "word": "飲みに行く",
+        "meaning": "마시러 가다"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_romance_001_03",
+    "lang": "zh",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "改天一起喝一杯吧？",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "가이티엔 이치 허 이 베이 바?",
+    "pronunciation_en": "gai tian yi qi he yi bei ba?",
+    "pronunciation_ko": "가이티엔 이치 허 이 베이 바?",
+    "example": "你周末有空吗？改天一起喝一杯吧？",
+    "exampleMeaning": "주말에 시간 있어요? 언제 같이 술 한잔 할래요?",
+    "literal_meaning": "다른 날에 함께 한 잔 마실래?",
+    "nuance": "중국에서 친근하게 거리를 좁힐 때 흔히 쓰는 제안입니다.",
+    "word_breakdown": [
+      {
+        "word": "改天",
+        "meaning": "언제 (다른 날에)"
+      },
+      {
+        "word": "喝一杯",
+        "meaning": "한잔 하다"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_romance_001_03",
+    "lang": "es",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "¿Deberíamos tomar algo algún día?",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "데베리아모스 토마르 알고 알군 디아?",
+    "pronunciation_en": "deberiamos tomar algo algun dia?",
+    "pronunciation_ko": "데베리아모스 토마르 알고 알군 디아?",
+    "example": "Me caíste muy bien, ¿deberíamos tomar algo algún día?",
+    "exampleMeaning": "정말 마음에 들어요, 언제 술 한잔 같이 할래요?",
+    "literal_meaning": "우리가 어떤 날에 무언가를 마셔야 할까?",
+    "nuance": "'tomar algo'는 커피나 술 등 마실 것을 제안하며 부드럽게 다가가는 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "tomar algo",
+        "meaning": "무언가를 마시다 (술/차)"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_romance_001_03",
+    "lang": "fr",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "On devrait aller boire un verre un de ces jours.",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "옹 드브헤 알레 부아흐 엉 베흐 엉 드 쎄 쥬흐.",
+    "pronunciation_en": "on devrait aller boire un verre un de ces jours.",
+    "pronunciation_ko": "옹 드브헤 알레 부아흐 엉 베흐 엉 드 쎄 쥬흐.",
+    "example": "On s'entend bien, on devrait aller boire un verre un de ces jours.",
+    "exampleMeaning": "우리 잘 통하네요, 언제 술이나 한잔 하죠.",
+    "literal_meaning": "우리는 요즘 중 하루에 잔을 마시러 가야 한다.",
+    "nuance": "가볍고 캐주얼한 프랑스식 데이트 신청 방법입니다.",
+    "word_breakdown": [
+      {
+        "word": "boire un verre",
+        "meaning": "술/차 한잔 마시다"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_romance_001_03",
+    "lang": "de",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Wir sollten mal etwas trinken gehen.",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "비어 졸텐 말 에트바스 트링켄 게엔.",
+    "pronunciation_en": "wir sollten mal etwas trinken gehen.",
+    "pronunciation_ko": "비어 졸텐 말 에트바스 트링켄 게엔.",
+    "example": "Wir verstehen uns gut, wir sollten mal etwas trinken gehen.",
+    "exampleMeaning": "우리 잘 통하네요, 언제 같이 술 한잔 해요.",
+    "literal_meaning": "우리는 언젠가 무언가를 마시러 가야 한다.",
+    "nuance": "편안한 분위기에서 서로를 더 알아가고자 할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "etwas trinken gehen",
+        "meaning": "무언가를 마시러 가다"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_romance_001_03",
+    "lang": "it",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "Dovremmo prendere qualcosa da bere qualche volta.",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "도브렘모 프렌데레 쿠알코자 다 베레 쿠알케 볼타.",
+    "pronunciation_en": "dovremmo prendere qualcosa da bere qualche volta.",
+    "pronunciation_ko": "도브렘모 프렌데레 쿠알코자 다 베레 쿠알케 볼타.",
+    "example": "Mi sei simpatico, dovremmo prendere qualcosa da bere qualche volta.",
+    "exampleMeaning": "마음에 드네요, 언제 술 한잔 하러 가요.",
+    "literal_meaning": "우리는 언젠가 마실 것을 취해야 한다.",
+    "nuance": "아주 자연스럽게 이탈리아식으로 만남을 기약하는 멘트입니다.",
+    "word_breakdown": [
+      {
+        "word": "prendere qualcosa da bere",
+        "meaning": "마실 것을 먹다/마시다"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_romance_001_03",
+    "lang": "th",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "ไว้ไปดื่มด้วยกันไหมครับ",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "와이 빠이 듣 두어이 깐 마이 크랍.",
+    "pronunciation_en": "wai pai deum duay kan mai krab.",
+    "pronunciation_ko": "와이 빠이 듣 두어이 깐 마이 크랍.",
+    "example": "ว่างๆ ไว้ไปดื่มด้วยกันไหมครับ",
+    "exampleMeaning": "시간 날 때 언제 술 한잔 같이 할래요?",
+    "literal_meaning": "함께 마시러 갈까요?",
+    "nuance": "부담 없이 가볍게 한잔하자는 태국의 일상적인 작업 멘트입니다.",
+    "word_breakdown": [
+      {
+        "word": "ไปดื่ม",
+        "meaning": "마시러 가다"
+      },
+      {
+        "word": "ด้วยกัน",
+        "meaning": "함께"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_romance_001_03",
+    "lang": "ko",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "언제 술 한잔 같이 해요.",
+    "meaning": "We should grab a drink sometime.",
+    "pronunciation": "언제 술 한잔 같이 해요.",
+    "pronunciation_en": "eonje sul hanjan gachi haeyo.",
+    "pronunciation_ko": "언제 술 한잔 같이 해요.",
+    "example": "오늘 반가웠어요. 언제 술 한잔 같이 해요.",
+    "exampleMeaning": "It was nice meeting you today. We should grab a drink sometime.",
+    "literal_meaning": "Let's do a cup of alcohol together sometime.",
+    "nuance": "한국에서 애프터를 기약하는 가장 무난하고 확실한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "술 한잔",
+        "meaning": "a drink"
+      },
+      {
+        "word": "같이 해요",
+        "meaning": "do together"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_romance_001_03",
+    "lang": "lo",
+    "type": "word",
+    "category": "Romance",
+    "tone": "Flirty",
+    "text": "ມື້ໜ້າໄປດື່ມນຳກັນເນາະ.",
+    "meaning": "언제 술 한잔 해요.",
+    "pronunciation": "므 나 빠이 듣 남 깐 노.",
+    "pronunciation_en": "mue na pai deum nam kan no.",
+    "pronunciation_ko": "므 나 빠이 듣 남 깐 노.",
+    "example": "ມື້ໜ້າໄປດື່ມນຳກັນເນາະ.",
+    "exampleMeaning": "언제 술 한잔 같이 해요.",
+    "literal_meaning": "다음 날에 함께 마시러 가자.",
+    "nuance": "라오스에서 술자리를 핑계로 데이트를 신청할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "ມື້ໜ້າ",
+        "meaning": "언제 (다음에)"
+      },
+      {
+        "word": "ໄປດື່ມ",
+        "meaning": "마시러 가다"
+      }
+    ]
+  }
+]

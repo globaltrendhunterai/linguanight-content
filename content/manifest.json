@@ -1,8 +1,22 @@
 {
-  "version": "20260609",
-  "updatedAt": "2026-06-09T00:00:00Z",
-  "totalCount": 0,
-  "deltaFiles": [],
-  "changelog": "Initial release",
-  "changelogKo": "초기 출시 버전"
+  "version": "20260610",
+  "updatedAt": "2026-06-09T12:16:10.353Z",
+  "totalCount": 30,
+  "langCounts": {
+    "en": 3,
+    "ja": 3,
+    "zh": 3,
+    "es": 3,
+    "fr": 3,
+    "de": 3,
+    "it": 3,
+    "th": 3,
+    "ko": 3,
+    "lo": 3
+  },
+  "deltaFiles": [
+    "updates/20260610.json"
+  ],
+  "changelog": "로맨스 핵심 표현 3개 (총 30개 문장) 추가",
+  "changelogKo": "로맨스 핵심 표현 3개 (총 30개 문장) 추가"
 }
