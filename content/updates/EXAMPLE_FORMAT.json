@@ -1,0 +1,21 @@
+[
+  {
+    "id": "ota_en_romance_001",
+    "lang": "en",
+    "type": "word",
+    "category": "romance",
+    "tone": "flirty",
+    "text": "You have the most beautiful smile I've ever seen.",
+    "meaning": "당신의 미소가 제가 본 것 중 가장 아름다워요.",
+    "pronunciation": "유 해브 더 모스트 뷰티풀 스마일 아이브 에버 씬",
+    "pronunciation_en": "yoo hav thuh mohst byoo-tuh-fuhl smyl ahyv ev-er seen",
+    "pronunciation_ko": "유 해브 더 모스트 뷰티풀 스마일 아이브 에버 씬",
+    "example": "\"You have the most beautiful smile I've ever seen.\" — She blushed.",
+    "exampleMeaning": "\"당신의 미소가 제가 본 것 중 가장 아름다워요.\" — 그녀가 얼굴을 붉혔다.",
+    "nuance": "자연스럽고 진심 어린 칭찬. 첫 만남에서도 사용 가능.",
+    "word_breakdown": [
+      {"word": "most beautiful", "meaning": "가장 아름다운"},
+      {"word": "I've ever seen", "meaning": "내가 본 것 중"}
+    ]
+  }
+]
