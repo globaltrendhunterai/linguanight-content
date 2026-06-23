@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ota_en_Dating_20260623_1",
+    "lang": "en",
+    "type": "word",
+    "category": "Dating",
+    "tone": "Flirty",
+    "text": "Are you seeing anyone right now?",
+    "meaning": "지금 만나는 사람 있어요?",
+    "pronunciation": "Are you seeing anyone right now?",
+    "pronunciation_ko": "아 유 씨잉 애니원 라잇 나우?",
+    "example": "I was just wondering, are you seeing anyone right now?",
+    "exampleMeaning": "그냥 궁금해서요, 지금 만나는 사람 있어요?",
+    "literal_meaning": "당신은 지금 누군가를 보고 있나요?",
+    "nuance": "상대방의 연애 상태를 직접적으로, 그러나 부담스럽지 않게 물어보는 표현입니다.",
+    "word_breakdown": [
+      { "word": "seeing", "meaning": "만나는 중인" },
+      { "word": "anyone", "meaning": "누군가" }
+    ]
+  },
+  {
+    "id": "ota_en_Nightlife_20260623_2",
+    "lang": "en",
+    "type": "word",
+    "category": "Nightlife",
+    "tone": "Casual",
+    "text": "Let's go bar hopping tonight!",
+    "meaning": "오늘 밤에 술집 투어 가자!",
+    "pronunciation": "Let's go bar hopping tonight!",
+    "pronunciation_ko": "렛츠 고 바 호핑 투나잇!",
+    "example": "I'm so bored. Let's go bar hopping tonight!",
+    "exampleMeaning": "너무 심심해. 오늘 밤에 술집 투어 가자!",
+    "literal_meaning": "오늘 밤 바를 뛰어다니자!",
+    "nuance": "하룻밤에 여러 술집을 차례대로 돌아다니며 마시는 영미권/유럽의 전형적인 밤문화를 의미합니다.",
+    "word_breakdown": [
+      { "word": "bar hopping", "meaning": "여러 술집을 돌아다니기" },
+      { "word": "tonight", "meaning": "오늘 밤" }
+    ]
+  }
+]

@@ -1,22 +1,14 @@
 {
-  "version": "20260610",
-  "updatedAt": "2026-06-09T12:16:10.353Z",
-  "totalCount": 30,
+  "version": "20260623",
+  "updatedAt": "2026-06-23T09:16:04.676Z",
+  "totalCount": 32,
   "langCounts": {
-    "en": 3,
-    "ja": 3,
-    "zh": 3,
-    "es": 3,
-    "fr": 3,
-    "de": 3,
-    "it": 3,
-    "th": 3,
-    "ko": 3,
-    "lo": 3
+    "en": 2
   },
   "deltaFiles": [
-    "updates/20260610.json"
+    "updates/20260610.json",
+    "updates/20260623.json"
   ],
-  "changelog": "로맨스 핵심 표현 3개 (총 30개 문장) 추가",
-  "changelogKo": "로맨스 핵심 표현 3개 (총 30개 문장) 추가"
+  "changelog": "연애 및 밤문화 테스트 표현 추가",
+  "changelogKo": "연애 및 밤문화 테스트 표현 추가"
 }
