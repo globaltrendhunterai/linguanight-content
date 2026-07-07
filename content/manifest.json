@@ -1,14 +1,24 @@
 {
-  "version": "20260623",
-  "updatedAt": "2026-06-23T09:16:04.676Z",
-  "totalCount": 32,
+  "version": "20260707",
+  "updatedAt": "2026-07-07T05:53:29.149Z",
+  "totalCount": 122,
   "langCounts": {
-    "en": 2
+    "en": 9,
+    "ja": 9,
+    "zh": 9,
+    "es": 9,
+    "fr": 9,
+    "de": 9,
+    "it": 9,
+    "th": 9,
+    "ko": 9,
+    "lo": 9
   },
   "deltaFiles": [
     "updates/20260610.json",
-    "updates/20260623.json"
+    "updates/20260623.json",
+    "updates/20260707.json"
   ],
-  "changelog": "연애 및 밤문화 테스트 표현 추가",
-  "changelogKo": "연애 및 밤문화 테스트 표현 추가"
+  "changelog": "공항 및 대중교통 표현 9개 (10개 언어) 추가",
+  "changelogKo": "공항 및 대중교통 표현 9개 (10개 언어) 추가"
 }

@@ -1,0 +1,2742 @@
+[
+  {
+    "id": "ota_en_arr_20260707_001",
+    "lang": "en",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "Where is immigration?",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "웨어 이즈 이미그레이션",
+    "pronunciation_en": "where is immigration",
+    "pronunciation_ko": "웨어 이즈 이미그레이션",
+    "example": "Excuse me, where is immigration?",
+    "exampleMeaning": "실례합니다, 입국 심사는 어디서 하나요?",
+    "literal_meaning": "입국 심사는 어디에 있나요",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "Where is",
+        "meaning": "어디에 있나요"
+      },
+      {
+        "word": "immigration",
+        "meaning": "입국 심사(대)"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_arr_20260707_001",
+    "lang": "ja",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "入国審査はどこですか？",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "뉴-코쿠 신사와 도코데스카",
+    "pronunciation_en": "nyuukokushinsa wa dokodesuka",
+    "pronunciation_ko": "뉴-코쿠 신사와 도코데스카",
+    "example": "すみません、入国審査はどこですか？",
+    "exampleMeaning": "실례합니다, 입국 심사는 어디인가요?",
+    "literal_meaning": "입국심사는 어디입니까",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "入国審査",
+        "meaning": "입국심사"
+      },
+      {
+        "word": "は",
+        "meaning": "은/는"
+      },
+      {
+        "word": "どこ",
+        "meaning": "어디"
+      },
+      {
+        "word": "ですか",
+        "meaning": "입니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_arr_20260707_001",
+    "lang": "zh",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "入境审查在哪里？",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "루 징 션 차 자이 나 리",
+    "pronunciation_en": "rù jìng shěn chá zài nǎ lǐ",
+    "pronunciation_ko": "루 징 션 차 자이 나 리",
+    "example": "请问，入境审查在哪里？",
+    "exampleMeaning": "실례지만 입국 심사는 어디인가요?",
+    "literal_meaning": "입경 심사는 어디에 있습니까",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "入境",
+        "meaning": "입국"
+      },
+      {
+        "word": "审查",
+        "meaning": "심사"
+      },
+      {
+        "word": "在",
+        "meaning": "~에 있다"
+      },
+      {
+        "word": "哪里",
+        "meaning": "어디"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_arr_20260707_001",
+    "lang": "es",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "¿Dónde está inmigración?",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "돈데 에스타 인미그라시온",
+    "pronunciation_en": "donde esta inmigracion",
+    "pronunciation_ko": "돈데 에스타 인미그라시온",
+    "example": "Disculpe, ¿dónde está inmigración?",
+    "exampleMeaning": "실례합니다, 입국 심사대는 어디인가요?",
+    "literal_meaning": "이민(국)은 어디에 있습니까",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "¿Dónde",
+        "meaning": "어디에"
+      },
+      {
+        "word": "está",
+        "meaning": "있습니까"
+      },
+      {
+        "word": "inmigración?",
+        "meaning": "입국심사(국)"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_arr_20260707_001",
+    "lang": "fr",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "Où est le contrôle des passeports ?",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "우 에 르 꽁트롤 데 빠스뽀르",
+    "pronunciation_en": "ou est le controle des passeports",
+    "pronunciation_ko": "우 에 르 꽁트롤 데 빠스뽀르",
+    "example": "Pardon, où est le contrôle des passeports ?",
+    "exampleMeaning": "실례합니다, 입국 심사는 어디서 하나요?",
+    "literal_meaning": "여권 통제소는 어디입니까",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "Où",
+        "meaning": "어디"
+      },
+      {
+        "word": "est",
+        "meaning": "있습니까"
+      },
+      {
+        "word": "le contrôle",
+        "meaning": "통제(검사)"
+      },
+      {
+        "word": "des passeports",
+        "meaning": "여권들의"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_arr_20260707_001",
+    "lang": "de",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "Wo ist die Passkontrolle?",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "보 이스트 디 파스콘트롤레",
+    "pronunciation_en": "wo ist die passkontrolle",
+    "pronunciation_ko": "보 이스트 디 파스콘트롤레",
+    "example": "Entschuldigung, wo ist die Passkontrolle?",
+    "exampleMeaning": "실례합니다, 입국 심사대가 어디인가요?",
+    "literal_meaning": "여권 심사대는 어디입니까",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "Wo",
+        "meaning": "어디에"
+      },
+      {
+        "word": "ist",
+        "meaning": "있습니까"
+      },
+      {
+        "word": "die Passkontrolle",
+        "meaning": "여권 심사"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_arr_20260707_001",
+    "lang": "it",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "Dov'è il controllo passaporti?",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "도베 일 콘트롤로 파사포르티",
+    "pronunciation_en": "dove il controllo passaporti",
+    "pronunciation_ko": "도베 일 콘트롤로 파사포르티",
+    "example": "Scusi, dov'è il controllo passaporti?",
+    "exampleMeaning": "실례합니다, 입국 심사대가 어디인가요?",
+    "literal_meaning": "여권 통제는 어디입니까",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "Dov'è",
+        "meaning": "어디에 있습니까"
+      },
+      {
+        "word": "il controllo",
+        "meaning": "검사"
+      },
+      {
+        "word": "passaporti",
+        "meaning": "여권"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_arr_20260707_001",
+    "lang": "th",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "ด่านตรวจคนเข้าเมืองอยู่ที่ไหนครับ",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "단 뜨루앗 콘 카오 므앙 유 ที 나이 크랍",
+    "pronunciation_en": "dan truat khon khao mueang yu thi nai khrap",
+    "pronunciation_ko": "단 뜨루앗 콘 카오 므앙 유 ที 나이 크랍",
+    "example": "ขอโทษครับ ด่านตรวจคนเข้าเมืองอยู่ที่ไหนครับ",
+    "exampleMeaning": "실례합니다, 입국 심사대는 어디에 있나요?",
+    "literal_meaning": "입국 심사대는 어디에 있습니까",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "ด่านตรวจคนเข้าเมือง",
+        "meaning": "입국 심사대"
+      },
+      {
+        "word": "อยู่",
+        "meaning": "있다"
+      },
+      {
+        "word": "ที่ไหน",
+        "meaning": "어디에"
+      },
+      {
+        "word": "ครับ",
+        "meaning": "존댓말 어미"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_arr_20260707_001",
+    "lang": "ko",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "입국 심사는 어디서 하나요?",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "입국 심사는 어디서 하나요",
+    "pronunciation_en": "ipguk simsaneun eodiseo hanayo",
+    "pronunciation_ko": "입국 심사는 어디서 하나요",
+    "example": "저기요, 입국 심사는 어디서 하나요?",
+    "exampleMeaning": "저기요, 입국 심사는 어디서 하나요?",
+    "literal_meaning": "입국 심사는 어디서 하나요",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "입국 심사",
+        "meaning": "입국 심사"
+      },
+      {
+        "word": "어디서",
+        "meaning": "어디에서"
+      },
+      {
+        "word": "하나요",
+        "meaning": "합니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_arr_20260707_001",
+    "lang": "lo",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "ດ່ານກວດຄົນເຂົ້າເມືອງຢູ່ໃສ?",
+    "meaning": "입국 심사는 어디서 하나요?",
+    "pronunciation": "단 꾸앗 콘 카오 므앙 유 사이",
+    "pronunciation_en": "dan kuat khon khao mueang yu sai",
+    "pronunciation_ko": "단 꾸앗 콘 카오 므앙 유 사이",
+    "example": "ຂໍໂທດ, ດ່ານກວດຄົນເຂົ້າເມືອງຢູ່ໃສ?",
+    "exampleMeaning": "실례합니다, 입국 심사대는 어디인가요?",
+    "literal_meaning": "사람이 도시에 들어오는 것을 검사하는 곳은 어디입니까",
+    "nuance": "공항에 도착하여 입국 심사대(Immigration/Passport Control)의 위치를 물어볼 때 쓰는 가장 기본적이고 정중한 표현입니다.",
+    "word_breakdown": [
+      {
+        "word": "ດ່ານກວດ",
+        "meaning": "검사소"
+      },
+      {
+        "word": "ຄົນເຂົ້າເມືອງ",
+        "meaning": "입국자"
+      },
+      {
+        "word": "ຢູ່ໃສ",
+        "meaning": "어디에 있습니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_arr_20260707_002",
+    "lang": "en",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "My baggage hasn't come out yet.",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "마이 배기지 해즌트 컴 아웃 옛",
+    "pronunciation_en": "my baggage hasnt come out yet",
+    "pronunciation_ko": "마이 배기지 해즌트 컴 아웃 옛",
+    "example": "Excuse me, my baggage hasn't come out yet.",
+    "exampleMeaning": "실례합니다, 제 수하물이 아직 나오지 않았어요.",
+    "literal_meaning": "내 수하물이 아직 밖으로 나오지 않았어요",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "My baggage",
+        "meaning": "내 수하물이"
+      },
+      {
+        "word": "hasn't",
+        "meaning": "아직 ~하지 않다"
+      },
+      {
+        "word": "come out",
+        "meaning": "나오다"
+      },
+      {
+        "word": "yet",
+        "meaning": "아직"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_arr_20260707_002",
+    "lang": "ja",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "私の荷物がまだ出てきません。",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "와타시노 니모츠가 마다 데테키마센",
+    "pronunciation_en": "watashi no nimotsu ga mada detekimasen",
+    "pronunciation_ko": "와타시노 니모츠가 마다 데테키마센",
+    "example": "すみません、私の荷物がまだ出てきません。",
+    "exampleMeaning": "저기요, 제 수하물이 아직 안 나왔어요.",
+    "literal_meaning": "나의 짐이 아직 나오지 않습니다",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "私",
+        "meaning": "나"
+      },
+      {
+        "word": "荷物",
+        "meaning": "짐/수하물"
+      },
+      {
+        "word": "まだ",
+        "meaning": "아직"
+      },
+      {
+        "word": "出てきません",
+        "meaning": "나오지 않습니다"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_arr_20260707_002",
+    "lang": "zh",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "我的行李还没有出来。",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "워 더 싱 리 하이 메이 요우 추 라이",
+    "pronunciation_en": "wǒ de xíng lǐ hái méi yǒu chū lái",
+    "pronunciation_ko": "워 더 싱 리 하이 메이 요우 추 라이",
+    "example": "你好，我的行李还没有出来。",
+    "exampleMeaning": "안녕하세요, 제 짐이 아직 안 나왔어요.",
+    "literal_meaning": "나의 짐은 아직 나오지 않았다",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "我",
+        "meaning": "나"
+      },
+      {
+        "word": "行李",
+        "meaning": "수하물"
+      },
+      {
+        "word": "还没有",
+        "meaning": "아직 ~않다"
+      },
+      {
+        "word": "出来",
+        "meaning": "나오다"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_arr_20260707_002",
+    "lang": "es",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "Mi equipaje aún no ha salido.",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "미 에끼빠헤 아운 노 아 살리도",
+    "pronunciation_en": "mi equipaje aun no ha salido",
+    "pronunciation_ko": "미 에끼빠헤 아운 노 아 살리도",
+    "example": "Disculpe, mi equipaje aún no ha salido.",
+    "exampleMeaning": "실례합니다, 제 짐이 아직 안 나왔어요.",
+    "literal_meaning": "내 수하물이 아직 나오지 않았다",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "Mi equipaje",
+        "meaning": "내 수하물"
+      },
+      {
+        "word": "aún no",
+        "meaning": "아직 ~않다"
+      },
+      {
+        "word": "ha salido",
+        "meaning": "나왔다"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_arr_20260707_002",
+    "lang": "fr",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "Mes bagages ne sont pas encore arrivés.",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "메 바갸쥬 느 송 빠 앙꼬르 아히베",
+    "pronunciation_en": "mes bagages ne sont pas encore arrives",
+    "pronunciation_ko": "메 바갸쥬 느 송 빠 앙꼬르 아히베",
+    "example": "Pardon, mes bagages ne sont pas encore arrivés.",
+    "exampleMeaning": "실례합니다, 제 짐이 아직 안 나왔어요.",
+    "literal_meaning": "내 짐들이 아직 도착하지 않았다",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "Mes bagages",
+        "meaning": "내 수하물"
+      },
+      {
+        "word": "ne sont pas encore",
+        "meaning": "아직 ~않다"
+      },
+      {
+        "word": "arrivés",
+        "meaning": "도착했다"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_arr_20260707_002",
+    "lang": "de",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "Mein Gepäck ist noch nicht da.",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "마인 게팩 이스트 노흐 니히트 다",
+    "pronunciation_en": "mein gepack ist noch nicht da",
+    "pronunciation_ko": "마인 게팩 이스트 노흐 니히트 다",
+    "example": "Entschuldigung, mein Gepäck ist noch nicht da.",
+    "exampleMeaning": "실례합니다, 제 짐이 아직 안 왔어요.",
+    "literal_meaning": "내 짐이 아직 거기에 없다",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "Mein Gepäck",
+        "meaning": "내 수하물"
+      },
+      {
+        "word": "ist",
+        "meaning": "이다"
+      },
+      {
+        "word": "noch nicht",
+        "meaning": "아직 ~않다"
+      },
+      {
+        "word": "da",
+        "meaning": "거기에"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_arr_20260707_002",
+    "lang": "it",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "Il mio bagaglio non è ancora arrivato.",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "일 미오 바갈료 논 에 안코라 아리바토",
+    "pronunciation_en": "il mio bagaglio non e ancora arrivato",
+    "pronunciation_ko": "일 미오 바갈료 논 에 안코라 아리바토",
+    "example": "Scusi, il mio bagaglio non è ancora arrivato.",
+    "exampleMeaning": "실례합니다, 제 짐이 ancora 안 나왔어요.",
+    "literal_meaning": "내 수하물이 ancora 도착하지 않았다",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "Il mio bagaglio",
+        "meaning": "내 수하물"
+      },
+      {
+        "word": "non è ancora",
+        "meaning": "아직 ~않다"
+      },
+      {
+        "word": "arrivato",
+        "meaning": "도착했다"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_arr_20260707_002",
+    "lang": "th",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "กระเป๋าเดินทางของฉันยังไม่ออกมาเลยครับ",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "끄라빠오 เดิน탕 콩 찬 양 마이 억 마 러이 크랍",
+    "pronunciation_en": "krapao doen thang khong chan yang mai ok ma loei khrap",
+    "pronunciation_ko": "끄라빠오 เดิน탕 콩 찬 양 마이 억 마 러이 크랍",
+    "example": "ขอโทษครับ กระเป๋าเดินทางของฉันยังไม่ออกมาเลยครับ",
+    "exampleMeaning": "실례합니다, 제 수하물이 아직 나오지 않았어요.",
+    "literal_meaning": "나의 여행 가방이 아직 나오지 않았습니다",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "กระเป๋าเดินทาง",
+        "meaning": "여행 가방"
+      },
+      {
+        "word": "ของฉัน",
+        "meaning": "나의"
+      },
+      {
+        "word": "ยังไม่",
+        "meaning": "아직 ~않다"
+      },
+      {
+        "word": "ออกมา",
+        "meaning": "나오다"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_arr_20260707_002",
+    "lang": "ko",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "제 수하물이 아직 나오지 않았어요.",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "제 수하물이 아직 나오지 않았어요",
+    "pronunciation_en": "je suhamuli ajik naoji anasseoyo",
+    "pronunciation_ko": "제 수하물이 아직 나오지 않았어요",
+    "example": "저기요, 제 수하물이 아직 나오지 않았어요.",
+    "exampleMeaning": "저기요, 제 수하물이 아직 나오지 않았어요.",
+    "literal_meaning": "제 수하물이 아직 나오지 않았어요",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "제",
+        "meaning": "나의"
+      },
+      {
+        "word": "수하물이",
+        "meaning": "짐이"
+      },
+      {
+        "word": "아직",
+        "meaning": "현재까지"
+      },
+      {
+        "word": "나오지 않았어요",
+        "meaning": "나오지 않다"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_arr_20260707_002",
+    "lang": "lo",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Formal",
+    "text": "ກະເປົາຂອງຂ້ອຍຍັງບໍ່ອອກມາເທື່ອ.",
+    "meaning": "제 수하물이 아직 나오지 않았어요.",
+    "pronunciation": "까빠오 콩 카오이 양 보 억 마 트아",
+    "pronunciation_en": "kapao khong khoy yang bo ok ma theua",
+    "pronunciation_ko": "까빠오 콩 카오이 양 보 억 마 트아",
+    "example": "ຂໍໂທດ, ກະເປົາຂອງຂ້ອຍຍັງບໍ່ອອກມາເທື່ອ.",
+    "exampleMeaning": "실례합니다, 제 가방이 아직 안 나왔어요.",
+    "literal_meaning": "나의 가방이 아직 밖으로 나오지 않았다",
+    "nuance": "수하물 수취대(Baggage Claim)에서 자신의 짐이 오랫동안 나오지 않을 때 분실 신고나 문의를 위해 공항 직원에게 하는 말입니다.",
+    "word_breakdown": [
+      {
+        "word": "ກະເປົາ",
+        "meaning": "가방"
+      },
+      {
+        "word": "ຂອງຂ້ອຍ",
+        "meaning": "나의"
+      },
+      {
+        "word": "ຍັງບໍ່",
+        "meaning": "아직 ~않다"
+      },
+      {
+        "word": "ອອກມາເທື່ອ",
+        "meaning": "나오다"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_arr_20260707_003",
+    "lang": "en",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "Where can I catch the bus to the city?",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "웨어 캔 아이 캐치 더 버스 투 더 시티",
+    "pronunciation_en": "where can i catch the bus to the city",
+    "pronunciation_ko": "웨어 캔 아이 캐치 더 버스 투 더 시티",
+    "example": "Excuse me, where can I catch the bus to the city?",
+    "exampleMeaning": "실례합니다, 시내로 가는 버스는 어디서 타나요?",
+    "literal_meaning": "도시로 가는 버스를 어디서 잡을 수 있나요",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "Where",
+        "meaning": "어디서"
+      },
+      {
+        "word": "can I catch",
+        "meaning": "제가 탈 수 있나요"
+      },
+      {
+        "word": "the bus to",
+        "meaning": "~로 가는 버스"
+      },
+      {
+        "word": "the city",
+        "meaning": "시내"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_arr_20260707_003",
+    "lang": "ja",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "市内へ行くバス乗り場はどこですか？",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "시나이에 이쿠 바스 노리바와 도코데스카",
+    "pronunciation_en": "shinai e iku basu noriba wa dokodesuka",
+    "pronunciation_ko": "시나이에 이쿠 바스 노리바와 도코데스카",
+    "example": "すみません、市内へ行くバス乗り場はどこですか？",
+    "exampleMeaning": "실례합니다, 시내로 가는 버스 타는 곳이 어디인가요?",
+    "literal_meaning": "시내로 가는 버스 타는 곳은 어디입니까",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "市内へ行く",
+        "meaning": "시내로 가는"
+      },
+      {
+        "word": "バス",
+        "meaning": "버스"
+      },
+      {
+        "word": "乗り場",
+        "meaning": "타는 곳"
+      },
+      {
+        "word": "どこ",
+        "meaning": "어디"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_arr_20260707_003",
+    "lang": "zh",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "去市区的巴士在哪里坐？",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "취 스 취 더 바 스 자이 나 리 주오",
+    "pronunciation_en": "qù shì qū de bā shì zài nǎ lǐ zuò",
+    "pronunciation_ko": "취 스 취 더 바 스 자이 나 리 주오",
+    "example": "请问，去市区的巴士在哪里坐？",
+    "exampleMeaning": "실례합니다, 시내 가는 버스는 어디서 타나요?",
+    "literal_meaning": "시구로 가는 버스는 어디서 탑니까",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "去市区",
+        "meaning": "시내로 가는"
+      },
+      {
+        "word": "巴士",
+        "meaning": "버스"
+      },
+      {
+        "word": "哪里",
+        "meaning": "어디"
+      },
+      {
+        "word": "坐",
+        "meaning": "타다"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_arr_20260707_003",
+    "lang": "es",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "¿Dónde tomo el autobús al centro?",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "돈데 토모 엘 아우토부스 알 센트로",
+    "pronunciation_en": "donde tomo el autobus al centro",
+    "pronunciation_ko": "돈데 토모 엘 아우토부스 알 센트로",
+    "example": "Disculpe, ¿dónde tomo el autobús al centro?",
+    "exampleMeaning": "실례합니다, 시내 가는 버스는 어디서 타나요?",
+    "literal_meaning": "센터로 가는 버스를 어디서 탑니까",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "¿Dónde",
+        "meaning": "어디서"
+      },
+      {
+        "word": "tomo",
+        "meaning": "내가 탑니까"
+      },
+      {
+        "word": "el autobús",
+        "meaning": "버스를"
+      },
+      {
+        "word": "al centro",
+        "meaning": "시내(중심)로"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_arr_20260707_003",
+    "lang": "fr",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "Où puis-je prendre le bus pour le centre-ville ?",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "우 쀠쥬 프헝드르 르 뷔스 뿌르 르 썽트르빌",
+    "pronunciation_en": "ou puis je prendre le bus pour le centre ville",
+    "pronunciation_ko": "우 쀠쥬 프헝드르 르 뷔스 뿌르 르 썽트르빌",
+    "example": "Pardon, où puis-je prendre le bus pour le centre-ville ?",
+    "exampleMeaning": "실례합니다, 시내 가는 버스는 어디서 타나요?",
+    "literal_meaning": "도심으로 가는 버스를 어디서 내가 탈 수 있나요",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "Où",
+        "meaning": "어디서"
+      },
+      {
+        "word": "puis-je prendre",
+        "meaning": "탈 수 있나요"
+      },
+      {
+        "word": "le bus",
+        "meaning": "버스를"
+      },
+      {
+        "word": "pour le centre-ville",
+        "meaning": "시내행"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_arr_20260707_003",
+    "lang": "de",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "Wo fährt der Bus ins Stadtzentrum ab?",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "보 패르트 데어 부스 인스 슈타트첸트룸 압",
+    "pronunciation_en": "wo fahrt der bus ins stadtzentrum ab",
+    "pronunciation_ko": "보 패르트 데어 부스 인스 슈타트첸트룸 압",
+    "example": "Entschuldigung, wo fährt der Bus ins Stadtzentrum ab?",
+    "exampleMeaning": "실례합니다, 시내 가는 버스는 어디서 출발하나요?",
+    "literal_meaning": "도심으로 가는 버스가 어디서 출발하나요",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "Wo",
+        "meaning": "어디서"
+      },
+      {
+        "word": "fährt ... ab",
+        "meaning": "출발하나요"
+      },
+      {
+        "word": "der Bus",
+        "meaning": "버스가"
+      },
+      {
+        "word": "ins Stadtzentrum",
+        "meaning": "시내로"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_arr_20260707_003",
+    "lang": "it",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "Dove posso prendere l'autobus per il centro?",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "도베 포소 프렌데레 라우토부스 페르 일 첸트로",
+    "pronunciation_en": "dove posso prendere l'autobus per il centro",
+    "pronunciation_ko": "도베 포소 프렌데레 라우토부스 페르 일 첸트로",
+    "example": "Scusi, dove posso prendere l'autobus per il centro?",
+    "exampleMeaning": "실례합니다, 시내 가는 버스는 어디서 타나요?",
+    "literal_meaning": "도심을 위한 버스를 어디서 탈 수 있나요",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "Dove posso",
+        "meaning": "어디서 할수 있나요"
+      },
+      {
+        "word": "prendere",
+        "meaning": "타다"
+      },
+      {
+        "word": "l'autobus",
+        "meaning": "버스를"
+      },
+      {
+        "word": "per il centro",
+        "meaning": "시내로"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_arr_20260707_003",
+    "lang": "th",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "ป้ายรถเมล์ไปเข้าเมืองอยู่ที่ไหนครับ",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "빠이 롯메 빠이 카오 므앙 유 ที 나이 크랍",
+    "pronunciation_en": "pai rot me pai khao mueang yu thi nai khrap",
+    "pronunciation_ko": "빠이 롯메 빠이 카오 므앙 유 ที 나이 크랍",
+    "example": "ขอโทษครับ ป้ายรถเมล์ไปเข้าเมืองอยู่ที่ไหนครับ",
+    "exampleMeaning": "실례합니다, 시내 가는 버스 정류장이 어디인가요?",
+    "literal_meaning": "도시로 가는 버스 정류장은 어디에 있습니까",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "ป้ายรถเมล์",
+        "meaning": "버스 정류장"
+      },
+      {
+        "word": "ไปเข้าเมือง",
+        "meaning": "시내로 가는"
+      },
+      {
+        "word": "อยู่ที่ไหน",
+        "meaning": "어디에 있나요"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_arr_20260707_003",
+    "lang": "ko",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "시내로 가는 버스 타는 곳이 어디인가요",
+    "pronunciation_en": "sinaero ganeun beoseu taneun gosi eodiingayo",
+    "pronunciation_ko": "시내로 가는 버스 타는 곳이 어디인가요",
+    "example": "저기요, 시내로 가는 버스 타는 곳이 어디인가요?",
+    "exampleMeaning": "저기요, 시내로 가는 버스 타는 곳이 어디인가요?",
+    "literal_meaning": "시내로 가는 버스 타는 곳이 어디인가요",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "시내로 가는",
+        "meaning": "시내를 향하는"
+      },
+      {
+        "word": "버스 타는 곳",
+        "meaning": "버스 정류장"
+      },
+      {
+        "word": "어디인가요",
+        "meaning": "어디입니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_arr_20260707_003",
+    "lang": "lo",
+    "type": "word",
+    "category": "Airport - Arrivals",
+    "tone": "Casual",
+    "text": "ບ່ອນລໍຖ້າລົດເມເຂົ້າເມືອງຢູ່ໃສ?",
+    "meaning": "시내로 가는 버스 타는 곳이 어디인가요?",
+    "pronunciation": "본 로타 롯메 카오 므앙 유 사이",
+    "pronunciation_en": "bon lotha lot me khao mueang yu sai",
+    "pronunciation_ko": "본 로타 롯메 카오 므앙 유 사이",
+    "example": "ຂໍໂທດ, ບ່ອນລໍຖ້າລົດເມເຂົ້າເມືອງຢູ່ໃສ?",
+    "exampleMeaning": "실례합니다, 시내 가는 버스 타는 곳이 어디인가요?",
+    "literal_meaning": "시내로 들어가는 버스를 기다리는 곳은 어디입니까",
+    "nuance": "공항을 빠져나와 목적지(시내)로 이동하기 위해 공항 리무진 버스나 일반 버스의 정류장 위치를 물어보는 실용적인 문장입니다.",
+    "word_breakdown": [
+      {
+        "word": "ບ່ອນລໍຖ້າລົດເມ",
+        "meaning": "버스 정류장"
+      },
+      {
+        "word": "ເຂົ້າເມືອງ",
+        "meaning": "시내로 들어가는"
+      },
+      {
+        "word": "ຢູ່ໃສ",
+        "meaning": "어디에 있나요"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_dep_20260707_001",
+    "lang": "en",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Where is the airline check-in counter?",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "웨어 이즈 디 에어라인 체크인 카운터",
+    "pronunciation_en": "where is the airline check in counter",
+    "pronunciation_ko": "웨어 이즈 디 에어라인 체크인 카운터",
+    "example": "Excuse me, where is the airline check-in counter?",
+    "exampleMeaning": "실례합니다, 항공사 체크인 카운터는 어디인가요?",
+    "literal_meaning": "항공사 체크인 카운터는 어디에 있나요",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "Where is",
+        "meaning": "어디에 있나요"
+      },
+      {
+        "word": "the airline",
+        "meaning": "항공사"
+      },
+      {
+        "word": "check-in counter",
+        "meaning": "체크인 카운터"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_dep_20260707_001",
+    "lang": "ja",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "航空会社のチェックインカウンターはどこですか？",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "코-쿠-가이샤노 첵쿠인 카운타-와 도코데스카",
+    "pronunciation_en": "koukuugaisha no chekkuin kaunta wa dokodesuka",
+    "pronunciation_ko": "코-쿠-가이샤노 첵쿠인 카운타-와 도코데스카",
+    "example": "すみません、航空会社のチェックインカウンターはどこですか？",
+    "exampleMeaning": "실례합니다, 체크인 카운터는 어디인가요?",
+    "literal_meaning": "항공회사의 체크인 카운터는 어디입니까",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "航空会社",
+        "meaning": "항공사"
+      },
+      {
+        "word": "チェックイン",
+        "meaning": "체크인"
+      },
+      {
+        "word": "カウンター",
+        "meaning": "카운터"
+      },
+      {
+        "word": "どこ",
+        "meaning": "어디"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_dep_20260707_001",
+    "lang": "zh",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "航空公司的值机柜台在哪里？",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "항 콩 공 스 더 지 지 구이 타이 자이 나 리",
+    "pronunciation_en": "háng kōng gōng sī de zhí jī guì tái zài nǎ lǐ",
+    "pronunciation_ko": "항 콩 공 스 더 지 지 구이 타이 자이 나 리",
+    "example": "请问，航空公司的值机柜台在哪里？",
+    "exampleMeaning": "실례합니다, 항공사 체크인 카운터는 어디인가요?",
+    "literal_meaning": "항공 공사의 체크인 카운터는 어디에 있습니까",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "航空公司",
+        "meaning": "항공사"
+      },
+      {
+        "word": "值机柜台",
+        "meaning": "탑승수속 카운터"
+      },
+      {
+        "word": "在哪里",
+        "meaning": "어디에 있습니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_dep_20260707_001",
+    "lang": "es",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "¿Dónde está el mostrador de facturación de la aerolínea?",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "돈데 에스타 엘 모스트라도르 데 팍투라시온 데 라 아에롤리네아",
+    "pronunciation_en": "donde esta el mostrador de facturacion de la aerolinea",
+    "pronunciation_ko": "돈데 에스타 엘 모스트라도르 데 팍투라시온 데 라 아에롤리네아",
+    "example": "Disculpe, ¿dónde está el mostrador de facturación?",
+    "exampleMeaning": "실례합니다, 수속 카운터는 어디인가요?",
+    "literal_meaning": "항공사의 수속 카운터는 어디에 있습니까",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "¿Dónde está",
+        "meaning": "어디에 있습니까"
+      },
+      {
+        "word": "el mostrador",
+        "meaning": "카운터"
+      },
+      {
+        "word": "de facturación",
+        "meaning": "체크인(수속)의"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_dep_20260707_001",
+    "lang": "fr",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Où se trouve le comptoir d'enregistrement de la compagnie aérienne ?",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "우 스 트루브 르 꽁트와르 당르지스트르망 드 라 꽁빠니 에리엔느",
+    "pronunciation_en": "ou se trouve le comptoir d'enregistrement de la compagnie aerienne",
+    "pronunciation_ko": "우 스 트루브 르 꽁트와르 당르지스트르망 드 라 꽁빠니 에리엔느",
+    "example": "Pardon, où se trouve le comptoir d'enregistrement ?",
+    "exampleMeaning": "실례합니다, 탑승 수속 카운터는 어디인가요?",
+    "literal_meaning": "항공 회사의 등록 카운터는 어디에 있습니까",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "Où se trouve",
+        "meaning": "어디에 위치해 있습니까"
+      },
+      {
+        "word": "le comptoir",
+        "meaning": "카운터"
+      },
+      {
+        "word": "d'enregistrement",
+        "meaning": "등록(체크인)의"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_dep_20260707_001",
+    "lang": "de",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Wo ist der Check-in-Schalter der Fluggesellschaft?",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "보 이스트 데어 체크인 샬터 데어 플루크게젤샤프트",
+    "pronunciation_en": "wo ist der check in schalter der fluggesellschaft",
+    "pronunciation_ko": "보 이스트 데어 체크인 샬터 데어 플루크게젤샤프트",
+    "example": "Entschuldigung, wo ist der Check-in-Schalter?",
+    "exampleMeaning": "실례합니다, 체크인 창구는 어디인가요?",
+    "literal_meaning": "항공사의 체크인 창구는 어디입니까",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "Wo ist",
+        "meaning": "어디에 있습니까"
+      },
+      {
+        "word": "der Check-in-Schalter",
+        "meaning": "체크인 창구"
+      },
+      {
+        "word": "der Fluggesellschaft",
+        "meaning": "항공사의"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_dep_20260707_001",
+    "lang": "it",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Dov'è il banco del check-in della compagnia aerea?",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "도베 일 반코 델 체킨 델라 콤파냐 아에레아",
+    "pronunciation_en": "dove il banco del check in della compagnia aerea",
+    "pronunciation_ko": "도베 일 반코 델 체킨 델라 콤파냐 아에레아",
+    "example": "Scusi, dov'è il banco del check-in?",
+    "exampleMeaning": "실례합니다, 체크인 카운터는 어디인가요?",
+    "literal_meaning": "항공사의 체크인 데스크는 어디입니까",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "Dov'è",
+        "meaning": "어디에 있습니까"
+      },
+      {
+        "word": "il banco",
+        "meaning": "데스크/카운터"
+      },
+      {
+        "word": "del check-in",
+        "meaning": "체크인의"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_dep_20260707_001",
+    "lang": "th",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "เคาน์เตอร์เช็คอินของสายการบินอยู่ที่ไหนครับ",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "เคาน์เตอร์ เช็คอิน 콩 สายการบิน 유 ที 나이 ครับ",
+    "pronunciation_en": "khaotoe chek in khong sai kan bin yu thi nai khrap",
+    "pronunciation_ko": "เคาน์เตอร์ เช็คอิน 콩 สายการบิน 유 ที 나이 ครับ",
+    "example": "ขอโทษครับ เคาน์เตอร์เช็คอินอยู่ที่ไหนครับ",
+    "exampleMeaning": "실례합니다, 체크인 카운터는 어디에 있나요?",
+    "literal_meaning": "항공선의 체크인 카운터는 어디에 있습니까",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "เคาน์เตอร์เช็คอิน",
+        "meaning": "체크인 카운터"
+      },
+      {
+        "word": "ของสายการบิน",
+        "meaning": "항공사의"
+      },
+      {
+        "word": "อยู่ที่ไหน",
+        "meaning": "어디에 있나요"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_dep_20260707_001",
+    "lang": "ko",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "항공사 체크인 카운터가 어디에 있나요?",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "항공사 체크인 카운터가 어디에 있나요",
+    "pronunciation_en": "hanggongsa chekeuin kaunteoga eodie innayo",
+    "pronunciation_ko": "항공사 체크인 카운터가 어디에 있나요",
+    "example": "저기요, 항공사 체크인 카운터가 어디에 있나요?",
+    "exampleMeaning": "저기요, 항공사 체크인 카운터가 어디에 있나요?",
+    "literal_meaning": "항공사 체크인 카운터가 어디에 있나요",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "항공사",
+        "meaning": "항공사"
+      },
+      {
+        "word": "체크인 카운터",
+        "meaning": "체크인 카운터"
+      },
+      {
+        "word": "어디에",
+        "meaning": "어디에"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_dep_20260707_001",
+    "lang": "lo",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "ເຄົາເຕີເຊັກອິນຂອງສາຍການບິນຢູ່ໃສ?",
+    "meaning": "항공사 체크인 카운터가 어디에 있나요?",
+    "pronunciation": "ເຄົາເຕີ ເຊັກອິນ 콩 สายการบิน 유 사이",
+    "pronunciation_en": "khaotoe sek in khong sai kan bin yu sai",
+    "pronunciation_ko": "ເຄົາເຕີ ເຊັກອິນ 콩 สายการบิน 유 사이",
+    "example": "ຂໍໂທດ, ເຄົາເຕີເຊັກອິນຢູ່ໃສ?",
+    "exampleMeaning": "실례합니다, 체크인 카운터는 어디인가요?",
+    "literal_meaning": "비행선의 체크인 카운터는 어디에 있습니까",
+    "nuance": "출국하기 전 짐을 맡기고 보딩패스를 발급받기 위해 자신이 이용하는 항공사의 카운터 위치를 물어보는 핵심 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "ເຄົາເຕີ",
+        "meaning": "카운터"
+      },
+      {
+        "word": "ເຊັກອິນ",
+        "meaning": "체크인"
+      },
+      {
+        "word": "ຢູ່ໃສ",
+        "meaning": "어디에 있나요"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_dep_20260707_002",
+    "lang": "en",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Can I take this bag as carry-on luggage?",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "캔 아이 테이크 디스 백 애즈 캐리온 러기지",
+    "pronunciation_en": "can i take this bag as carry on luggage",
+    "pronunciation_ko": "캔 아이 테이크 디스 백 애즈 캐리온 러기지",
+    "example": "Can I take this bag as carry-on luggage?",
+    "exampleMeaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "literal_meaning": "이 가방을 가지고 타는 수하물로서 가져갈 수 있나요",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "Can I take",
+        "meaning": "제가 가져갈 수 있나요"
+      },
+      {
+        "word": "this bag",
+        "meaning": "이 가방을"
+      },
+      {
+        "word": "as carry-on",
+        "meaning": "기내 반입으로"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_dep_20260707_002",
+    "lang": "ja",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "このバッグは機内持ち込みできますか？",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "코노 밧구와 키나이 모치코미 데키마스카",
+    "pronunciation_en": "kono baggu wa kinai mochikomi dekimasuka",
+    "pronunciation_ko": "코노 밧구와 키나이 모치코미 데키마스카",
+    "example": "すみません、このバッグは機内持ち込みできますか？",
+    "exampleMeaning": "실례합니다, 이 가방은 기내 반입이 되나요?",
+    "literal_meaning": "이 가방은 기내 반입 가능합니까",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "この",
+        "meaning": "이"
+      },
+      {
+        "word": "バッグ",
+        "meaning": "가방"
+      },
+      {
+        "word": "機内持ち込み",
+        "meaning": "기내 반입"
+      },
+      {
+        "word": "できますか",
+        "meaning": "할 수 있습니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_dep_20260707_002",
+    "lang": "zh",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "这个包可以作为随身行李带上飞机吗？",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "저 거 바오 커 이 주오 웨이 수이 션 싱 리 다이 샹 페이 지 마",
+    "pronunciation_en": "zhè ge bāo kě yǐ zuò wéi suí shēn xíng lǐ dài shàng fēi jī ma",
+    "pronunciation_ko": "저 거 바오 커 이 주오 웨이 수이 션 싱 리 다이 샹 페이 지 마",
+    "example": "请问，这个包可以作为随身行李吗？",
+    "exampleMeaning": "이 가방을 기내용 수하물로 할 수 있나요?",
+    "literal_meaning": "이 가방은 휴대 수하물로서 비행기에 들고 탈 수 있습니까",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "这个包",
+        "meaning": "이 가방"
+      },
+      {
+        "word": "可以",
+        "meaning": "할 수 있다"
+      },
+      {
+        "word": "作为随身行李",
+        "meaning": "기내 수하물로서"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_dep_20260707_002",
+    "lang": "es",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "¿Puedo llevar esta bolsa como equipaje de mano?",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "푸에도 예바르 에스타 볼사 코모 에끼빠헤 데 마노",
+    "pronunciation_en": "puedo llevar esta bolsa como equipaje de mano",
+    "pronunciation_ko": "푸에도 예바르 에스타 볼사 코모 에끼빠헤 데 마노",
+    "example": "¿Puedo llevar esta bolsa como equipaje de mano?",
+    "exampleMeaning": "이 가방을 기내 수하물로 들고 탈 수 있나요?",
+    "literal_meaning": "내가 이 가방을 손의 수하물로 가져갈 수 있습니까",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "¿Puedo llevar",
+        "meaning": "제가 가져갈 수 있습니까"
+      },
+      {
+        "word": "esta bolsa",
+        "meaning": "이 가방을"
+      },
+      {
+        "word": "equipaje de mano",
+        "meaning": "기내(손) 수하물"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_dep_20260707_002",
+    "lang": "fr",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Puis-je prendre ce sac comme bagage à main ?",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "쀠쥬 프헝드르 쓰 싹 꼼 바갸쥬 아 망",
+    "pronunciation_en": "puis je prendre ce sac comme bagage a main",
+    "pronunciation_ko": "쀠쥬 프헝드르 쓰 싹 꼼 바갸쥬 아 망",
+    "example": "Pardon, puis-je prendre ce sac comme bagage à main ?",
+    "exampleMeaning": "실례합니다, 이 가방을 기내에 들고 갈 수 있나요?",
+    "literal_meaning": "내가 이 가방을 손 가방으로서 가져갈 수 있나요",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "Puis-je",
+        "meaning": "제가 할 수 있나요"
+      },
+      {
+        "word": "prendre",
+        "meaning": "가져가다/타다"
+      },
+      {
+        "word": "bagage à main",
+        "meaning": "기내 수하물"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_dep_20260707_002",
+    "lang": "de",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Darf ich diese Tasche als Handgepäck mitnehmen?",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "다르프 이히 디제 타셰 알스 한트게팩 미트네멘",
+    "pronunciation_en": "darf ich diese tasche als handgepack mitnehmen",
+    "pronunciation_ko": "다르프 이히 디제 타셰 알스 한트게팩 미트네멘",
+    "example": "Entschuldigung, darf ich diese Tasche als Handgepäck mitnehmen?",
+    "exampleMeaning": "실례합니다, 이 가방을 기내 수하물로 들고 가도 되나요?",
+    "literal_meaning": "내가 이 가방을 손짐으로서 함께 가져가도 됩니까",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "Darf ich",
+        "meaning": "제가 ~해도 되나요"
+      },
+      {
+        "word": "diese Tasche",
+        "meaning": "이 가방을"
+      },
+      {
+        "word": "Handgepäck",
+        "meaning": "수제 수하물(기내용)"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_dep_20260707_002",
+    "lang": "it",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Posso portare questa borsa come bagaglio a mano?",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "포소 포르타레 쿠에스타 보르사 코메 바갈료 아 마노",
+    "pronunciation_en": "posso portare questa borsa come bagaglio a mano",
+    "pronunciation_ko": "포소 포르타레 쿠에스타 보르사 코메 바갈료 아 마노",
+    "example": "Scusi, posso portare questa borsa come bagaglio a mano?",
+    "exampleMeaning": "실례합니다, 이 가방을 기내 수하물로 가져갈 수 있나요?",
+    "literal_meaning": "내가 이 가방을 손 가방으로서 가져갈 수 있습니까",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "Posso portare",
+        "meaning": "가져갈 수 있습니까"
+      },
+      {
+        "word": "questa borsa",
+        "meaning": "이 가방을"
+      },
+      {
+        "word": "bagaglio a mano",
+        "meaning": "기내 수하물"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_dep_20260707_002",
+    "lang": "th",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "ฉันนำกระเป๋าใบนี้ขึ้นเครื่องได้ไหมครับ",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "ฉัน นำ กระเป๋าใบนี้ ขึ้นเครื่อง ได้ไหม ครับ",
+    "pronunciation_en": "chan nam krapao bai ni khuen khrueang dai mai khrap",
+    "pronunciation_ko": "ฉัน นำ กระเป๋าใบนี้ ขึ้นเครื่อง ได้ไหม ครับ",
+    "example": "ขอโทษครับ ฉันนำกระเป๋าใบนี้ขึ้นเครื่องได้ไหมครับ",
+    "exampleMeaning": "실례합니다, 이 가방을 기내로 들고 타도 될까요?",
+    "literal_meaning": "내가 이 가방을 기계(비행기)에 올려 가져가도 됩니까",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "นำ",
+        "meaning": "가져가다"
+      },
+      {
+        "word": "กระเป๋าใบนี้",
+        "meaning": "이 가방을"
+      },
+      {
+        "word": "ขึ้นเครื่อง",
+        "meaning": "비행기에 오르다"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_dep_20260707_002",
+    "lang": "ko",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "이 가방을 기내 수하물로 가지고 탈 수 있나요",
+    "pronunciation_en": "i gabangeul ginae suhamullo gajigo tal su innayo",
+    "pronunciation_ko": "이 가방을 기내 수하물로 가지고 탈 수 있나요",
+    "example": "저기요, 이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "exampleMeaning": "저기요, 이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "literal_meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "이 가방을",
+        "meaning": "이 가방을"
+      },
+      {
+        "word": "기내 수하물로",
+        "meaning": "비행기 안의 짐으로"
+      },
+      {
+        "word": "가지고",
+        "meaning": "지니고"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_dep_20260707_002",
+    "lang": "lo",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "ຂ້ອຍເອົາກະເປົາໜ່ວຍນີ້ຂຶ້ນເຄື່ອງໄດ້ບໍ່?",
+    "meaning": "이 가방을 기내 수하물로 가지고 탈 수 있나요?",
+    "pronunciation": "ຂ້ອຍ ເອົາ ກະເປົາໜ່ວຍນີ້ ຂຶ້ນເຄື່ອງ ໄດ້ບໍ່",
+    "pronunciation_en": "khoy ao kapao nuay ni khuen khrueang dai bo",
+    "pronunciation_ko": "ຂ້ອຍ ເອົາ ກະເປົາໜ່ວຍນີ້ ຂຶ້ນເຄື່ອງ ໄດ້ບໍ່",
+    "example": "ຂໍໂທດ, ຂ້ອຍເອົາກະເປົາໜ່ວຍນີ້ຂຶ້ນເຄື່ອງໄດ້ບໍ່?",
+    "exampleMeaning": "실례합니다, 이 가방 기내로 가져가도 되나요?",
+    "literal_meaning": "내가 이 가방을 비행기에 가져가도 됩니까",
+    "nuance": "체크인 시 가방 크기나 무게가 애매할 때 직원의 허락이나 조언을 구하는 중요한 문장입니다. 'Carry-on'이나 'Hand baggage'라는 표현이 쓰입니다.",
+    "word_breakdown": [
+      {
+        "word": "ເອົາ",
+        "meaning": "가져가다"
+      },
+      {
+        "word": "ກະເປົາໜ່ວຍນີ້",
+        "meaning": "이 가방을"
+      },
+      {
+        "word": "ຂຶ້ນເຄື່ອງ",
+        "meaning": "비행기를 타다"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_dep_20260707_003",
+    "lang": "en",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Has the boarding gate changed?",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "해즈 더 보딩 게이트 체인지드",
+    "pronunciation_en": "has the boarding gate changed",
+    "pronunciation_ko": "해즈 더 보딩 게이트 체인지드",
+    "example": "Excuse me, has the boarding gate changed?",
+    "exampleMeaning": "실례합니다, 탑승 게이트가 변경되었나요?",
+    "literal_meaning": "탑승 게이트가 변경되었나요",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "Has",
+        "meaning": "~되었나요 (완료)"
+      },
+      {
+        "word": "the boarding gate",
+        "meaning": "탑승 게이트가"
+      },
+      {
+        "word": "changed",
+        "meaning": "변경되었다"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_dep_20260707_003",
+    "lang": "ja",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "搭乗ゲートは変更されましたか？",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "토-죠-게-토와 헨코-사레마시타카",
+    "pronunciation_en": "toujou geeto wa henkou saremashitaka",
+    "pronunciation_ko": "토-죠-게-토와 헨코-사레마시타카",
+    "example": "すみません、搭乗ゲートは変更されましたか？",
+    "exampleMeaning": "저기요, 탑승 게이트가 바뀌었나요?",
+    "literal_meaning": "탑승 게이트는 변경되었습니까",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "搭乗",
+        "meaning": "탑승"
+      },
+      {
+        "word": "ゲート",
+        "meaning": "게이트"
+      },
+      {
+        "word": "変更",
+        "meaning": "변경"
+      },
+      {
+        "word": "されましたか",
+        "meaning": "되었습니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_dep_20260707_003",
+    "lang": "zh",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "登机口变更了吗？",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "덩 지 코우 비엔 겅 러 마",
+    "pronunciation_en": "dēng jī kǒu biàn gèng le ma",
+    "pronunciation_ko": "덩 지 코우 비엔 겅 러 마",
+    "example": "请问，登机口变更了吗？",
+    "exampleMeaning": "말씀 좀 묻겠습니다, 탑승구가 바뀌었나요?",
+    "literal_meaning": "탑승구가 변경되었습니까",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "登机口",
+        "meaning": "탑승구"
+      },
+      {
+        "word": "变更",
+        "meaning": "변경하다"
+      },
+      {
+        "word": "了",
+        "meaning": "과거형(완료)"
+      },
+      {
+        "word": "吗",
+        "meaning": "의문사"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_dep_20260707_003",
+    "lang": "es",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "¿Ha cambiado la puerta de embarque?",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "아 캄비아도 라 푸에르타 데 엠바르께",
+    "pronunciation_en": "ha cambiado la puerta de embarque",
+    "pronunciation_ko": "아 캄비아도 라 푸에르타 데 엠바르께",
+    "example": "Disculpe, ¿ha cambiado la puerta de embarque?",
+    "exampleMeaning": "실례합니다, 탑승구가 바뀌었나요?",
+    "literal_meaning": "승선 문이 변경되었습니까",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "¿Ha cambiado",
+        "meaning": "변경되었나요"
+      },
+      {
+        "word": "la puerta",
+        "meaning": "문이"
+      },
+      {
+        "word": "de embarque",
+        "meaning": "탑승의"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_dep_20260707_003",
+    "lang": "fr",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "La porte d'embarquement a-t-elle changé ?",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "라 뽀르뜨 담바르끄망 아 뗄 샹제",
+    "pronunciation_en": "la porte d'embarquement a t elle change",
+    "pronunciation_ko": "라 뽀르뜨 담바르끄망 아 뗄 샹제",
+    "example": "Pardon, la porte d'embarquement a-t-elle changé ?",
+    "exampleMeaning": "실례합니다, 탑승 게이트가 변경되었나요?",
+    "literal_meaning": "탑승 문이 변경되었나요",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "La porte",
+        "meaning": "문"
+      },
+      {
+        "word": "d'embarquement",
+        "meaning": "탑승의"
+      },
+      {
+        "word": "a-t-elle",
+        "meaning": "그것이 ~했나요"
+      },
+      {
+        "word": "changé",
+        "meaning": "변경되다"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_dep_20260707_003",
+    "lang": "de",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Hat sich das Gate geändert?",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "핫 지히 다스 게이트 게엔더트",
+    "pronunciation_en": "hat sich das gate geandert",
+    "pronunciation_ko": "핫 지히 다스 게이트 게엔더트",
+    "example": "Entschuldigung, hat sich das Gate geändert?",
+    "exampleMeaning": "실례합니다, 게이트가 바뀌었나요?",
+    "literal_meaning": "그 게이트가 스스로를 변경했나요",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "Hat sich",
+        "meaning": "스스로를 ~했나요"
+      },
+      {
+        "word": "das Gate",
+        "meaning": "게이트가"
+      },
+      {
+        "word": "geändert",
+        "meaning": "변경했다"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_dep_20260707_003",
+    "lang": "it",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "Il gate d'imbarco è cambiato?",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "일 게이트 딤바르코 에 캄비아토",
+    "pronunciation_en": "il gate d'imbarco e cambiato",
+    "pronunciation_ko": "일 게이트 딤바르코 에 캄비아토",
+    "example": "Scusi, il gate d'imbarco è cambiato?",
+    "exampleMeaning": "실례합니다, 탑승 게이트가 변경되었나요?",
+    "literal_meaning": "탑승 게이트가 변경되었습니까",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "Il gate",
+        "meaning": "게이트"
+      },
+      {
+        "word": "d'imbarco",
+        "meaning": "탑승의"
+      },
+      {
+        "word": "è cambiato",
+        "meaning": "변경되었다"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_dep_20260707_003",
+    "lang": "th",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "เกทขึ้นเครื่องเปลี่ยนหรือเปล่าครับ",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "เกท ขึ้นเครื่อง เปลี่ยน หรือเปล่า ครับ",
+    "pronunciation_en": "get khuen khrueang plian rue plao khrap",
+    "pronunciation_ko": "เกท ขึ้นเครื่อง เปลี่ยน หรือเปล่า ครับ",
+    "example": "ขอโทษครับ เกทขึ้นเครื่องเปลี่ยนหรือเปล่าครับ",
+    "exampleMeaning": "실례합니다, 탑승 게이트가 바뀌었나요?",
+    "literal_meaning": "비행기 타는 게이트가 바뀌었습니까 아니면 아닙니까",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "เกท",
+        "meaning": "게이트"
+      },
+      {
+        "word": "ขึ้นเครื่อง",
+        "meaning": "비행기에 타다"
+      },
+      {
+        "word": "เปลี่ยน",
+        "meaning": "바뀌다"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_dep_20260707_003",
+    "lang": "ko",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "탑승 게이트가 변경되었나요?",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "탑승 게이트가 변경되었나요",
+    "pronunciation_en": "tapseung geiteuga byeonggyeongdoeeonnayo",
+    "pronunciation_ko": "탑승 게이트가 변경되었나요",
+    "example": "저기요, 탑승 게이트가 변경되었나요?",
+    "exampleMeaning": "저기요, 탑승 게이트가 변경되었나요?",
+    "literal_meaning": "탑승 게이트가 변경되었나요",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "탑승",
+        "meaning": "비행기에 탐"
+      },
+      {
+        "word": "게이트가",
+        "meaning": "게이트가"
+      },
+      {
+        "word": "변경되었나요",
+        "meaning": "바뀌었습니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_dep_20260707_003",
+    "lang": "lo",
+    "type": "word",
+    "category": "Airport - Departures",
+    "tone": "Formal",
+    "text": "ປະຕູຂຶ້ນເຄື່ອງປ່ຽນແປງບໍ?",
+    "meaning": "탑승 게이트가 변경되었나요?",
+    "pronunciation": "ປະຕູ ຂຶ້ນເຄື່ອງ ປ່ຽນແປງ ບໍ",
+    "pronunciation_en": "patu khuen khrueang pian paeng bo",
+    "pronunciation_ko": "ປະຕູ ຂຶ້ນເຄື່ອງ ປ່ຽນແປງ ບໍ",
+    "example": "ຂໍໂທດ, ປະຕູຂຶ້ນເຄື່ອງປ່ຽນແປງບໍ?",
+    "exampleMeaning": "실례합니다, 탑승 게이트가 변경되었나요?",
+    "literal_meaning": "기계에 오르는 문이 변경되었습니까",
+    "nuance": "출국 라운지에서 탑승 안내 방송을 잘 듣지 못했거나 전광판 정보와 다를 때, 주변 직원에게 게이트 변경 여부를 재차 확인할 때 사용합니다.",
+    "word_breakdown": [
+      {
+        "word": "ປະຕູ",
+        "meaning": "문(게이트)"
+      },
+      {
+        "word": "ຂຶ້ນເຄື່ອງ",
+        "meaning": "탑승하다"
+      },
+      {
+        "word": "ປ່ຽນແປງ",
+        "meaning": "변경되다"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_pub_20260707_001",
+    "lang": "en",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Does this bus go to City Hall station?",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "더즈 디스 버스 고 투 시티 홀 스테이션",
+    "pronunciation_en": "does this bus go to city hall station",
+    "pronunciation_ko": "더즈 디스 버스 고 투 시티 홀 스테이션",
+    "example": "Excuse me, does this bus go to City Hall station?",
+    "exampleMeaning": "실례합니다, 이 버스 시청역 가나요?",
+    "literal_meaning": "이 버스가 시청역으로 가나요",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "Does",
+        "meaning": "조동사"
+      },
+      {
+        "word": "this bus",
+        "meaning": "이 버스가"
+      },
+      {
+        "word": "go to",
+        "meaning": "~로 가다"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_pub_20260707_001",
+    "lang": "ja",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "このバスは市庁駅に行きますか？",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "코노 バス와 시쵸-에키니 이키마스카",
+    "pronunciation_en": "kono basu wa shichoueki ni ikimasuka",
+    "pronunciation_ko": "코노 バス와 시쵸-에키니 이키마스카",
+    "example": "すみません、このバスは市庁駅に行きますか？",
+    "exampleMeaning": "저기요, 이 버스 시청역 가나요?",
+    "literal_meaning": "이 버스는 시청역에 갑니까",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "この",
+        "meaning": "이"
+      },
+      {
+        "word": "バス",
+        "meaning": "버스"
+      },
+      {
+        "word": "市庁駅",
+        "meaning": "시청역"
+      },
+      {
+        "word": "行きますか",
+        "meaning": "갑니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_pub_20260707_001",
+    "lang": "zh",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "这辆巴士到市政厅站吗？",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "저 리앙 바 스 따오 스 정 팅 잔 마",
+    "pronunciation_en": "zhè liàng bā shì dào shì zhèng tīng zhàn ma",
+    "pronunciation_ko": "저 리앙 바 스 따오 스 정 팅 잔 마",
+    "example": "你好，这辆巴士到市政厅站吗？",
+    "exampleMeaning": "안녕하세요, 이 버스 시청역에 가나요?",
+    "literal_meaning": "이 버스는 시정청 역에 도착합니까",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "这辆",
+        "meaning": "이 (차량)"
+      },
+      {
+        "word": "巴士",
+        "meaning": "버스"
+      },
+      {
+        "word": "到",
+        "meaning": "도착하다"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_pub_20260707_001",
+    "lang": "es",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "¿Este autobús va a la estación del Ayuntamiento?",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "에스테 아우토부스 바 아 라 에스타시온 델 아윤타미엔토",
+    "pronunciation_en": "este autobus va a la estacion del ayuntamiento",
+    "pronunciation_ko": "에스테 아우토부스 바 아 라 에스타시온 델 아윤타미엔토",
+    "example": "Disculpe, ¿este autobús va a la estación del Ayuntamiento?",
+    "exampleMeaning": "실례합니다, 이 버스 시청역 가나요?",
+    "literal_meaning": "이 버스는 시청 역으로 갑니까",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "¿Este autobús",
+        "meaning": "이 버스가"
+      },
+      {
+        "word": "va a",
+        "meaning": "~로 가다"
+      },
+      {
+        "word": "la estación",
+        "meaning": "역"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_pub_20260707_001",
+    "lang": "fr",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Ce bus va-t-il à la station Hôtel de Ville ?",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "쓰 뷔스 바 띨 아 라 스따씨옹 오뗄 드 빌",
+    "pronunciation_en": "ce bus va t il a la station hotel de ville",
+    "pronunciation_ko": "쓰 뷔스 바 띨 아 라 스따씨옹 오뗄 드 빌",
+    "example": "Pardon, ce bus va-t-il à la station Hôtel de Ville ?",
+    "exampleMeaning": "실례합니다, 이 버스가 시청역에 가나요?",
+    "literal_meaning": "이 버스가 시청역으로 가나요",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "Ce bus",
+        "meaning": "이 버스가"
+      },
+      {
+        "word": "va-t-il",
+        "meaning": "그것이 갑니까"
+      },
+      {
+        "word": "Hôtel de Ville",
+        "meaning": "시청"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_pub_20260707_001",
+    "lang": "de",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Fährt dieser Bus zum Rathaus?",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "패르트 디저 부스 춤 라트하우스",
+    "pronunciation_en": "fahrt dieser bus zum rathaus",
+    "pronunciation_ko": "패르트 디저 부스 춤 라트하우스",
+    "example": "Entschuldigung, fährt dieser Bus zum Rathaus?",
+    "exampleMeaning": "실례합니다, 이 버스가 시청으로 가나요?",
+    "literal_meaning": "이 버스는 시청으로 갑니까",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "Fährt",
+        "meaning": "달리다(가다)"
+      },
+      {
+        "word": "dieser Bus",
+        "meaning": "이 버스가"
+      },
+      {
+        "word": "zum Rathaus",
+        "meaning": "시청으로"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_pub_20260707_001",
+    "lang": "it",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Questo autobus va alla stazione del Municipio?",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "쿠에스토 아우토부스 바 알라 스타치오네 델 무니치피오",
+    "pronunciation_en": "questo autobus va alla stazione del municipio",
+    "pronunciation_ko": "쿠에스토 아우토부스 바 알라 스타치오네 델 무니치피오",
+    "example": "Scusi, questo autobus va alla stazione del Municipio?",
+    "exampleMeaning": "실례합니다, 이 버스 시청역 가나요?",
+    "literal_meaning": "이 버스가 시청 역으로 가나요",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "Questo autobus",
+        "meaning": "이 버스가"
+      },
+      {
+        "word": "va alla",
+        "meaning": "~로 가다"
+      },
+      {
+        "word": "Municipio",
+        "meaning": "시청"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_pub_20260707_001",
+    "lang": "th",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "รถเมล์คันนี้ไปสถานีศาลาว่าการไหมครับ",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "รถเมล์คันนี้ ไป สถานีศาลาว่าการ ไหม ครับ",
+    "pronunciation_en": "rot me khan ni pai sathani sala wa kan mai khrap",
+    "pronunciation_ko": "รถเมล์คันนี้ ไป สถานีศาลาว่าการ ไหม ครับ",
+    "example": "ขอโทษครับ รถเมล์คันนี้ไปสถานีศาลาว่าการไหมครับ",
+    "exampleMeaning": "실례합니다, 이 버스 시청역 가나요?",
+    "literal_meaning": "이 버스가 시청 역에 가나요",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "รถเมล์คันนี้",
+        "meaning": "이 버스"
+      },
+      {
+        "word": "ไป",
+        "meaning": "가다"
+      },
+      {
+        "word": "ศาลาว่าการ",
+        "meaning": "시청"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_pub_20260707_001",
+    "lang": "ko",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "이 버스 시청역 가나요?",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "이 버스 시청역 가나요",
+    "pronunciation_en": "i beoseu sicheongyeok ganayo",
+    "pronunciation_ko": "이 버스 시청역 가나요",
+    "example": "저기요, 이 버스 시청역 가나요?",
+    "exampleMeaning": "저기요, 이 버스 시청역 가나요?",
+    "literal_meaning": "이 버스 시청역 가나요",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "이 버스",
+        "meaning": "이 버스가"
+      },
+      {
+        "word": "시청역",
+        "meaning": "시청역을"
+      },
+      {
+        "word": "가나요",
+        "meaning": "갑니까"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_pub_20260707_001",
+    "lang": "lo",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "ລົດເມຄັນນີ້ໄປສະຖານີຫ້ອງການເມືອງບໍ?",
+    "meaning": "이 버스 시청역 가나요?",
+    "pronunciation": "ລົດເມຄັນນີ້ ໄປ ສະຖານີຫ້ອງການເມືອງ ບໍ",
+    "pronunciation_en": "lot me khan ni pai sathani hong kan mueang bo",
+    "pronunciation_ko": "ລົດເມຄັນນີ້ ໄປ ສະຖານີຫ້ອງການເມືອງ ບໍ",
+    "example": "ຂໍໂທດ, ລົດເມຄັນນີ້ໄປສະຖານີຫ້ອງການເມືອງບໍ?",
+    "exampleMeaning": "실례합니다, 이 버스 시청역 가나요?",
+    "literal_meaning": "이 버스가 도시 사무소 역에 갑니까",
+    "nuance": "버스를 타기 직전에 기사나 다른 승객에게 목적지에 정상적으로 가는지 빠르게 확인할 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "ລົດເມຄັນນີ້",
+        "meaning": "이 버스가"
+      },
+      {
+        "word": "ໄປ",
+        "meaning": "가다"
+      },
+      {
+        "word": "ຫ້ອງການເມືອງ",
+        "meaning": "시청"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_pub_20260707_002",
+    "lang": "en",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "I will get off at the next stop.",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "아이 윌 겟 오프 앳 더 넥스트 스탑",
+    "pronunciation_en": "i will get off at the next stop",
+    "pronunciation_ko": "아이 윌 겟 오프 앳 더 넥스트 스탑",
+    "example": "Excuse me, I will get off at the next stop.",
+    "exampleMeaning": "저기요, 다음 정류장에서 내릴게요.",
+    "literal_meaning": "나는 다음 멈춤에서 내릴 것입니다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "get off",
+        "meaning": "내리다"
+      },
+      {
+        "word": "at the next stop",
+        "meaning": "다음 정류장에서"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_pub_20260707_002",
+    "lang": "ja",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "次の停留所で降ります。",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "츠기노 테-류-죠데 오리마스",
+    "pronunciation_en": "tsugi no teiryuujo de orimasu",
+    "pronunciation_ko": "츠기노 테-류-죠데 오리마스",
+    "example": "すみません、次の停留所で降ります。",
+    "exampleMeaning": "저기요, 다음 정류장에서 내릴게요.",
+    "literal_meaning": "다음 정류소에서 내립니다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "次",
+        "meaning": "다음"
+      },
+      {
+        "word": "停留所",
+        "meaning": "정류장"
+      },
+      {
+        "word": "降ります",
+        "meaning": "내립니다"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_pub_20260707_002",
+    "lang": "zh",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "我下一站下车。",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "워 샤 이 잔 샤 처",
+    "pronunciation_en": "wǒ xià yī zhàn xià chē",
+    "pronunciation_ko": "워 샤 이 잔 샤 처",
+    "example": "师傅，我下一站下车。",
+    "exampleMeaning": "기사님, 다음 정거장에서 내릴게요.",
+    "literal_meaning": "나 다음 정거장 차에서 내린다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "下一站",
+        "meaning": "다음 역(정거장)"
+      },
+      {
+        "word": "下车",
+        "meaning": "하차하다"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_pub_20260707_002",
+    "lang": "es",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Me bajo en la próxima parada.",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "메 바호 엔 라 프록시마 파라다",
+    "pronunciation_en": "me bajo en la proxima parada",
+    "pronunciation_ko": "메 바호 엔 라 프록시마 파라다",
+    "example": "Por favor, me bajo en la próxima parada.",
+    "exampleMeaning": "다음 정류장에서 내릴게요.",
+    "literal_meaning": "나는 다음 정류장에서 내린다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "Me bajo",
+        "meaning": "내가 내린다"
+      },
+      {
+        "word": "en la",
+        "meaning": "~에서"
+      },
+      {
+        "word": "próxima parada",
+        "meaning": "다음 정류장"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_pub_20260707_002",
+    "lang": "fr",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Je descends au prochain arrêt.",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "쥬 데쌍 오 프로섕 아레",
+    "pronunciation_en": "je descends au prochain arret",
+    "pronunciation_ko": "쥬 데쌍 오 프로섕 아레",
+    "example": "Pardon, je descends au prochain arrêt.",
+    "exampleMeaning": "실례합니다, 다음 정류장에서 내릴게요.",
+    "literal_meaning": "나는 다음 멈춤에 내린다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "Je descends",
+        "meaning": "나는 내린다"
+      },
+      {
+        "word": "au prochain",
+        "meaning": "다음에"
+      },
+      {
+        "word": "arrêt",
+        "meaning": "정류장"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_pub_20260707_002",
+    "lang": "de",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Ich steige an der nächsten Haltestelle aus.",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "이히 슈타이게 안 데어 네흐스텐 할테슈텔레 아우스",
+    "pronunciation_en": "ich steige an der nachsten haltestelle aus",
+    "pronunciation_ko": "이히 슈타이게 안 데어 네흐스텐 할테슈텔레 아우스",
+    "example": "Entschuldigung, ich steige an der nächsten Haltestelle aus.",
+    "exampleMeaning": "실례합니다, 다음 정류장에서 내릴게요.",
+    "literal_meaning": "나는 다음 정류소에서 하차한다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "steige ... aus",
+        "meaning": "내리다"
+      },
+      {
+        "word": "an der nächsten",
+        "meaning": "다음에"
+      },
+      {
+        "word": "Haltestelle",
+        "meaning": "정류장"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_pub_20260707_002",
+    "lang": "it",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Scendo alla prossima fermata.",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "셴도 알라 프로시마 페르마타",
+    "pronunciation_en": "scendo alla prossima fermata",
+    "pronunciation_ko": "셴도 알라 프로시마 페르마타",
+    "example": "Scusi, scendo alla prossima fermata.",
+    "exampleMeaning": "실례합니다, 다음 정류장에서 내릴게요.",
+    "literal_meaning": "나는 다음 정류장에서 내린다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "Scendo",
+        "meaning": "나는 내린다"
+      },
+      {
+        "word": "alla prossima",
+        "meaning": "다음에"
+      },
+      {
+        "word": "fermata",
+        "meaning": "정류장"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_pub_20260707_002",
+    "lang": "th",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "ฉันจะลงป้ายหน้าครับ",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "ฉัน จะ ลง ป้ายหน้า ครับ",
+    "pronunciation_en": "chan ja long pai na khrap",
+    "pronunciation_ko": "ฉัน จะ ลง ป้ายหน้า ครับ",
+    "example": "พี่ครับ ฉันจะลงป้ายหน้าครับ",
+    "exampleMeaning": "기사님, 저 다음 정류장에서 내릴게요.",
+    "literal_meaning": "나는 앞의 정류장에서 내릴 것입니다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "ลง",
+        "meaning": "내리다"
+      },
+      {
+        "word": "ป้ายหน้า",
+        "meaning": "앞(다음) 정류장"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_pub_20260707_002",
+    "lang": "ko",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "다음 정류장에서 내릴게요.",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "다음 정류장에서 내릴게요",
+    "pronunciation_en": "daeum jeongnyujangeseo naerilkkeyo",
+    "pronunciation_ko": "다음 정류장에서 내릴게요",
+    "example": "기사님, 다음 정류장에서 내릴게요.",
+    "exampleMeaning": "기사님, 다음 정류장에서 내릴게요.",
+    "literal_meaning": "다음 정류장에서 내릴게요",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "다음",
+        "meaning": "다음의"
+      },
+      {
+        "word": "정류장에서",
+        "meaning": "정류장에서"
+      },
+      {
+        "word": "내릴게요",
+        "meaning": "하차하겠습니다"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_pub_20260707_002",
+    "lang": "lo",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "ຂ້ອຍຈະລົງປ້າຍໜ້າ.",
+    "meaning": "다음 정류장에서 내릴게요.",
+    "pronunciation": "ຂ້ອຍ ຈະລົງ ປ້າຍໜ້າ",
+    "pronunciation_en": "khoy ja long pai na",
+    "pronunciation_ko": "ຂ້ອຍ ຈະລົງ ປ້າຍໜ້າ",
+    "example": "ຂໍໂທດ, ຂ້ອຍຈະລົງປ້າຍໜ້າ.",
+    "exampleMeaning": "실례합니다, 다음 정류장에서 내릴게요.",
+    "literal_meaning": "나는 앞의 정류장에서 내릴 것입니다",
+    "nuance": "만원 버스에서 사람들을 뚫고 나가야 하거나, 하차벨이 고장났을 때 기사님에게 직접 하차 의사를 밝힐 때 씁니다.",
+    "word_breakdown": [
+      {
+        "word": "ຈະລົງ",
+        "meaning": "내릴 것이다"
+      },
+      {
+        "word": "ປ້າຍໜ້າ",
+        "meaning": "다음 정류장"
+      }
+    ]
+  },
+  {
+    "id": "ota_en_pub_20260707_003",
+    "lang": "en",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Where can I top up my transit card?",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "웨어 캔 아이 탑 업 마이 트랜짓 카드",
+    "pronunciation_en": "where can i top up my transit card",
+    "pronunciation_ko": "웨어 캔 아이 탑 업 마이 트랜짓 카드",
+    "example": "Excuse me, where can I top up my transit card?",
+    "exampleMeaning": "실례합니다, 교통카드는 어디서 충전하나요?",
+    "literal_meaning": "내 교통카드를 어디서 위로 채울 수 있나요",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "top up",
+        "meaning": "충전하다"
+      },
+      {
+        "word": "transit card",
+        "meaning": "교통카드"
+      }
+    ]
+  },
+  {
+    "id": "ota_ja_pub_20260707_003",
+    "lang": "ja",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "交通カードはどこでチャージできますか？",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "코-츠-카-도와 도코데 챠-지 데키마스카",
+    "pronunciation_en": "koutsuu kaado wa dokode chaaji dekimasuka",
+    "pronunciation_ko": "코-츠-카-도와 도코데 챠-지 데키마스카",
+    "example": "すみません、交通カードはどこでチャージできますか？",
+    "exampleMeaning": "저기요, 교통카드는 어디서 충전하나요?",
+    "literal_meaning": "교통카드는 어디서 충전할 수 있습니까",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "交通カード",
+        "meaning": "교통카드"
+      },
+      {
+        "word": "どこで",
+        "meaning": "어디에서"
+      },
+      {
+        "word": "チャージ",
+        "meaning": "충전"
+      }
+    ]
+  },
+  {
+    "id": "ota_zh_pub_20260707_003",
+    "lang": "zh",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "交通卡在哪里可以充值？",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "지아오 통 카 자이 나 리 커 이 총 지",
+    "pronunciation_en": "jiāo tōng kǎ zài nǎ lǐ kě yǐ chōng zhí",
+    "pronunciation_ko": "지아오 통 카 자이 나 리 커 이 총 지",
+    "example": "请问，交通卡在哪里可以充值？",
+    "exampleMeaning": "실례합니다, 교통카드는 어디서 충전하나요?",
+    "literal_meaning": "교통카드는 어디에서 충전할 수 있습니까",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "交通卡",
+        "meaning": "교통카드"
+      },
+      {
+        "word": "充值",
+        "meaning": "충전하다"
+      }
+    ]
+  },
+  {
+    "id": "ota_es_pub_20260707_003",
+    "lang": "es",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "¿Dónde puedo recargar mi tarjeta de transporte?",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "돈데 푸에도 레카르가르 미 타르헤타 데 트란스포르테",
+    "pronunciation_en": "donde puedo recargar mi tarjeta de transporte",
+    "pronunciation_ko": "돈데 푸에도 레카르가르 미 타르헤타 데 트란스포르테",
+    "example": "Disculpe, ¿dónde puedo recargar mi tarjeta de transporte?",
+    "exampleMeaning": "실례합니다, 교통카드는 어디서 충전하나요?",
+    "literal_meaning": "내 교통 카드를 어디서 재충전할 수 있습니까",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "recargar",
+        "meaning": "충전하다"
+      },
+      {
+        "word": "tarjeta de transporte",
+        "meaning": "교통카드"
+      }
+    ]
+  },
+  {
+    "id": "ota_fr_pub_20260707_003",
+    "lang": "fr",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Où puis-je recharger ma carte de transport ?",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "우 쀠쥬 르샤르제 마 꺄르뜨 드 트랑스뽀르",
+    "pronunciation_en": "ou puis je recharger ma carte de transport",
+    "pronunciation_ko": "우 쀠쥬 르샤르제 마 꺄르뜨 드 트랑스뽀르",
+    "example": "Pardon, où puis-je recharger ma carte de transport ?",
+    "exampleMeaning": "실례합니다, 교통카드는 어디서 충전하나요?",
+    "literal_meaning": "내 교통카드를 어디서 재충전할 수 있나요",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "recharger",
+        "meaning": "충전하다"
+      },
+      {
+        "word": "carte de transport",
+        "meaning": "교통카드"
+      }
+    ]
+  },
+  {
+    "id": "ota_de_pub_20260707_003",
+    "lang": "de",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Wo kann ich meine Fahrkarte aufladen?",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "보 칸 이히 마이네 파르카르테 아우플라덴",
+    "pronunciation_en": "wo kann ich meine fahrkarte aufladen",
+    "pronunciation_ko": "보 칸 이히 마이네 파르카르테 아우플라덴",
+    "example": "Entschuldigung, wo kann ich meine Fahrkarte aufladen?",
+    "exampleMeaning": "실례합니다, 교통카드는 어디서 충전하나요?",
+    "literal_meaning": "어디서 내 승차권을 충전할 수 있습니까",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "Fahrkarte",
+        "meaning": "승차권/교통카드"
+      },
+      {
+        "word": "aufladen",
+        "meaning": "충전하다"
+      }
+    ]
+  },
+  {
+    "id": "ota_it_pub_20260707_003",
+    "lang": "it",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "Dove posso ricaricare la mia tessera dei trasporti?",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "도베 포소 리카리카레 라 미아 테세라 데이 트라스포르티",
+    "pronunciation_en": "dove posso ricaricare la mia tessera dei trasporti",
+    "pronunciation_ko": "도베 포소 리카리카레 라 미아 테세라 데이 트라스포르티",
+    "example": "Scusi, dove posso ricaricare la mia tessera dei trasporti?",
+    "exampleMeaning": "실례합니다, 교통카드는 어디서 충전하나요?",
+    "literal_meaning": "내 교통 카드를 어디서 재충전할 수 있습니까",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "ricaricare",
+        "meaning": "충전하다"
+      },
+      {
+        "word": "tessera dei trasporti",
+        "meaning": "교통카드"
+      }
+    ]
+  },
+  {
+    "id": "ota_th_pub_20260707_003",
+    "lang": "th",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "เติมเงินบัตรโดยสารได้ที่ไหนครับ",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "เติมเงิน บัตรโดยสาร ได้ที่ไหน ครับ",
+    "pronunciation_en": "toem ngoen bat doisan dai thi nai khrap",
+    "pronunciation_ko": "เติมเงิน บัตรโดยสาร ได้ที่ไหน ครับ",
+    "example": "ขอโทษครับ เติมเงินบัตรโดยสารได้ที่ไหนครับ",
+    "exampleMeaning": "실례합니다, 교통카드 충전은 어디서 하나요?",
+    "literal_meaning": "승차 카드 돈을 어디서 추가할 수 있습니까",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "เติมเงิน",
+        "meaning": "돈을 충전하다"
+      },
+      {
+        "word": "บัตรโดยสาร",
+        "meaning": "승차 카드"
+      }
+    ]
+  },
+  {
+    "id": "ota_ko_pub_20260707_003",
+    "lang": "ko",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "교통카드는 어디서 충전할 수 있나요?",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "교통카드는 어디서 충전할 수 있나요",
+    "pronunciation_en": "gyotongkadeuneun eodiseo chungjeonhal su innayo",
+    "pronunciation_ko": "교통카드는 어디서 충전할 수 있나요",
+    "example": "저기요, 교통카드는 어디서 충전할 수 있나요?",
+    "exampleMeaning": "저기요, 교통카드는 어디서 충전할 수 있나요?",
+    "literal_meaning": "교통카드는 어디서 충전할 수 있나요",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "교통카드",
+        "meaning": "교통카드"
+      },
+      {
+        "word": "충전할 수",
+        "meaning": "충전이 가능"
+      }
+    ]
+  },
+  {
+    "id": "ota_lo_pub_20260707_003",
+    "lang": "lo",
+    "type": "word",
+    "category": "Public Transport",
+    "tone": "Casual",
+    "text": "ເຕີມເງິນບັດໂດຍສານໄດ້ຢູ່ໃສ?",
+    "meaning": "교통카드는 어디서 충전할 수 있나요?",
+    "pronunciation": "ເຕີມເງິນ ບັດໂດຍສານ ໄດ້ຢູ່ໃສ",
+    "pronunciation_en": "toem ngoen bat doisan dai yu sai",
+    "pronunciation_ko": "ເຕີມເງິນ ບັດໂດຍສານ ໄດ້ຢູ່ໃສ",
+    "example": "ຂໍໂທດ, ເຕີມເງິນບັດໂດຍສານໄດ້ຢູ່ໃສ?",
+    "exampleMeaning": "실례합니다, 교통카드 충전은 어디서 하나요?",
+    "literal_meaning": "승차 카드 돈을 어디서 충전할 수 있습니까",
+    "nuance": "해외에서 지하철, 버스 등을 이용하기 전 충전기나 편의점 등 충전소의 위치를 물어보는 유용한 질문입니다.",
+    "word_breakdown": [
+      {
+        "word": "ເຕີມເງິນ",
+        "meaning": "충전하다"
+      },
+      {
+        "word": "ບັດໂດຍສານ",
+        "meaning": "승차 카드"
+      }
+    ]
+  }
+]
