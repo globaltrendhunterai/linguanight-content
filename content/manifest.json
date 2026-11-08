@@ -1,7 +1,7 @@
 {
-  "version": "20260707",
-  "updatedAt": "2026-07-07T05:53:29.149Z",
-  "totalCount": 122,
+  "version": "20261108",
+  "updatedAt": "2026-11-08T12:37:00.000Z",
+  "totalCount": 166,
   "langCounts": {
     "en": 9,
     "ja": 9,
@@ -17,8 +17,9 @@
   "deltaFiles": [
     "updates/20260610.json",
     "updates/20260623.json",
-    "updates/20260707.json"
+    "updates/20260707.json",
+    "updates/20261108.json"
   ],
-  "changelog": "공항 및 대중교통 표현 9개 (10개 언어) 추가",
-  "changelogKo": "공항 및 대중교통 표현 9개 (10개 언어) 추가"
+  "changelog": "Shanghai WineKing 3-Part Gourmet & Bilingual Mistranslation Menu Decoder (44 items, KR/EN)",
+  "changelogKo": "와인킹 상하이 3부작(푸동 디궈지·양가후퉁·와인창고) 및 한·영 동시 오번역 해독 사전 44개 추가"
 }

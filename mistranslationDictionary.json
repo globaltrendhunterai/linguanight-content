@@ -1,0 +1,1399 @@
+{
+  "version": "1.6",
+  "updated_at": "2026-11-08",
+  "description": "Bidirectional Mistranslation Decoder, Trap Ingredients Alert & Wine/Local Pairing Dictionary (KR + EN + Local)",
+  "entries": [
+    {
+      "id": "zh_wk_diguoji",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "地锅鸡 + 五花肉 (配锅贴/贴饼)",
+      "meaning": "[상하이 로컬 히든 1위] 테이블에 박힌 거대한 무쇠솥(웍)에 갓 잡은 쫄깃한 닭고기 1근(500g)과 삼겹살 1근(500g)을 팔각·산초 비법 양념으로 자작하게 졸이고, 솥 벽에 밀전병(궈톄)을 붙여 구워 먹는 안후이·산둥식 무쇠솥 닭조림 / Traditional cast-iron wok braised fresh chicken & pork belly with crispy corn/wheat flatbreads stuck around the pot rim",
+      "meaning_ko": "[상하이 로컬 히든 1위] 거대한 무쇠솥(웍)에 갓 잡은 닭고기 1근(500g)과 삼겹살 1근(500g)을 비법 양념으로 자작하게 졸이고, 솥 벽에 밀전병(궈톄)을 붙여 먹는 중국식 무쇠솥 닭·삼겹살 짜글이 조림 (디궈지)",
+      "meaning_en": "Cast-iron wok braised fresh chicken (500g) & pork belly (500g) with flatbreads baked on the hot wok rim (Di Guo Ji)",
+      "literal_meaning": "땅 냄비 닭 + 다섯 꽃 고기 + 냄비 스티커 / Earth Pot Chicken + Five Flower Meat + Pot Sticker",
+      "literal_meaning_ko": "땅 냄비 닭(지과계) + 다섯 꽃 고기(오화육=삼겹살) + 솥 붙이기(과첩=솥빵)",
+      "literal_meaning_en": "Ground Pot Chicken + Five-Flower Meat (Pork Belly) + Pot-Stuck Bread",
+      "pronunciation": "dì guō jī + wǔ huā ròu (guō tiē)",
+      "pronunciation_ko": "디궈지 + 우화러우 (궈톄)",
+      "pronunciation_en": "dee-gwaw-jee + woo-hwah-roh (gwaw-tyeh)",
+      "example": "你好，我们要吃地锅！请来一斤鸡肉、一斤五花肉，微辣，再加一份锅贴（贴饼）。",
+      "exampleMeaning": "안녕하세요, 디궈(무쇠솥 조림) 먹을게요! 닭고기 1근(500g)에 삼겹살 1근(500g) 섞어주시고, 아주 조금만 맵게(미라), 궈톄(솥빵)도 추가해 주세요. / Hello, we'd like Di Guo! One jin (500g) of chicken and one jin of pork belly mixed, mild spicy, plus flatbreads on the rim.",
+      "nuance": "🍷 [유튜버 상하이 극찬 코스 핵심 메뉴] 훠궈와 마라샹궈의 중간(한국의 짜글이·수프 카레 느낌)으로, 솥 벽에서 구워진 납작한 가래떡/난 같은 '궈톄(锅贴)'를 국물에 푹 적셔 삼겹살·닭고기와 먹고 숙성된 바롤로(Barolo)나 시라즈 레드와인을 곁들이면 환상적인 궁합을 자랑합니다! ⚠️ 꿀팁: 중국에서 1근(一斤)은 500g이므로 2인은 '닭 1근 + 삼겹살 1근(또는 갈비 排骨 1근)'이면 충분합니다(갈비는 조리 시간이 20분 걸려 중간 추가 불가, 처음부터 시켜야 함!).",
+      "word_breakdown": [
+        {
+          "word": "地锅鸡 (dìguōjī)",
+          "meaning": "무쇠솥 닭고기 조림 (직역: 땅 냄비 닭) / Iron-wok braised chicken"
+        },
+        {
+          "word": "五花肉 (wǔhuāròu)",
+          "meaning": "삼겹살 (5겹 꽃고기, 1근=500g) / Pork belly"
+        },
+        {
+          "word": "锅贴/贴饼 (guōtiē)",
+          "meaning": "무쇠솥 가장자리에 붙여서 구워 먹는 쫄깃한 솥빵 / Flatbread baked on wok wall"
+        }
+      ]
+    },
+    {
+      "id": "zh_wk_chashugu",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "茶树菇 + 贡菜 + 冬瓜 + 藕片 (地锅配菜)",
+      "meaning": "[디궈지 필수 사리 4총사] 햇볕에 말려 감칠맛과 향이 폭발하는 '차나무버섯(차수구)' + 오독오독한 '줄기상추(공채)' + 달콤하게 익는 '동과' + '연근' / Tea tree mushrooms, crunchy stem lettuce, winter melon & lotus root",
+      "meaning_ko": "[디궈지 필수 사리 4총사] 햇볕에 말려 감칠맛과 향이 폭발하는 '차나무버섯(차수구)' + 오독오독한 '줄기상추(공채)' + 달콤한 '동과' + '연근'",
+      "meaning_en": "Sun-dried tea tree mushrooms (Cha Shu Gu), crunchy stem lettuce, winter melon & lotus root",
+      "literal_meaning": "차 나무 버섯 + 조공 야채 + 겨울 수박 / Tea Tree Fungus + Tribute Vegetable + Winter Watermelon",
+      "literal_meaning_ko": "차나무 곰팡이(차수구) + 황제 진상 채소(공채=줄기상추) + 겨울 참외(동과)",
+      "literal_meaning_en": "Tea Tree Fungus + Tribute Vegetable + Winter Melon",
+      "pronunciation": "chá shù gū + gòng cài + dōng guā + ǒu piàn",
+      "pronunciation_ko": "차수구 + 궁차이 + 동과 + 오우피엔",
+      "pronunciation_en": "chah-shoo-goo + gong-tsai + dong-gwah + oh-pyen",
+      "example": "配菜请加一份茶树菇、一份贡菜（莴笋）、冬瓜、藕片和海带，再来一份凉拌木耳。",
+      "exampleMeaning": "사리로 차나무버섯(차수구), 줄기상추, 동과, 연근, 다시마를 넣어주시고, 목이버섯 냉채(량반무얼)도 1접시 주세요. / Please add tea tree mushrooms, stem lettuce, winter melon, lotus root, kelp, and a cold wood-ear mushroom salad.",
+      "nuance": "🍷 차수구(茶树菇·차나무버섯)는 햇볕에 말렸다 불린 버섯이라 쫄깃쫄깃한 식감과 깊은 감칠맛이 레드와인(바롤로·피노누아) 및 맥주 안주로 세계 Top 5 안에 들 만큼 뛰어납니다! 동과(冬瓜)는 몇 분 더 푹 익혀 먹으면 달콤해서 매콤한 국물과 완벽한 조화를 이룹니다.",
+      "word_breakdown": [
+        {
+          "word": "茶树菇 (cháshùgū)",
+          "meaning": "차나무버섯 (쫄깃하고 향이 진한 특미 버섯) / Tea tree mushroom"
+        },
+        {
+          "word": "贡菜/莴笋 (gòngcài)",
+          "meaning": "줄기상추 (황제에게 진상하던 아삭한 채소) / Stem lettuce"
+        },
+        {
+          "word": "凉拌木耳 (liángbàn mù'ěr)",
+          "meaning": "마늘장아찌 간장 소스의 새콤 짭짤 목이버섯 냉채 / Cold wood-ear mushroom salad"
+        }
+      ]
+    },
+    {
+      "id": "zh_wk_pidandoufu_barolo",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "皮蛋豆腐 (配巴罗洛红酒)",
+      "meaning": "검은 젤리처럼 숙성된 고소한 삭힌 오리알(송화단·피단)과 정갈하게 썬 차가운 연두부 냉채 — 숙성된 이탈리아 바롤로(Barolo) 레드와인과 소름 돋는 극강의 페어링! / Chilled silken tofu with century duck egg in savory soy dressing (Incredible pairing with aged Barolo red wine!)",
+      "meaning_ko": "검은 젤리처럼 숙성된 고소한 삭힌 오리알(송화단·피단)과 정갈하게 썬 차가운 연두부 냉채 — 숙성된 바롤로(Barolo) 레드와인과 소름 돋는 극강의 페어링!",
+      "meaning_en": "Chilled silken tofu with century duck egg in savory soy dressing (Incredible pairing with aged Barolo red wine!)",
+      "literal_meaning": "가죽 알 두부 / 천년 썩은 알 두부 / Leather Egg Tofu / Rotten Egg Tofu",
+      "literal_meaning_ko": "가죽 알 두부 (피단두부 — 번역기가 썩은 알로 오번역!)",
+      "literal_meaning_en": "Leather Egg Tofu / Preserved Egg Tofu",
+      "pronunciation": "pí dàn dòu fu",
+      "pronunciation_ko": "피단 더우푸 (피단두부)",
+      "pronunciation_en": "pee-dahn doh-foo",
+      "example": "请来一份凉菜皮蛋豆腐。我自带了一瓶红酒，可以付开瓶费在这里喝吗？",
+      "exampleMeaning": "냉채로 피단두부 1접시 주세요. 그리고 제가 와인을 한 병 가져왔는데 비용(콜키지)을 내고 여기서 마셔도 될까요? / One century egg tofu salad, please. Also, I brought a bottle of red wine; may I pay corkage to drink it here?",
+      "nuance": "🍷 [충격의 와인 페어링 발견] 피단(송화단)의 크리미하고 녹진한 노른자 감칠맛과 차가운 연두부가 숙성된 바롤로(Barolo)나 부르고뉴 레드와인의 복합적인 부케·산미와 만나면 최고급 치즈 플래터 이상으로 기막히게 어울립니다!",
+      "word_breakdown": [
+        {
+          "word": "皮蛋 (pídàn)",
+          "meaning": "송화단, 삭힌 오리알 (직역: 가죽 알) / Century egg"
+        },
+        {
+          "word": "豆腐 (dòufu)",
+          "meaning": "부드러운 연두부 / Silken tofu"
+        },
+        {
+          "word": "自带红酒 (zìdài hóngjiǔ)",
+          "meaning": "직접 가져온 레드와인 (중국 로컬 식당은 대부분 무료 콜키지 허용!) / Bring your own red wine"
+        }
+      ]
+    },
+    {
+      "id": "zh_wk_nanguabing_diguawan",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "南瓜饼 & 地瓜丸",
+      "meaning": "[3,200원(16위안)의 극락 디저트 듀오] 팥소가 들어간 쫄깃한 인절미 반죽을 단호박 퓨레로 감싸 갓 튀겨낸 약과 모양 '단호박 호떡 튀김(난과빙)' & 겉피와 속앙금 모두 고구마인 '수제 고구마 경단 튀김(디과완)' / Crispy fried pumpkin mochi cakes with red bean paste & handmade sweet potato glutinous balls",
+      "meaning_ko": "[3,200원(16위안)의 극락 디저트 듀오] 팥소가 든 쫄깃한 인절미를 단호박으로 감싸 갓 튀긴 '단호박 호떡 튀김(난과빙)' & 겉과 속이 모두 고구마인 '수제 고구마 경단 튀김(디과완)'",
+      "meaning_en": "Freshly fried crispy pumpkin rice cakes with red bean (Nan Gua Bing) & double sweet potato balls (Di Gua Wan)",
+      "literal_meaning": "남쪽 수박 팬케이크 & 땅 수박 알약 / South Melon Biscuit & Earth Melon Pill",
+      "literal_meaning_ko": "남쪽 참외 떡(남과병=단호박 호떡) & 땅 참외 알(지과환=고구마 경단)",
+      "literal_meaning_en": "South Melon Cake (Pumpkin) & Earth Melon Ball (Sweet Potato)",
+      "pronunciation": "nán guā bǐng & dì guā wán",
+      "pronunciation_ko": "난과빙 (호박호떡) & 디과완 (고구마경단)",
+      "pronunciation_en": "nahn-gwah-bing & dee-gwah-wahn",
+      "example": "甜点请来一份南瓜饼和一份地瓜丸，剩下的请帮我打包。",
+      "exampleMeaning": "디저트로 단호박 호떡(난과빙) 1개와 고구마 경단(디과완) 1개 주세요. 남은 건 포장(다바오)해 주세요. / For dessert, one pumpkin cake and one sweet potato ball please, and please pack the leftovers to go.",
+      "nuance": "🍷 주문 즉시 하나하나 튀겨내어 얼굴 가까이만 가져가도 열기가 느껴질 만큼 뜨겁고 겉바속쫀득한 중국 식당 숨은 보석 디저트입니다(각 16위안=약 3,200원!). 몽바지악(Monbazillac), 소테른(Sauternes), 모스카토 다스티(Moscato d'Asti) 같은 스위트 디저트 와인과 함께 먹으면 천상의 맛입니다.",
+      "word_breakdown": [
+        {
+          "word": "南瓜饼 (nánguābǐng)",
+          "meaning": "단호박 찹쌀 호떡 튀김 (직역: 남쪽 과일 병) / Fried pumpkin glutinous cake"
+        },
+        {
+          "word": "地瓜丸 (dìguāwán)",
+          "meaning": "고구마 경단 완자 튀김 (직역: 땅 과일 환) / Fried sweet potato ball"
+        }
+      ]
+    },
+    {
+      "id": "zh_wk_dayoubian",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "大油边 (烤大油边)",
+      "meaning": "[상하이 동북 양꼬치집 필수 주문 1위] 내장이 아니라 쫄깃하고 육즙이 가득한 길림성식 '돼지 갈매기살(특수부위) 대왕 꼬치구이' — 양고기 못 드시는 분도 극찬하는 맛! / Jilin-style grilled juicy pork skirt meat (diaphragm) skewers — NOT offal!",
+      "meaning_ko": "[상하이 동북 양꼬치집 필수 주문 1위] 내장이 아니라 쫄깃하고 육즙이 가득한 길림성식 '돼지 갈매기살(특수부위) 대왕 꼬치구이' (따여우비엔)",
+      "meaning_en": "Jilin-style grilled juicy pork skirt meat (diaphragm) skewers (Da You Bian — NOT offal!)",
+      "literal_meaning": "큰 기름 가장자리 / 거대한 기름 테두리 / Big Oil Edge / Large Fat Border",
+      "literal_meaning_ko": "큰 기름 가장자리 (대유변 — 기름 덩어리나 내장으로 오번역!)",
+      "literal_meaning_en": "Big Oil Edge / Large Grease Side",
+      "pronunciation": "dà yóu biān",
+      "pronunciation_ko": "따여우비엔 (대유변)",
+      "pronunciation_en": "dah-yoh-byen",
+      "example": "请来四串羊肉串、一份烤羊排、两串大油边和一份烤韭菜！",
+      "exampleMeaning": "양꼬치 4꼬치, 삼지창 양갈비구이 1개, 돼지 갈매기살 꼬치(따여우비엔) 2꼬치, 부추구이 1접시 주세요! / Four lamb skewers, one grilled lamb ribs, two pork skirt skewers (Da You Bian), and grilled garlic chives!",
+      "nuance": "💡 번역기에 '큰 기름 가장자리(Big Oil Edge)'라고 떠서 비계 덩어리나 내장인 줄 알고 못 시키지만, 실제로는 큼직하게 썬 쫄깃하고 고소한 돼지 갈매기살 꼬치구이입니다! 상하이 푸동 '양가후퉁(羊家胡同)' 등 동북 꼬치집에서 헌지우이치엔보다 훨씬 맛있다고 극찬받은 핵심 메뉴입니다.",
+      "word_breakdown": [
+        {
+          "word": "大 (dà)",
+          "meaning": "큼직하게 썬 고기 조각 / Large cut"
+        },
+        {
+          "word": "油边 (yóubiān)",
+          "meaning": "육즙과 고소한 기름기가 감도는 돼지 갈매기살 특수부위 / Juicy pork skirt meat"
+        }
+      ]
+    },
+    {
+      "id": "zh_wk_dongbeidalapi",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "东北大拉皮 (麻酱拉皮)",
+      "meaning": "고소한 땅콩소스(마장)와 진한 들깨 향, 마늘·고추기름에 오이·당근과 넓적하고 탱글탱글한 감자·녹두 전분 당면을 버무린 동북식 양장피 냉채 / Northeastern Chinese wide glassy starch noodles tossed in rich sesame-peanut & perilla dressing",
+      "meaning_ko": "고소한 땅콩소스(마장)와 진한 들깨 향에 넓적하고 탱글한 전분 당면을 버무린 동북식 양장피 냉채 (동북 대라피)",
+      "meaning_en": "Northeastern wide glassy starch noodles tossed in rich sesame-peanut & perilla sauce (Dongbei Da Lapi)",
+      "literal_meaning": "동북의 큰 당긴 가죽 / 피부를 잡아당기다 / Northeast Big Pulled Skin (Face Lift)",
+      "literal_meaning_ko": "동북 큰 당긴 가죽 / 안면거상술 (대라피 — 중국어로 拉皮가 성형수술 리프팅과 동음이의어!)",
+      "literal_meaning_en": "Big Pulled Skin / Face-Lift Skin",
+      "pronunciation": "dōng běi dà lā pí",
+      "pronunciation_ko": "동베이 따라피 (냥피 / 라피)",
+      "pronunciation_en": "dong-bay dah lah-pee",
+      "example": "请来一份东北大拉皮、一份酸辣土豆丝和一份烧茄子。",
+      "exampleMeaning": "동북 대라피(전분 양장피 냉채) 1접시, 매콤새콤 감자채볶음(투더우쓰) 1접시, 두반장 가지볶음(샤오치에즈) 1접시 주세요. / One Dongbei Lapi cold noodle salad, one stir-fried shredded potatoes, and one braised eggplant, please.",
+      "nuance": "💡 중국어로 '라피(拉皮)'가 '피부를 당기다(안면 리프팅 성형)'라는 뜻도 있어서 번역기가 '당긴 가죽/피부 리프팅'으로 엉뚱하게 번역합니다! 실제로는 땅콩소스와 들깨 향의 조화가 미친 듯이 고소한 넓적 전분 냉채로, 화이트와인이나 맥주 안주로 최고입니다.",
+      "word_breakdown": [
+        {
+          "word": "东北 (dōngběi)",
+          "meaning": "중국 동북 지방(길림·하얼빈·선양) 스타일 / Northeastern style"
+        },
+        {
+          "word": "拉皮 (lāpí)",
+          "meaning": "넓적하고 쫄깃하게 뽑아낸 전분 양장피 면 (직역: 당긴 가죽) / Wide translucent starch sheet noodles"
+        }
+      ]
+    },
+    {
+      "id": "zh_wk_maiyijiayi_wine",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "买一加一 / 买一送一 (酒水超市避坑 & 张裕蛇龙珠 / 牛栏山 / 郎酒)",
+      "meaning": "[상하이 주류 마트 와인·백주 쇼핑 공식] ① '买一加一(1+1 행사)'는 대부분 반값 와인을 2배 가격표 붙여 파는 마케팅 함정이니 주의! (단, DOCG 인증 정통 이태리 바롤로 등 진주 발굴 가능), ② 중국 와인은 장청(长城)보다 '장위(张裕) 카베르네 게르니슈트(蛇龙珠)'가 압승, ③ 가성비 고량주는 연태 대신 3,000원짜리 '뉴란산(牛栏山 42도)' 또는 배·파인애플 향의 '랑주(郎酒)' 추천! / Shanghai Wine Store Guide: Beware of 'Buy 1 Get 1' traps; pick Changyu Cabernet Gernischt, Niulanshan Erguotou, or Langjiu Baijiu",
+      "meaning_ko": "[상하이 주류 마트 와인·백주 공식] ① '买一加一(1+1 행사)' 마케팅 함정 주의(DOCG 인증 확인 필수), ② 중국 와인은 '장위(张裕) 카베르네 게르니슈트(蛇龙珠)' 추천, ③ 백주는 3,000원 '뉴란산(牛栏山)' 및 파인애플향 '랑주(郎酒)', 맥주는 사과향 '상하이 리보(力波)' 추천!",
+      "meaning_en": "Shanghai Wine & Liquor Buying Guide: Spot real bargains vs. 'Buy 1 Get 1 (买一加一)' traps; top local picks: Changyu Cabernet Gernischt, Niulanshan, Langjiu & Reeb Beer",
+      "literal_meaning": "하나 사면 하나 더함 / 뱀 용 구슬 포도주 / 소 우리 산 / 사내 술",
+      "literal_meaning_ko": "뱀 용 구슬(사룡주=카베르네 게르니슈트 품종) / 소 울타리 산(우란산 백주)",
+      "literal_meaning_en": "Snake Dragon Pearl Wine (Cabernet Gernischt) / Cow Fence Mountain Liquor (Niulanshan)",
+      "pronunciation": "mǎi yī jiā yī / zhāng yù shé lóng zhū / niú lán shān / láng jiǔ",
+      "pronunciation_ko": "마이 이 찌아 이 (1+1) / 장위 셔롱주 / 뉴란산 / 랑지우",
+      "pronunciation_en": "mai-ee-jyah-ee / jahng-yoo shuh-long-joo / nyoh-lahn-shahn / lahng-jyoh",
+      "example": "请问左边是会员价，右边是非会员价吗？可以用支付宝（Alipay）或信用卡刷卡吗？",
+      "exampleMeaning": "왼쪽 가격은 회원가이고 오른쪽은 비회원 일반 가격인가요? 알리페이나 해외 신용카드 결제가 가능한가요? / Is the left price the member price and the right the regular price? Can I pay with Alipay or credit card?",
+      "nuance": "🍷 [푸동 바이양로 383호(白杨路383号) 대형 주류 창고 실전 팁] ① 가격표가 2개일 때 왼쪽은 중국 전화번호가 필요한 회원가, 오른쪽이 일반가입니다. ② 귀여운 중국 캐릭터 라벨 펜폴즈 대신 클래식 라벨(Penfolds Bin 28 Shiraz, M. Chapoutier Côtes du Rhône, 독일 리슬링)을 고르세요! ③ 중국 토착 개량 품종인 '사룡주(蛇龙珠 = Cabernet Gernischt)'로 만든 장위(张裕) 와인과 사과 시드르 향이 나는 상하이 로컬 맥주 '리보(力波啤酒, Reeb)'도 꼭 맛보세요!",
+      "word_breakdown": [
+        {
+          "word": "买一加一 (mǎiyījiāyī)",
+          "meaning": "1+1 행사 (정가 뻥튀기 마케팅 함정 주의!) / Buy 1 Get 1 Free"
+        },
+        {
+          "word": "张裕蛇龙珠 (Zhāngyù Shélóngzhū)",
+          "meaning": "장위 와이너리 카베르네 게르니슈트 (중국 개량 포도 품종, 직역: 뱀용구슬) / Changyu Cabernet Gernischt"
+        },
+        {
+          "word": "牛栏山 / 郎酒 / 力波",
+          "meaning": "뉴란산 백주(3천원 갓성비) / 랑주(과일향 명주) / 상하이 리보 맥주(사과향) / Top local drinks"
+        }
+      ]
+    },
+    {
+      "id": "zh_shanghai_congyoubanmian",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "上海葱油拌面",
+      "meaning": "파를 갈색이 될 때까지 고소하게 튀겨낸 파기름 간장 소스에 비벼 먹는 상하이 대표 비빔국수 (고수 없음, 한국인 입맛 100% 저격!) / Classic Shanghai noodles tossed in crispy caramelized scallion oil & savory soy glaze",
+      "meaning_ko": "파를 갈색이 될 때까지 고소하게 튀겨낸 파기름 간장 소스에 비벼 먹는 상하이 대표 비빔국수 (고수 없음, 한국인 입맛 100% 저격!)",
+      "meaning_en": "Classic Shanghai noodles tossed in crispy caramelized scallion oil & savory soy glaze",
+      "literal_meaning": "양파 기름 섞은 얼굴 / Onion Oil Mixed Face",
+      "literal_meaning_ko": "파기름 섞은 얼굴 (총유반면 — 한자 面=얼굴/국수 동음이의어 오번역!)",
+      "literal_meaning_en": "Scallion Oil Mixed Face (Character 面 means both Face and Noodles)",
+      "pronunciation": "cōng yóu bàn miàn",
+      "pronunciation_ko": "총유반몐 (총유반면)",
+      "pronunciation_en": "tsong-yoh bahn-myen",
+      "example": "请来一碗上海葱油拌面，加一个煎蛋。",
+      "exampleMeaning": "상하이 파기름 비빔면(총유반몐) 1그릇에 계란프라이 하나 추가해 주세요. / One bowl of Shanghai scallion oil noodles with a fried egg, please.",
+      "nuance": "💡 중국 간체자 '面(miàn)'이 '얼굴(Face)'과 '국수(Noodle)' 두 가지 뜻을 모두 가져서 번역기가 메뉴판의 면 요리를 전부 '얼굴(Face)'로 오번역하는 대표 사례입니다! 백참계(白斩鸡)나 라즈지(辣子鸡)를 시킬 때 사이드로 곁들이면 환상적입니다.",
+      "word_breakdown": [
+        {
+          "word": "葱油 (cōngyóu)",
+          "meaning": "바삭하게 튀긴 대파 기름 / Caramelized scallion oil"
+        },
+        {
+          "word": "拌 (bàn)",
+          "meaning": "비비다 / Toss, mix"
+        },
+        {
+          "word": "面 (miàn)",
+          "meaning": "국수, 면 (번역기가 얼굴 Face로 오번역!) / Noodles"
+        }
+      ]
+    },
+    {
+      "id": "zh_shanghai_waipohongshaorou",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "外婆红烧肉 (本帮红烧肉)",
+      "meaning": "상하이 정통 스타일로 흑설탕·진간장·소흥주에 윤기 나게 졸여낸 쫀득하고 달콤 짭조름한 통삼겹살 조림 (레드와인 페어링 최고봉!) / Shanghai-style caramelized braised pork belly in soy sauce & Shaoxing wine",
+      "meaning_ko": "상하이 정통 스타일로 흑설탕·진간장·소흥주에 윤기 나게 졸여낸 쫀득하고 달콤 짭조름한 통삼겹살 조림 (레드와인 페어링 최고봉!)",
+      "meaning_en": "Shanghai-style caramelized braised pork belly in soy sauce & Shaoxing wine",
+      "literal_meaning": "외할머니를 붉게 태운 고기 / Grandma Red Burned Meat",
+      "literal_meaning_ko": "외할머니 붉게 태운 고기 (외포홍소육)",
+      "literal_meaning_en": "Grandma Red Burned Meat / Braised Grandma Pork",
+      "pronunciation": "wài pó hóng shāo ròu",
+      "pronunciation_ko": "와이포 홍샤오로우 (외포홍소육)",
+      "pronunciation_en": "wai-paw hong-shaow-roh",
+      "example": "请来一份外婆红烧肉，配两杯干红葡萄酒。",
+      "exampleMeaning": "상하이식 외포홍소육(통삼겹살 간장조림) 1접시와 드라이 레드와인 2잔 주세요. / One Shanghai Braised Pork Belly and two glasses of dry red wine, please.",
+      "nuance": "🍷 상하이 본방채(本帮菜: 상하이 고유 요리)의 상징입니다. 번역기가 '외할머니가 해주던 홍소육'을 '외할머니 고기'로 무시무시하게 번역하곤 하지만, 실제로는 카베르네 소비뇽·시라 레드와인과 가장 완벽하게 어울리는 상하이 최고의 메인 요리입니다.",
+      "word_breakdown": [
+        {
+          "word": "外婆 (wàipó)",
+          "meaning": "외할머니 손맛 스타일 / Grandma's home-style"
+        },
+        {
+          "word": "红烧肉 (hóngshāoròu)",
+          "meaning": "간장·설탕·소흥주 통삼겹살 조림 / Caramelized braised pork belly"
+        }
+      ]
+    },
+    {
+      "id": "zh_shanghai_shengjianbao",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "上海生煎包 (生煎馒头)",
+      "meaning": "바닥은 무쇠 팬에 바삭하게 굽고 속에는 뜨거운 돼지고기 육즙(수프)이 가득 들어있는 상하이 명물 군만두 / Shanghai signature pan-fried pork soup buns with crispy sesame bottom",
+      "meaning_ko": "바닥은 무쇠 팬에 바삭하게 굽고 속에는 뜨거운 돼지고기 육즙(수프)이 가득 들어있는 상하이 명물 군만두",
+      "meaning_en": "Shanghai signature pan-fried pork soup buns with crispy sesame bottom",
+      "literal_meaning": "날것으로 지진 가방 / 생으로 구운 머리 / Raw Pan-Fried Bag / Raw Fried Head",
+      "literal_meaning_ko": "날것으로 지진 가방 / 생전포 (만두 馒头=사람 머리, 包=가방 오번역!)",
+      "literal_meaning_en": "Raw Fried Bag / Raw Fried Bun",
+      "pronunciation": "shēng jiān bāo",
+      "pronunciation_ko": "성젠바오 (생전포)",
+      "pronunciation_en": "shung-jyen baow",
+      "example": "请给我来一两（四个）生煎包，堂食。",
+      "exampleMeaning": "성젠바오 1량(4개 한 접시) 매장에서 먹고 갈게요. / One order (4 pieces) of Shengjianbao, for here please.",
+      "nuance": "🚨 [화상 주의 & 단위 팁] 상하이에서 성젠바오는 '1량(一两 = 4개)' 단위로 주문합니다! 한 입에 확 깨물면 뜨거운 육즙이 튀어 입천장을 데이므로 먼저 윗부분 피를 살짝 물어 육즙을 호로록 마신 뒤 드세요.",
+      "word_breakdown": [
+        {
+          "word": "生煎 (shēngjiān)",
+          "meaning": "찌지 않은 생만두를 바로 무쇠 팬에 굽다 / Pan-fried from raw dough"
+        },
+        {
+          "word": "包 (bāo)",
+          "meaning": "육즙 만두 (번역기가 가방 Bag으로 오번역) / Soup bun"
+        }
+      ]
+    },
+    {
+      "id": "zh_shanghai_zuiji",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "花雕醉鸡 (上海醉鸡)",
+      "meaning": "숙성 소흥주(화조주)에 차갑게 절여 깊은 와인 향과 탱글한 육즙이 배어든 상하이 명물 '취계(술 취한 닭 냉채)' / Shanghai classic poached chicken marinated in aged Shaoxing Hua Diao wine",
+      "meaning_ko": "숙성 소흥주(화조주)에 차갑게 절여 깊은 와인 향과 탱글한 육즙이 배어든 상하이 명물 '취계(술 취한 닭 냉채)'",
+      "meaning_en": "Shanghai classic poached chicken marinated in aged Shaoxing Hua Diao wine",
+      "literal_meaning": "꽃 조각 술주정뱅이 닭 / 만취한 치킨 / Flower-Carved Drunkard Chicken",
+      "literal_meaning_ko": "꽃 조각 만취한 닭 (화조취계)",
+      "literal_meaning_en": "Drunken Chicken / Intoxicated Chicken",
+      "pronunciation": "huā diāo zuì jī",
+      "pronunciation_ko": "화댜오 쭈이지 (화조취계)",
+      "pronunciation_en": "hwah-dyow dzway-jee",
+      "example": "请给我来一份上海花雕醉鸡，配一杯白葡萄酒（或干红）。",
+      "exampleMeaning": "상하이 화조취계(술에 절인 촉촉한 닭 냉채) 1접시와 화이트와인(또는 드라이 레드와인) 1잔 주세요. / One Shanghai Drunken Chicken and a glass of white (or dry red) wine, please.",
+      "nuance": "🍷 [상하이 프랑스 조계지·와이탄 와인바 필수 메뉴] 닭고기를 삶아 얼음물에 식힌 뒤 10년 숙성 소흥주(화조주)에 재운 상하이 전통 전채 요리입니다. 은은한 오크·견과류 향이 나서 화이트와인(샤르도네) 및 피노누아 레드와인과 소름 돋을 정도로 잘 어울립니다.",
+      "word_breakdown": [
+        {
+          "word": "花雕 (huādiāo)",
+          "meaning": "최고급 숙성 소흥주 (화조주) / Aged Shaoxing rice wine"
+        },
+        {
+          "word": "醉 (zuì)",
+          "meaning": "술 향기에 취하다 (와인 마리네이드) / Marinated in wine (lit. drunk)"
+        },
+        {
+          "word": "鸡 (jī)",
+          "meaning": "닭고기 / Chicken"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_fuqifeipian",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "夫妻肺片",
+      "meaning": "소고기 사태·양·천엽 사천식 고추기름 냉채 (실제 폐는 안 들어감!) / Sliced beef & ox offal in spicy Sichuan chili oil (No lung inside!)",
+      "meaning_ko": "소고기 사태·양·천엽 사천식 고추기름 냉채 (실제 폐는 안 들어감!)",
+      "meaning_en": "Sliced beef & ox offal in spicy Sichuan chili oil (No lung inside!)",
+      "literal_meaning": "부부의 폐 조각 (남편과 아내의 허파 슬라이스) / Husband and Wife Lung Slices",
+      "literal_meaning_ko": "부부의 폐 조각 (남편과 아내의 허파 슬라이스)",
+      "literal_meaning_en": "Husband and Wife Lung Slices (Mr. & Mrs. Smith)",
+      "pronunciation": "fū qī fèi piàn",
+      "pronunciation_ko": "푸치페이피엔 (부기폐편)",
+      "pronunciation_en": "foo-chee fay-pyen",
+      "example": "请给我来一份夫妻肺片，微辣，不要香菜。",
+      "exampleMeaning": "부기폐편(소고기 냉채) 1접시 주세요, 덜 맵게 해주시고 고수는 빼주세요. / One Fuqi Feipian please, mild spicy, no cilantro.",
+      "nuance": "💡 유래: 1930년대 청두의 부부가 자투리 소고기 조각(廢片·폐편)으로 만든 요리가 발음이 같은 폐(肺片)로 와전됨. ⚠️ 소 내장(양·천엽·우설)과 땅콩·고수가 들어가며 차갑게 나오는 요리입니다. 🍷 산미 있는 레드와인(피노누아)이나 시원한 맥주 안주로 최고입니다.",
+      "word_breakdown": [
+        {
+          "word": "夫妻 (fūqī)",
+          "meaning": "부부 / Husband & wife"
+        },
+        {
+          "word": "肺 (fèi)",
+          "meaning": "폐 (원래는 자투리 조각 '廢'의 음차) / Lung (pun for scrap pieces)"
+        },
+        {
+          "word": "片 (piàn)",
+          "meaning": "얇게 썬 조각 / Thin slices"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_mayishangshu",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "蚂蚁上树",
+      "meaning": "매콤한 다진 돼지고기 당면 볶음 (실제 개미 없음!) / Stir-fried glass noodles with spicy minced pork (No ants!)",
+      "meaning_ko": "매콤한 다진 돼지고기 당면 볶음 (실제 개미 없음!)",
+      "meaning_en": "Stir-fried glass noodles with spicy minced pork (No ants!)",
+      "literal_meaning": "나무에 기어오르는 개미 / Ants Climbing a Tree",
+      "literal_meaning_ko": "나무에 기어오르는 개미 (마의상수)",
+      "literal_meaning_en": "Ants Climbing a Tree",
+      "pronunciation": "mǎ yǐ shàng shù",
+      "pronunciation_ko": "마이상슈 (마의상수)",
+      "pronunciation_en": "mah-ee shahng-shoo",
+      "example": "请来一份蚂蚁上树，不要太辣。",
+      "exampleMeaning": "마의상수(다진 고기 당면볶음) 1접시 주세요, 너무 맵지 않게 해주세요. / One Ants Climbing a Tree (pork vermicelli) please, not too spicy.",
+      "nuance": "💡 유래: 당면 가닥에 잘게 다진 돼지고기가 송골송골 붙어 있는 모습이 마치 나뭇가지에 개미가 올라가는 것 같다고 해서 붙은 시적인 이름입니다. 실제 곤충은 전혀 들어가지 않으며 한국인 입맛에 잡채처럼 아주 잘 맞습니다.",
+      "word_breakdown": [
+        {
+          "word": "蚂蚁 (mǎyǐ)",
+          "meaning": "개미 (다진 돼지고기 비유) / Ants (minced pork)"
+        },
+        {
+          "word": "上 (shàng)",
+          "meaning": "오르다 / Climb up"
+        },
+        {
+          "word": "树 (shù)",
+          "meaning": "나무 (당면 줄기 비유) / Tree (glass noodles)"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_koushuiji",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "口水鸡",
+      "meaning": "사천식 고추기름·땅콩소스를 부은 촉촉한 냉채 닭고기 요리 / Poached chicken chilled in spicy Sichuan chili oil & peanuts",
+      "meaning_ko": "사천식 고추기름·땅콩소스를 부은 촉촉한 냉채 닭고기 요리",
+      "meaning_en": "Poached chicken chilled in spicy Sichuan chili oil & peanuts",
+      "literal_meaning": "침 흘리는 닭 (타액 치킨) / Saliva Chicken (Drooling Chicken)",
+      "literal_meaning_ko": "침 흘리는 닭 / 입물 닭 (구수계)",
+      "literal_meaning_en": "Saliva Chicken / Drooling Chicken",
+      "pronunciation": "kǒu shuǐ jī",
+      "pronunciation_ko": "코우쉐이지 (구수계)",
+      "pronunciation_en": "koh-shway jee",
+      "example": "请给我来一份口水鸡，配一杯白葡萄酒。",
+      "exampleMeaning": "구수계(사천식 닭 냉채) 1접시와 화이트와인 1잔 주세요. / Please give me one Koushuiji chicken and a glass of white wine.",
+      "nuance": "💡 유래: '생각만 해도 입에 침(口水)이 고일 만큼 맛있는 닭요리'라는 뜻입니다. ⚠️ 차갑게 나오는 냉채 요리이며 땅콩 분태와 고수가 올라갑니다. 🍷 상하이 와인바·모던 차이니즈 레스토랑에서 와인(리슬링·소비뇽블랑·가벼운 레드)과 함께 가장 많이 시키는 대표 닭고기 요리입니다.",
+      "word_breakdown": [
+        {
+          "word": "口水 (kǒushuǐ)",
+          "meaning": "군침, 침 / Mouthwatering, saliva"
+        },
+        {
+          "word": "鸡 (jī)",
+          "meaning": "닭고기 / Chicken"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_yuxiangrousi",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "鱼香肉丝",
+      "meaning": "새콤달콤 매콤한 마늘·고추 소스 돼지고기·죽순·목이버섯 채볶음 (생선 전혀 없음!) / Shredded pork stir-fried in sweet-sour garlic chili sauce (No fish at all!)",
+      "meaning_ko": "새콤달콤 매콤한 마늘·고추 소스 돼지고기·죽순·목이버섯 채볶음 (생선 전혀 없음!)",
+      "meaning_en": "Shredded pork stir-fried in sweet-sour garlic chili sauce (No fish at all!)",
+      "literal_meaning": "물고기 냄새 돼지고기 실 / Fish-Smelling Pork Threads",
+      "literal_meaning_ko": "물고기 향기 돼지고기 실 (어향육사)",
+      "literal_meaning_en": "Fish-Smelling Pork Shreds / Fish-Fragrant Pork",
+      "pronunciation": "yú xiāng ròu sī",
+      "pronunciation_ko": "위샹로우스 (어향육사)",
+      "pronunciation_en": "yoo-shahng roh-sz",
+      "example": "请来一份鱼香肉丝和一碗米饭。",
+      "exampleMeaning": "어향육사 1접시와 공기밥 1그릇 주세요. / One Yuxiang shredded pork and a bowl of rice, please.",
+      "nuance": "💡 유래: 생선이나 해산물은 단 1g도 들어가지 않습니다! 사천 지방에서 생선 요리를 할 때 쓰던 양념(절인 고추·마늘·생강·설탕·식초)으로 돼지고기를 볶았더니 기가 막히게 맛있어서 '어향(鱼香)'이라 부르게 된 호불호 0% 국민 요리입니다.",
+      "word_breakdown": [
+        {
+          "word": "鱼香 (yúxiāng)",
+          "meaning": "어향 소스 (마늘·생강·초고추 양념, 생선 없음) / Fish-fragrant seasoning (no fish)"
+        },
+        {
+          "word": "肉 (ròu)",
+          "meaning": "돼지고기 / Pork"
+        },
+        {
+          "word": "丝 (sī)",
+          "meaning": "가늘게 채 썬 것 / Shreds, strips"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_gongbaojiding",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "宫保鸡丁",
+      "meaning": "바삭한 땅콩과 건고추를 넣어 볶은 단짠 매콤 닭다리살 요리 / Stir-fried diced chicken with peanuts, dried chili & savory-sweet glaze",
+      "meaning_ko": "바삭한 땅콩과 건고추를 넣어 볶은 단짠 매콤 닭다리살 요리",
+      "meaning_en": "Stir-fried diced chicken with peanuts, dried chili & savory-sweet glaze",
+      "literal_meaning": "정부가 학대한 닭 조각 / Government Abused Chicken Cubes",
+      "literal_meaning_ko": "궁전 경호원 닭 깍둑썰기 / 정부가 학대한 닭 (궁보계정)",
+      "literal_meaning_en": "Government Abused Chicken / Palace Guardian Chicken Cubes",
+      "pronunciation": "gōng bǎo jī dīng",
+      "pronunciation_ko": "궁바오지딩 (궁보계정)",
+      "pronunciation_en": "gong-baow jee-ding",
+      "example": "请来一份宫保鸡丁，不要放花生（我对花生过敏）。",
+      "exampleMeaning": "궁보계정 1접시 주세요, 땅콩은 빼주세요(땅콩 알레르기가 있어요). / One Kung Pao Chicken please, no peanuts (I have a peanut allergy).",
+      "nuance": "💡 유래: 청나라 관리 정보桢(딩바오전)의 관직명 '궁보(宫保)'에서 유래했는데 번역기가 관직을 정부(Government)로 오번역해 해외에서 화제가 된 메뉴입니다. ⚠️ 땅콩(花生)이 기본으로 많이 들어가므로 견과류 알레르기가 있다면 주의하세요. 🍷 레드와인·맥주 모두 완벽하게 어울립니다.",
+      "word_breakdown": [
+        {
+          "word": "宫保 (gōngbǎo)",
+          "meaning": "궁보 (청나라 태자태보 관직명) / Palace Guardian title"
+        },
+        {
+          "word": "鸡 (jī)",
+          "meaning": "닭고기 / Chicken"
+        },
+        {
+          "word": "丁 (dīng)",
+          "meaning": "깍둑썰기한 조각 / Diced cubes"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_fotiaoqiang",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Formal",
+      "text": "佛跳墙",
+      "meaning": "전복·해삼·자연송이·오골계 등을 소흥주 항아리에 푹 고아낸 최고급 보양 스튜 (불도장) / Deluxe Fujian braised abalone, sea cucumber & premium mushroom soup",
+      "meaning_ko": "전복·해삼·자연송이·오골계 등을 소흥주 항아리에 푹 고아낸 최고급 보양 스튜 (불도장)",
+      "meaning_en": "Deluxe Fujian braised abalone, sea cucumber & premium mushroom soup",
+      "literal_meaning": "신도 VPN을 사용한다 / 부처가 담을 넘다 / God Use VPN / Buddha Jumps Over the Wall",
+      "literal_meaning_ko": "부처가 담을 넘다 / 신이 방화벽(VPN)을 넘다 (불도장)",
+      "literal_meaning_en": "God Use VPN / Buddha Jumps Over the Wall",
+      "pronunciation": "fó tiào qiáng",
+      "pronunciation_ko": "포탸오창 (불도장)",
+      "pronunciation_en": "faw tyow chyahng",
+      "example": "请问佛跳墙是按位（一人一盅）点的吗？",
+      "exampleMeaning": "불도장은 1인 1단지(1인분) 단위로 주문하는 건가요? / Is Buddha Jumps Over the Wall ordered per person (individual pot)?",
+      "nuance": "💡 유래: 냄새가 어찌나 향긋한지 수행하던 스님(佛)도 참지 못하고 절 담장(墙)을 뛰어넘었다(跳)는 전설의 최고급 요리입니다. 중국 번역기가 담장(墙)을 인터넷 방화벽(Great Firewall)으로 오인해 'God Use VPN'으로 번역한 전설적 오번역 사례입니다.",
+      "word_breakdown": [
+        {
+          "word": "佛 (fó)",
+          "meaning": "부처, 스님 / Buddha, monk"
+        },
+        {
+          "word": "跳 (tiào)",
+          "meaning": "뛰어넘다 / Jump over"
+        },
+        {
+          "word": "墙 (qiáng)",
+          "meaning": "담장 (번역기가 방화벽으로 오번역) / Wall"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_shizitou",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "红烧狮子头 (清炖狮子头)",
+      "meaning": "상하이·양저우식 특대형 부드러운 수제 돼지고기 완자 조림/맑은탕 / Giant tender handmade braised pork meatball (Shanghai/Yangzhou specialty)",
+      "meaning_ko": "상하이·양저우식 특대형 부드러운 수제 돼지고기 완자 조림/맑은탕",
+      "meaning_en": "Giant tender handmade braised pork meatball (Shanghai/Yangzhou specialty)",
+      "literal_meaning": "불에 구운 사자 대가리 / Braised Lion's Head",
+      "literal_meaning_ko": "붉게 구운 사자 머리 (홍소사자두)",
+      "literal_meaning_en": "Braised Lion's Head",
+      "pronunciation": "hóng shāo shī zi tóu",
+      "pronunciation_ko": "홍샤오스즈터우 (홍소사자두)",
+      "pronunciation_en": "hong-shaow shih-dz toh",
+      "example": "请给我们来两颗红烧狮子头。",
+      "exampleMeaning": "홍소사자두(대형 돼지고기 완자 조림) 2알 주세요. / Please bring us two braised Lion's Head pork meatballs.",
+      "nuance": "💡 유래: 주먹만 한 돼지고기 완자의 울퉁불퉁한 표면이 중국 수호 사자상의 갈기 머리를 닮았다고 해서 붙은 이름입니다. 간장 양념(红烧)은 묵직한 레드와인과, 배추 맑은탕(清炖)은 화이트와인과 환상적인 궁합을 자랑합니다.",
+      "word_breakdown": [
+        {
+          "word": "红烧 (hóngshāo)",
+          "meaning": "간장 소스로 붉게 졸이다 / Braised in soy sauce"
+        },
+        {
+          "word": "狮子 (shīzi)",
+          "meaning": "사자 / Lion"
+        },
+        {
+          "word": "头 (tóu)",
+          "meaning": "머리 (대형 고기완자 비유) / Head (giant meatball)"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_cangyingtou",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "苍蝇头",
+      "meaning": "부추꽃 줄기·다진 돼지고기·발효 검은콩(두시) 매콤 볶음 (파리 전혀 없음! 최고의 밥도둑·술안주) / Stir-fried garlic chive stems, minced pork & fermented black beans (No flies!)",
+      "meaning_ko": "부추꽃 줄기·다진 돼지고기·발효 검은콩(두시) 매콤 볶음 (파리 전혀 없음! 최고의 밥도둑·술안주)",
+      "meaning_en": "Stir-fried garlic chive stems, minced pork & fermented black beans (No flies!)",
+      "literal_meaning": "파리 대가리 / Fly Heads",
+      "literal_meaning_ko": "파리 머리 (창영두)",
+      "literal_meaning_en": "Fly Heads",
+      "pronunciation": "cāng ying tóu",
+      "pronunciation_ko": "창잉터우 (창영두)",
+      "pronunciation_en": "tsahng-ying toh",
+      "example": "请来一份苍蝇头，配米饭吃。",
+      "exampleMeaning": "창잉터우(부추 다진고기 검은콩 볶음) 1접시랑 밥 주세요. / One Cangyingtou (garlic chives & pork stir-fry) with rice, please.",
+      "nuance": "💡 유래: 메뉴판 번역기에 '파리 머리(Fly Heads)'라고 떠서 외국인들이 기겁하고 못 시키는 대표 메뉴지만, 실제로는 까만 발효 검은콩(豆豉) 알갱이가 초록색 부추 사이사이에 섞인 모양 때문에 붙은 재치 있는 별명입니다. 한 입 먹으면 감탄하는 짭조름한 감칠맛 요리입니다.",
+      "word_breakdown": [
+        {
+          "word": "苍蝇 (cāngying)",
+          "meaning": "파리 (까만 발효 검은콩 알갱이 비유) / Fly (fermented black beans)"
+        },
+        {
+          "word": "头 (tóu)",
+          "meaning": "머리 / Head"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_jiaohuaji",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "叫花鸡 (叫化鸡)",
+      "meaning": "연잎과 황토 진흙(또는 소금 반죽)으로 감싸 장시간 구워낸 상하이·항저우 전통 통닭 오븐구이 / Whole tender chicken stuffed with herbs, wrapped in lotus leaves & baked in clay",
+      "meaning_ko": "연잎과 황토 진흙(또는 소금 반죽)으로 감싸 장시간 구워낸 상하이·항저우 전통 통닭 오븐구이",
+      "meaning_en": "Whole tender chicken stuffed with herbs, wrapped in lotus leaves & baked in clay",
+      "literal_meaning": "거지 닭 / 꽃을 부르는 닭 / Beggar's Chicken",
+      "literal_meaning_ko": "거지 닭 (교화계)",
+      "literal_meaning_en": "Beggar's Chicken / Calling Flower Chicken",
+      "pronunciation": "jiào huā jī",
+      "pronunciation_ko": "쟈오화지 (교화계)",
+      "pronunciation_en": "jyow-hwah jee",
+      "example": "请问叫花鸡需要提前预订吗？配哪款红酒好？",
+      "exampleMeaning": "거지닭(연잎 진흙 통닭구이)은 미리 예약해야 하나요? 어떤 레드와인이 잘 어울릴까요? / Does Beggar's Chicken require advance reservation? Which red wine pairs best?",
+      "nuance": "💡 유래: 옛날 배고픈 거지(叫花子)가 닭을 진흙에 발라 모닥불에 구웠는데 황제가 그 향기에 반해 궁중 요리가 되었다는 강남(상하이·항저우) 명물 닭요리입니다. 🍷 은은한 연잎 향과 육즙이 가득해 피노누아·메를로 레드와인과 환상적으로 어울립니다.",
+      "word_breakdown": [
+        {
+          "word": "叫花 (jiàohuā)",
+          "meaning": "거지, 걸인 (叫花子) / Beggar"
+        },
+        {
+          "word": "鸡 (jī)",
+          "meaning": "닭 / Chicken"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_songshuguiyu",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "松鼠桂鱼 (松鼠鳜鱼)",
+      "meaning": "다람쥐 꼬리 모양으로 칼집을 내어 바삭하게 튀긴 뒤 새콤달콤 소스를 부은 상하이·쑤저우 명물 쏘가리 탕수어 (다람쥐 고기 아님!) / Crispy scored mandarin fish in sweet & sour pine nut sauce (No squirrel meat!)",
+      "meaning_ko": "다람쥐 꼬리 모양으로 칼집을 내어 바삭하게 튀긴 뒤 새콤달콤 소스를 부은 상하이·쑤저우 명물 쏘가리 탕수어 (다람쥐 고기 아님!)",
+      "meaning_en": "Crispy scored mandarin fish in sweet & sour pine nut sauce (No squirrel meat!)",
+      "literal_meaning": "다람쥐 계수나무 물고기 / Squirrel Mandarin Fish",
+      "literal_meaning_ko": "다람쥐 쏘가리 (송서계어)",
+      "literal_meaning_en": "Squirrel Mandarin Fish",
+      "pronunciation": "sōng shǔ guì yú",
+      "pronunciation_ko": "쑹슈구이위 (송서계어)",
+      "pronunciation_en": "song-shoo gway-yoo",
+      "example": "请给我们推荐一道招牌菜，比如松鼠桂鱼。",
+      "exampleMeaning": "송서계어(쏘가리 탕수어) 같은 대표 시그니처 요리를 추천해 주세요. / Please recommend a signature dish, such as Squirrel Mandarin Fish.",
+      "nuance": "💡 유래: 번역기에 '다람쥐(Squirrel)'가 찍혀서 야생동물 요리로 오해받지만, 사실은 뼈를 발라낸 흰살 민물생선(쏘가리)을 솔방울·다람쥐 모양으로 예술적으로 튀겨낸 강남 최고급 연회 요리입니다.",
+      "word_breakdown": [
+        {
+          "word": "松鼠 (sōngshǔ)",
+          "meaning": "다람쥐 (튀긴 생선의 솔방울 칼집 모양 비유) / Squirrel (shape)"
+        },
+        {
+          "word": "桂鱼 (guìyú)",
+          "meaning": "쏘가리 (고급 흰살 민물생선) / Mandarin fish"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_lvdagun",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "驴打滚",
+      "meaning": "팥앙금을 넣고 볶은 콩고물을 듬뿍 묻힌 베이징 전통 인절미 찹쌀떡 롤 (당나귀 고기 아님!) / Traditional Beijing glutinous rice roll with red bean paste & roasted soybean flour (No donkey!)",
+      "meaning_ko": "팥앙금을 넣고 볶은 콩고물을 듬뿍 묻힌 베이징 전통 인절미 찹쌀떡 롤 (당나귀 고기 아님!)",
+      "meaning_en": "Traditional Beijing glutinous rice roll with red bean paste & roasted soybean flour (No donkey!)",
+      "literal_meaning": "당나귀 구르기 / Rolling Donkey",
+      "literal_meaning_ko": "당나귀가 땅에서 구르다 (여타곤)",
+      "literal_meaning_en": "Rolling Donkey / Donkey Rolling in Dust",
+      "pronunciation": "lǘ dǎ gǔn",
+      "pronunciation_ko": "뤼다군 (여타곤)",
+      "pronunciation_en": "lyoo dah gwen",
+      "example": "请来一份驴打滚当甜点。",
+      "exampleMeaning": "디저트로 뤼다군(콩고물 찹쌀떡 롤) 1접시 주세요. / Please bring one Lvdagun (soybean flour rice roll) for dessert.",
+      "nuance": "💡 유래: 노란 콩고물을 찹쌀떡에 묻히는 모습이 마치 당나귀가 흙먼지 속에서 뒹구는 모습 같다고 해 붙은 귀여운 디저트 이름입니다. 한국의 인절미+팥떡과 거의 똑같아 디저트로 최고입니다.",
+      "word_breakdown": [
+        {
+          "word": "驴 (lǘ)",
+          "meaning": "당나귀 / Donkey"
+        },
+        {
+          "word": "打滚 (dǎgǔn)",
+          "meaning": "바닥에서 데굴데굴 구르다 (콩고물 묻히기 비유) / Roll on the ground"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_muxurou",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "木须肉 (木樨肉)",
+      "meaning": "포슬포슬한 계란·돼지고기·목이버섯·오이를 간장으로 담백하게 볶은 요리 (매운 거 못 드시는 분 1순위 추천!) / Stir-fried pork, fluffy scrambled eggs, wood ear mushrooms & cucumber",
+      "meaning_ko": "포슬포슬한 계란·돼지고기·목이버섯·오이를 간장으로 담백하게 볶은 요리 (매운 거 못 드시는 분 1순위 추천!)",
+      "meaning_en": "Stir-fried pork, fluffy scrambled eggs, wood ear mushrooms & cucumber",
+      "literal_meaning": "나무 수염 고기 / Wood Beard Meat",
+      "literal_meaning_ko": "나무 수염 고기 (목수육)",
+      "literal_meaning_en": "Wood Beard Pork / Wood Shavings Meat",
+      "pronunciation": "mù xū ròu",
+      "pronunciation_ko": "무쉬로우 (목수육)",
+      "pronunciation_en": "moo-shoo roh",
+      "example": "请来一份木须肉，不放香菜。",
+      "exampleMeaning": "무쉬로우(계란 목이버섯 돼지고기 볶음) 1접시 주세요, 고수는 빼주세요. / One Moo Shu Pork (egg & mushroom stir-fry) please, no cilantro.",
+      "nuance": "💡 유래: 노란 계란 볶음이 금목서 꽃(木樨·목서)을 닮았다는 뜻인데 발음이 같은 나무 수염(木须)으로 표기되어 번역기가 '나무 수염 고기'로 오번역합니다. 전혀 맵지 않고 향신료 향이 거의 없어 누구나 맛있게 먹습니다.",
+      "word_breakdown": [
+        {
+          "word": "木须 (mùxū)",
+          "meaning": "금목서 꽃처럼 노란 계란 (직역: 나무 수염) / Golden scrambled egg (lit. wood beard)"
+        },
+        {
+          "word": "肉 (ròu)",
+          "meaning": "돼지고기 / Pork"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_guancaiban",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "棺材板",
+      "meaning": "두꺼운 토스트 식빵 속을 파내고 따뜻한 크림 해산물·치킨 차우더 스튜를 채운 타이난 명물 브레드볼 / Crispy thick toast box filled with creamy chicken & seafood chowder",
+      "meaning_ko": "두꺼운 토스트 식빵 속을 파내고 따뜻한 크림 해산물·치킨 차우더 스튜를 채운 타이난 명물 브레드볼",
+      "meaning_en": "Crispy thick toast box filled with creamy chicken & seafood chowder",
+      "literal_meaning": "관짝 판자 (시체 관 뚜껑) / Coffin Board",
+      "literal_meaning_ko": "관짝 판자 / 관 뚜껑 (관재판)",
+      "literal_meaning_en": "Coffin Bread / Coffin Lid",
+      "pronunciation": "guān cái bǎn",
+      "pronunciation_ko": "관차이반 (관재판)",
+      "pronunciation_en": "gwahn-tsai bahn",
+      "example": "请给我一份原味棺材板。",
+      "exampleMeaning": "오리지널 관차이반(크림 스튜 토스트) 1개 주세요. / One original Coffin Bread (creamy chowder toast), please.",
+      "nuance": "💡 유래: 식빵 속을 파내고 식빵 뚜껑을 덮은 사각 상자 모양이 관(棺材)처럼 생겼다고 붙은 이름이지만, 중국어에서 '관재(棺材)'는 '승진하고 부자 되세요(升官发财·승관발재)'와 발음이 비슷해 오히려 행운의 요리로 불립니다.",
+      "word_breakdown": [
+        {
+          "word": "棺材 (guāncai)",
+          "meaning": "관 (네모난 식빵 그릇 비유, 승관발재 행운의 중의어) / Coffin (bread box)"
+        },
+        {
+          "word": "板 (bǎn)",
+          "meaning": "판자, 뚜껑 (식빵 뚜껑) / Board, lid"
+        }
+      ]
+    },
+    {
+      "id": "zh_trap_tianji",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Trap Ingredients",
+      "tone": "Polite",
+      "text": "田鸡 (干锅田鸡 / 泡椒田鸡)",
+      "meaning": "⚠️ [지뢰 식재료 경보] 닭고기가 아니라 '식용 황소개구리' 요리입니다! / ⚠️ [TRAP ALERT] Bullfrog / Edible Frog legs — NOT chicken!",
+      "meaning_ko": "⚠️ [지뢰 식재료 경보] 닭고기가 아니라 '식용 황소개구리' 요리입니다!",
+      "meaning_en": "⚠️ [TRAP ALERT] Bullfrog / Edible Frog legs — NOT chicken!",
+      "literal_meaning": "밭 닭 / 들닭 / 논닭 (시골 토종닭으로 100% 착각!) / Field Chicken (Farm Chicken)",
+      "literal_meaning_ko": "밭 닭 / 들닭 / 논닭 (전계 — 번역기가 토종닭으로 오번역!)",
+      "literal_meaning_en": "Field Chicken (Falsely translated as free-range chicken!)",
+      "pronunciation": "tián jī",
+      "pronunciation_ko": "티엔지 (전계 = 개구리!)",
+      "pronunciation_en": "tyen jee",
+      "example": "请问这道菜里面有田鸡（牛蛙）吗？我只吃普通鸡肉。",
+      "exampleMeaning": "혹시 이 요리에 전계(개구리)가 들어가나요? 저는 일반 닭고기만 먹습니다. / Does this dish contain Tianji (frog)? I only eat regular chicken.",
+      "nuance": "🚨 [중국 여행자 오번역 피해 1위] 한자에 닭 계(鸡) 자가 들어가고 번역기가 'Field Chicken(들닭/시골닭)'으로 번역해서 치킨인 줄 알고 시켰다가 개구리가 나와서 충격받는 대표 함정 메뉴입니다! 진짜 닭고기는 白斩鸡(백참계), 辣子鸡(라즈지), 宫保鸡丁(궁보계정), 口水鸡(구수계)를 시키세요!",
+      "word_breakdown": [
+        {
+          "word": "田 (tián)",
+          "meaning": "논, 밭 / Rice paddy, field"
+        },
+        {
+          "word": "鸡 (jī)",
+          "meaning": "닭 (논에서 나는 닭처럼 맛있는 고기라는 은어 = 개구리!) / Chicken (euphemism for frog!)"
+        }
+      ]
+    },
+    {
+      "id": "zh_trap_naohua",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Trap Ingredients",
+      "tone": "Polite",
+      "text": "脑花 (烤脑花 / 冒脑花)",
+      "meaning": "⚠️ [지뢰 식재료 경보] 연두부가 아니라 실제 '돼지 뇌' 구이/마라 조림입니다! / ⚠️ [TRAP ALERT] Roasted or spicy poached pig brain — NOT tofu pudding!",
+      "meaning_ko": "⚠️ [지뢰 식재료 경보] 연두부가 아니라 실제 '돼지 뇌' 구이/마라 조림입니다!",
+      "meaning_en": "⚠️ [TRAP ALERT] Roasted or spicy poached pig brain — NOT tofu pudding!",
+      "literal_meaning": "뇌 꽃 / 머리 꽃 (순두부/콩꽃 '豆花'와 헷갈림!) / Brain Flower",
+      "literal_meaning_ko": "뇌 꽃 (뇌화 — 순두부 '두화 豆花'로 착각 주의!)",
+      "literal_meaning_en": "Brain Flower (Often confused with Douhua tofu flower!)",
+      "pronunciation": "nǎo huā",
+      "pronunciation_ko": "나오화 (뇌화 = 돼지 뇌!)",
+      "pronunciation_en": "naow hwah",
+      "example": "我不要脑花和内脏，谢谢。",
+      "exampleMeaning": "돼지 뇌(나오화)와 내장류는 빼주세요, 감사합니다. / No pig brain or offal for me, thank you.",
+      "nuance": "🚨 연두부 요리인 '더우화(豆花)'와 글자도 비슷하고 생긴 것도 하얗고 몽글몽글해서 두부인 줄 알고 시키는 경우가 많습니다. 사천·충칭 훠궈집이나 야시장에서 매우 흔하니 두부를 원하시면 반드시 '도푸(豆腐)' 또는 '더우화(豆花)'인지 확인하세요.",
+      "word_breakdown": [
+        {
+          "word": "脑 (nǎo)",
+          "meaning": "뇌, 골 / Brain"
+        },
+        {
+          "word": "花 (huā)",
+          "meaning": "꽃 (부드러운 식감 비유) / Flower"
+        }
+      ]
+    },
+    {
+      "id": "zh_trap_feichang",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Trap Ingredients",
+      "tone": "Polite",
+      "text": "肥肠 (干锅肥肠 / 肥肠面)",
+      "meaning": "⚠️ [식재료 안내] 소시지가 아니라 '돼지 대창(곱창)' 볶음/국수입니다 / ⚠️ Pork large intestines (chitterlings) — NOT regular pork sausage!",
+      "meaning_ko": "⚠️ [식재료 안내] 소시지가 아니라 '돼지 대창(곱창)' 볶음/국수입니다",
+      "meaning_en": "⚠️ Pork large intestines (chitterlings) — NOT regular pork sausage!",
+      "literal_meaning": "살찐 소시지 / 비만 창자 / Fat Sausage / Fatty Intestine",
+      "literal_meaning_ko": "살찐 소시지 / 비창 (창=소시지 '香肠'으로 오번역!)",
+      "literal_meaning_en": "Fat Sausage / Fatty Gut",
+      "pronunciation": "féi cháng",
+      "pronunciation_ko": "페이창 (비창 = 돼지 대창)",
+      "pronunciation_en": "fay chahng",
+      "example": "请问肥肠处理得干净吗？有腥味吗？",
+      "exampleMeaning": "대창(페이창) 손질이 깔끔하게 되어 있나요? 잡내는 없나요? / Are the pork intestines cleaned thoroughly without any gamey smell?",
+      "nuance": "💡 번역기가 장(肠)을 소시지(Sausage)로 번역해 '통통한 소시지'인 줄 알고 시키는 메뉴입니다. 대창을 좋아하시는 분께는 최고의 맥주·고량주 안주이지만, 내장을 못 드시면 일반 소시지인 '샹창(香肠)'과 꼭 구분하세요!",
+      "word_breakdown": [
+        {
+          "word": "肥 (féi)",
+          "meaning": "기름진, 통통한 / Plump, fatty"
+        },
+        {
+          "word": "肠 (cháng)",
+          "meaning": "대창, 창자 (소시지 香肠과 다름) / Large intestine"
+        }
+      ]
+    },
+    {
+      "id": "zh_trap_zheergen",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Trap Ingredients",
+      "tone": "Polite",
+      "text": "折耳根 (鱼腥草)",
+      "meaning": "⚠️ [고수보다 10배 강한 향 주의] '어성초' 뿌리 무침 (강한 생선 비린내 향이 나는 사천·운남 약초) / ⚠️ Houttuynia cordata (Fish mint root — intense fishy herbal flavor!)",
+      "meaning_ko": "⚠️ [고수보다 10배 강한 향 주의] '어성초' 뿌리 무침 (강한 생선 비린내 향이 나는 사천·운남 약초)",
+      "meaning_en": "⚠️ Houttuynia cordata (Fish mint root — intense fishy herbal flavor!)",
+      "literal_meaning": "접힌 귀 뿌리 / 물고기 비린내 풀 / Folded Ear Root / Fishy Grass",
+      "literal_meaning_ko": "접힌 귀 뿌리 / 어성초 (절이근)",
+      "literal_meaning_en": "Folded Ear Root / Fish-Smell Herb",
+      "pronunciation": "zhé ěr gēn",
+      "pronunciation_ko": "저얼건 (절이근 = 어성초)",
+      "pronunciation_en": "juh-ar-gun",
+      "example": "请不要放折耳根（鱼腥草）和香菜。",
+      "exampleMeaning": "어성초(저얼건)와 고수(샹차이)는 넣지 말아 주세요. / Please do not put Zheergen (fish mint) or cilantro.",
+      "nuance": "🚨 고수(香菜)는 잘 먹는 한국인도 한 입 베어 물면 깜짝 놀라는 사천·운남·구이저우 지역의 특수 향채 뿌리입니다. 도라지나 연근 줄기처럼 하얗게 생겨서 모르고 씹었다가 강한 생선 비린 향에 당황할 수 있으니 미리 알아두세요!",
+      "word_breakdown": [
+        {
+          "word": "折耳 (zhé'ěr)",
+          "meaning": "접힌 귀 모양 잎 / Folded ear leaf"
+        },
+        {
+          "word": "根 (gēn)",
+          "meaning": "뿌리 (어성초 줄기·뿌리) / Root"
+        }
+      ]
+    },
+    {
+      "id": "zh_trap_xiangcai",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Trap Ingredients",
+      "tone": "Polite",
+      "text": "不要香菜 (免香菜)",
+      "meaning": "고수(실란트로)는 빼주세요! (중국 식당 필수 생존 주문 1위) / No cilantro (coriander), please!",
+      "meaning_ko": "고수(실란트로)는 빼주세요! (중국 식당 필수 생존 주문 1위)",
+      "meaning_en": "No cilantro (coriander), please!",
+      "literal_meaning": "향기로운 야채를 원하지 않는다 / Don't want fragrant vegetable",
+      "literal_meaning_ko": "향기로운 채소(향채) 불요",
+      "literal_meaning_en": "Do not want fragrant vegetable",
+      "pronunciation": "bù yào xiāng cài",
+      "pronunciation_ko": "부야오 샹차이",
+      "pronunciation_en": "boo-yaow shyahng-tsai",
+      "example": "所有菜都不要放香菜，谢谢！",
+      "exampleMeaning": "모든 요리에 전부 고수(샹차이)를 빼주세요, 감사합니다! / Please do not put cilantro in any of the dishes, thank you!",
+      "nuance": "💡 중국어로 고수는 '향기 나는 채소(香菜·샹차이)'라고 부르기 때문에 번역기가 그냥 'Fragrant vegetable(향기 야채)'로 번역해 버립니다. 고수를 못 드시면 주문할 때 이 카드를 점원에게 바로 보여주세요!",
+      "word_breakdown": [
+        {
+          "word": "不要 (bùyào)",
+          "meaning": "넣지 마세요, 원하지 않습니다 / Do not put, no"
+        },
+        {
+          "word": "香菜 (xiāngcài)",
+          "meaning": "고수 (실란트로) / Cilantro, coriander"
+        }
+      ]
+    },
+    {
+      "id": "zh_trap_huanghou",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Trap Ingredients",
+      "tone": "Polite",
+      "text": "黄喉",
+      "meaning": "돼지나 소의 대동맥 혈관 부위 (목구멍 아님! 훠궈에 살짝 데쳐 먹는 꼬들꼬들하고 아삭한 고급 별미) / Pork or beef aorta (Crunchy hotpot delicacy — NOT throat!)",
+      "meaning_ko": "돼지나 소의 대동맥 혈관 부위 (목구멍 아님! 훠궈에 살짝 데쳐 먹는 꼬들꼬들하고 아삭한 고급 별미)",
+      "meaning_en": "Pork or beef aorta (Crunchy hotpot delicacy — NOT throat!)",
+      "literal_meaning": "노란 목구멍 / Yellow Throat",
+      "literal_meaning_ko": "노란 목구멍 (황후)",
+      "literal_meaning_en": "Yellow Throat",
+      "pronunciation": "huáng hóu",
+      "pronunciation_ko": "황허우 (황후)",
+      "pronunciation_en": "hwahng hoh",
+      "example": "请问黄喉要涮几秒？",
+      "exampleMeaning": "황허우는 훠궈 국물에 몇 초 동안 데쳐 먹으면 되나요? / How many seconds should I dip the Huanghou in the hotpot?",
+      "nuance": "💡 이름에 목구멍 후(喉) 자가 들어가서 기도나 목구멍으로 오번역되지만 실제로는 심장 대동맥 부위입니다. 잡내가 전혀 없고 오징어나 죽순처럼 아삭아삭해서 한국인들도 훠궈집에서 매우 좋아하는 부위입니다.",
+      "word_breakdown": [
+        {
+          "word": "黄 (huáng)",
+          "meaning": "노란빛 / Yellow"
+        },
+        {
+          "word": "喉 (hóu)",
+          "meaning": "실제로는 대동맥 혈관 (직역: 목구멍) / Aorta (lit. throat)"
+        }
+      ]
+    },
+    {
+      "id": "zh_wine_baizhanji",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "白斩鸡 (上海三黄鸡)",
+      "meaning": "상하이 정통 수비드식 촉촉한 냉채 닭고기 요리와 생강 간장 소스 (안 맵고 와인·샤르도네·피노누아와 최고 궁합!) / Shanghai classic poached tender cold chicken with ginger-scallion soy dip",
+      "meaning_ko": "상하이 정통 수비드식 촉촉한 냉채 닭고기 요리와 생강 간장 소스 (안 맵고 와인·샤르도네·피노누아와 최고 궁합!)",
+      "meaning_en": "Shanghai classic poached tender cold chicken with ginger-scallion soy dip",
+      "literal_meaning": "하얗게 참수한 닭 / 세 마리 노란 닭 / White Beheaded Chicken / Three Yellow Chicken",
+      "literal_meaning_ko": "하얗게 벤 닭 / 백참계 (삼황계)",
+      "literal_meaning_en": "White Chopped Chicken / White Cut Chicken",
+      "pronunciation": "bái zhǎn jī",
+      "pronunciation_ko": "바이잔지 (백참계)",
+      "pronunciation_en": "bai jahn jee",
+      "example": "请给我来一份上海白斩鸡，再配一杯干白（或轻盈的红酒）。",
+      "exampleMeaning": "상하이식 백참계(촉촉한 냉채 닭요리) 1접시와 드라이 화이트와인(또는 가벼운 레드와인) 1잔 주세요. / Please bring one Shanghai White Cut Chicken and a glass of dry white (or light red) wine.",
+      "nuance": "🍷 [유튜버 상하이 미식 코스 1순위] 양념 없이 노란 토종 영계(三黄鸡)를 저온에 삶아내 껍질은 젤리처럼 탱글하고 속살은 수비드처럼 촉촉한 상하이 대표 닭요리입니다. 번역기는 '하얗게 벤 닭'이라 무섭게 번역하지만, 상하이 와인바와 노포에서 와인과 가장 잘 어울리는 담백한 닭고기 요리입니다.",
+      "word_breakdown": [
+        {
+          "word": "白 (bái)",
+          "meaning": "양념을 하지 않고 재료 본연의 맛을 살린 (백숙 조리법) / Plain poached without heavy sauce"
+        },
+        {
+          "word": "斩 (zhǎn)",
+          "meaning": "먹기 좋게 썰다 / Cut into pieces"
+        },
+        {
+          "word": "鸡 (jī)",
+          "meaning": "닭고기 / Chicken"
+        }
+      ]
+    },
+    {
+      "id": "zh_wine_laziji",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "歌乐山辣子鸡",
+      "meaning": "수북한 건고추와 화자오 속에 숨은 바삭바삭한 한입 마라 닭다리살 튀김 볶음 (레드와인·맥주 안주 1위!) / Crispy bite-sized chicken stir-fried in a mountain of dried chilies & Sichuan peppercorns",
+      "meaning_ko": "수북한 건고추와 화자오 속에 숨은 바삭바삭한 한입 마라 닭다리살 튀김 볶음 (레드와인·맥주 안주 1위!)",
+      "meaning_en": "Crispy bite-sized chicken stir-fried in a mountain of dried chilies & Sichuan peppercorns",
+      "literal_meaning": "노래하고 즐거운 산 매운 아들 닭 / Happy Song Mountain Spicy Son Chicken",
+      "literal_meaning_ko": "매운 아들 닭 (라즈지)",
+      "literal_meaning_en": "Spicy Son Chicken (Laziji)",
+      "pronunciation": "là zǐ jī",
+      "pronunciation_ko": "라즈지 (랄자계)",
+      "pronunciation_en": "lah-dz jee",
+      "example": "请来一份辣子鸡和一瓶红酒（干红），微辣。",
+      "exampleMeaning": "라즈지(매콤 바삭 닭볶음) 1접시와 드라이 레드와인 1병 주세요, 덜 맵게 부탁드려요. / One Laziji spicy crispy chicken and a bottle of dry red wine, mild spicy please.",
+      "nuance": "🍷 [상하이·청두 와인바 인기 1위 치킨] 고추 더미 속에서 보물찾기하듯 바삭한 닭고기 조각을 골라 먹는 요리입니다(고추는 다 먹는 게 아니라 향을 내는 용도!). 과실향이 풍부한 쉬라즈·진판델 레드와인이나 스파클링 와인과 기막히게 어울립니다.",
+      "word_breakdown": [
+        {
+          "word": "辣子 (làzǐ)",
+          "meaning": "사천식 건고추 / Dried chili peppers"
+        },
+        {
+          "word": "鸡 (jī)",
+          "meaning": "바삭하게 튀긴 닭고기 조각 / Crispy diced chicken"
+        }
+      ]
+    },
+    {
+      "id": "zh_wine_order_combo",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "我们想喝红酒，请推荐一道最搭红酒的鸡肉菜。",
+      "meaning": "[역번역 주문] 레드와인을 마시려고 하는데, 와인과 가장 잘 어울리는 닭고기 요리를 추천해 주세요. / We'd like to drink red wine; please recommend your best chicken dish to pair with it.",
+      "meaning_ko": "[역번역 주문] 레드와인을 마시려고 하는데, 와인과 가장 잘 어울리는 닭고기 요리를 추천해 주세요.",
+      "meaning_en": "We'd like to drink red wine; please recommend your best chicken dish to pair with it.",
+      "literal_meaning": "우리는 붉은 술을 마시고 싶다, 붉은 술에 탑승하는 닭 요리를 추천하라 / We want red alcohol, recommend chicken riding red alcohol",
+      "literal_meaning_ko": "와인 + 닭고기 페어링 추천 요청 (역번역 주문 카드)",
+      "literal_meaning_en": "Red wine & chicken dish pairing request (Waiter Order Card)",
+      "pronunciation": "wǒ men xiǎng hē hóng jiǔ, qǐng tuī jiàn yī dào zuì dā hóng jiǔ de jī ròu cài.",
+      "pronunciation_ko": "워먼 썅 허 홍지우, 칭 투이젠 이 따오 쭈이 다 홍지우 더 지로우 차이.",
+      "pronunciation_en": "waw-men shyahng huh hong-jyoh, ching tway-jyen ee daow dzway dah hong-jyoh duh jee-roh tsai.",
+      "example": "可以按杯（单杯）点红酒吗？",
+      "exampleMeaning": "레드와인을 병 말고 잔(글라스)으로도 주문할 수 있나요? / Can we order red wine by the glass?",
+      "nuance": "🍷 상하이 유튜버처럼 와인바나 모던 차이니즈 레스토랑(예: 와이탄·프랑스 조계지 비스트로)에서 '와인 + 맛있는 닭고기 요리'를 그대로 경험하고 싶을 때 점원에게 바로 보여주면 되는 만능 역번역 주문 문장입니다.",
+      "word_breakdown": [
+        {
+          "word": "红酒 (hóngjiǔ)",
+          "meaning": "레드와인 (드라이 레드는 干红 gānhóng) / Red wine"
+        },
+        {
+          "word": "最搭 (zuì dā)",
+          "meaning": "가장 궁합이 잘 맞는 (페어링 최고) / Best pairing"
+        },
+        {
+          "word": "鸡肉菜 (jīròu cài)",
+          "meaning": "닭고기 요리 / Chicken dish"
+        }
+      ]
+    },
+    {
+      "id": "zh_wine_corkage",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Wine & Local Pairing",
+      "tone": "Polite",
+      "text": "请问自带红酒收开瓶费吗？有醒酒器和红酒杯吗？",
+      "meaning": "[역번역 주문] 직접 가져온 와인을 마시면 콜키지(개병비)가 있나요? 디캔터와 와인잔이 있나요? / Do you charge a corkage fee for bringing our own red wine? Do you have a decanter and wine glasses?",
+      "meaning_ko": "[역번역 주문] 직접 가져온 와인을 마시면 콜키지(개병비)가 있나요? 디캔터와 와인잔이 있나요?",
+      "meaning_en": "Do you charge a corkage fee for bringing our own red wine? Do you have a decanter and wine glasses?",
+      "literal_meaning": "스스로 데려온 붉은 술은 병 여는 비용을 거두는가? 술 깨우는 기계가 있는가? / Self-brought red alcohol collect bottle opening fee? Have sober-up machine?",
+      "literal_meaning_ko": "병 여는 비용(개병비) + 술을 깨우는 그릇(성주기=디캔터)",
+      "literal_meaning_en": "Bottle opening fee (Corkage) + Waking-up wine vessel (Decanter)",
+      "pronunciation": "qǐng wèn zì dài hóng jiǔ shōu kāi píng fèi ma? yǒu xǐng jiǔ qì hé hóng jiǔ bēi ma?",
+      "pronunciation_ko": "칭원 쯔다이 홍지우 쇼우 카이핑페이 마? 요우 싱지우치 허 홍지우베이 마?",
+      "pronunciation_en": "ching-wen dz-dai hong-jyoh shoh kai-ping-fay mah? yoh shing-jyoh-chee huh hong-jyoh-bay mah?",
+      "example": "请帮我们拿两个红酒杯和一个冰桶。",
+      "exampleMeaning": "와인잔 2개와 아이스버킷(얼음통) 하나 가져다주세요. / Please bring us two wine glasses and an ice bucket.",
+      "nuance": "💡 번역기에 디캔터(醒酒器·성주기)를 넣으면 '술 깨는 약/숙취 해소기'로 오번역되고, 콜키지(开瓶费)도 콩글리시라 중국 점원이 못 알아듣습니다. 중국 식당에서 와인을 마실 때 필수인 핵심 표현입니다.",
+      "word_breakdown": [
+        {
+          "word": "自带 (zìdài)",
+          "meaning": "직접 지참하다 (BYOB) / Bring your own"
+        },
+        {
+          "word": "开瓶费 (kāipíngfèi)",
+          "meaning": "콜키지 비용 (병 따는 비용) / Corkage fee"
+        },
+        {
+          "word": "醒酒器 (xǐngjiǔqì)",
+          "meaning": "와인 디캔터 (잠든 와인을 깨우는 병) / Wine decanter"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_ganguo",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "干锅鸡 (干锅花菜 / 干锅肥肠)",
+      "meaning": "국물 없이 센 불에 매콤하게 볶아 미니 화로에 올려주는 사천·후난식 볶음 전골 요리 / Sizzling dry-wok stir-fried chicken (or cauliflower) served over a mini burner",
+      "meaning_ko": "국물 없이 센 불에 매콤하게 볶아 미니 화로에 올려주는 사천·후난식 볶음 전골 요리",
+      "meaning_en": "Sizzling dry-wok stir-fried chicken (or cauliflower) served over a mini burner",
+      "literal_meaning": "냄비를 범하다(Fuck) / 마른 냄비 닭 / Fuck the Pot Chicken (Dry Pot Chicken)",
+      "literal_meaning_ko": "마른 냄비 닭 (간궈지 — 한자 간'干'이 비속어로 오번역되는 전설의 메뉴!)",
+      "literal_meaning_en": "Dry Pot Chicken (Historically mistranslated with profanity due to '干')",
+      "pronunciation": "gān guō jī",
+      "pronunciation_ko": "간궈지 (건과계)",
+      "pronunciation_en": "gahn-gwaw jee",
+      "example": "请来一份干锅鸡和干锅花菜，微辣。",
+      "exampleMeaning": "간궈지(매콤 마른전골 닭볶음)와 간궈화차이(콜리플라워 볶음) 1접시씩 덜 맵게 주세요. / One Dry-Pot Chicken and one Dry-Pot Cauliflower, mild spicy please.",
+      "nuance": "💡 중국 간체자 '干(gān: 마르다 / gàn: 하다·비속어)' 때문에 옛날 번역기들이 '干锅'나 '干爆' 요리를 욕설(Fuck)로 번역해 전 세계 인터넷 밈이 되었던 바로 그 요리입니다. 실제로는 불향이 살아있는 최고의 밥·술안주입니다!",
+      "word_breakdown": [
+        {
+          "word": "干 (gān)",
+          "meaning": "국물이 없는, 마른 (1성 gān) / Dry, without broth"
+        },
+        {
+          "word": "锅 (guō)",
+          "meaning": "냄비, 전골 화로 / Wok, pot"
+        },
+        {
+          "word": "鸡 (jī)",
+          "meaning": "닭고기 / Chicken"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_sicaiyitang",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "四菜一汤 (招牌菜)",
+      "meaning": "4가지 메인 요리(고기·해산물·채소 포함)와 1가지 탕(수프)으로 구성된 중국 정석 식사 코스 (`菜`는 야채가 아니라 '요리' 전체!) / Standard Chinese meal set of 4 main dishes and 1 soup (`菜` means dish, not just vegetables!)",
+      "meaning_ko": "4가지 메인 요리(고기·해산물·채소 포함)와 1가지 탕(수프)으로 구성된 중국 정석 식사 코스 (`菜`는 야채가 아니라 '요리' 전체!)",
+      "meaning_en": "Standard Chinese meal set of 4 main dishes and 1 soup (`菜` means dish, not just vegetables!)",
+      "literal_meaning": "야채 4개와 국물 1개 / Four Vegetables and One Soup",
+      "literal_meaning_ko": "채소 4개와 탕 1개 (사채일탕 — 한자 菜를 채소로만 오해!)",
+      "literal_meaning_en": "Four Vegetables and One Soup",
+      "pronunciation": "sì cài yī tāng",
+      "pronunciation_ko": "쓰차이이탕 (사채일탕)",
+      "pronunciation_en": "sz-tsai ee-tahng",
+      "example": "我们两个人，点两三个菜够吃吗？",
+      "exampleMeaning": "저희 두 명인데 요리 2~3개 시키면 충분할까요? / There are two of us; are 2 or 3 dishes enough?",
+      "nuance": "💡 한국 한자 '채소 채(菜)' 때문에 중국 메뉴판의 '招牌菜(대표 요리)', '川菜(사천 요리)', '点菜(요리 주문)'를 번역기가 전부 '야채(Vegetable)'로 오번역합니다! 진짜 채소 요리만 시키고 싶을 때는 '수차이(蔬菜)' 또는 '칭차이(青菜)'라고 해야 합니다.",
+      "word_breakdown": [
+        {
+          "word": "菜 (cài)",
+          "meaning": "요리, 메뉴 전체 (단순 채소가 아님!) / Dish, cuisine (not just vegetables!)"
+        },
+        {
+          "word": "汤 (tāng)",
+          "meaning": "국, 수프 / Soup"
+        }
+      ]
+    },
+    {
+      "id": "zh_mistrans_fangbian",
+      "lang": "zh",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "请问哪里可以方便一下？（洗手间在哪里？）",
+      "meaning": "실례지만 화장실이 어디인가요? ('方便 방변' = 화장실 볼일 보다는 뜻의 완곡어!) / Excuse me, where can I use the restroom? ('方便' is a polite euphemism for bathroom)",
+      "meaning_ko": "실례지만 화장실이 어디인가요? ('方便 방변' = 화장실 볼일 보다는 뜻의 완곡어!)",
+      "meaning_en": "Excuse me, where can I use the restroom? ('方便' is a polite euphemism for bathroom)",
+      "literal_meaning": "어디가 편리합니까? / Where can be convenient?",
+      "literal_meaning_ko": "어디가 편리한가요? (방변 = 화장실 볼일)",
+      "literal_meaning_en": "Where is it convenient for a bit?",
+      "pronunciation": "qǐng wèn nǎ lǐ kě yǐ fāng biàn yī xià?",
+      "pronunciation_ko": "칭원 날리 커이 팡뱐 이샤?",
+      "pronunciation_en": "ching-wen nah-lee kuh-ee fahng-byen ee-shyah?",
+      "example": "我去方便一下，马上回来。",
+      "exampleMeaning": "저 화장실 좀 잠깐 다녀올게요, 금방 올게요. / I'm going to use the restroom for a moment, I'll be right back.",
+      "nuance": "💡 중국인이 식사 도중 '我去方便一下(저 편리 좀 하고 올게요)'라고 말할 때 번역기는 '편리한 곳에 간다'고 번역하지만, 실제로는 '화장실에 다녀오겠다'는 뜻입니다.",
+      "word_breakdown": [
+        {
+          "word": "方便 (fāngbiàn)",
+          "meaning": "화장실에 가다 (원래 뜻: 편리하다) / Use the restroom (lit. convenient)"
+        },
+        {
+          "word": "洗手间 (xǐshǒujiān)",
+          "meaning": "화장실 (손 씻는 방) / Restroom, washroom"
+        }
+      ]
+    },
+    {
+      "id": "ja_mistrans_oyakodon",
+      "lang": "ja",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "親子丼 (おやこどん)",
+      "meaning": "부드러운 닭고기와 폭신한 계란을 달짝지근한 다시 육수로 익혀 올린 일본 정통 덮밥 (오야코동) / Simmered chicken and fluffy egg over rice bowl (Oyakodon)",
+      "meaning_ko": "부드러운 닭고기와 폭신한 계란을 달짝지근한 다시 육수로 익혀 올린 일본 정통 덮밥 (오야코동)",
+      "meaning_en": "Simmered chicken and fluffy egg over rice bowl (Oyakodon)",
+      "literal_meaning": "부모와 자식 덮밥 / Parent and Child Rice Bowl",
+      "literal_meaning_ko": "부모와 자식 덮밥 (친자동)",
+      "literal_meaning_en": "Parent and Child Bowl",
+      "pronunciation": "o-ya-ko-don",
+      "pronunciation_ko": "오야코동",
+      "pronunciation_en": "oh-yah-koh-don",
+      "example": "親子丼を一つお願いします。",
+      "exampleMeaning": "오야코동(닭고기 계란 덮밥) 하나 부탁드립니다. / One Oyakodon (chicken & egg bowl), please.",
+      "nuance": "💡 닭고기(부모·親)와 계란(자식·子)이 한 그릇에 들어간다고 해서 붙은 이름입니다. 연어와 연어알이 들어가면 '카이센 오야코동(해산물 모자 덮밥)'이라고 부릅니다.",
+      "word_breakdown": [
+        {
+          "word": "親 (おや / oya)",
+          "meaning": "부모 (닭고기 비유) / Parent (chicken)"
+        },
+        {
+          "word": "子 (こ / ko)",
+          "meaning": "자식 (계란 비유) / Child (egg)"
+        },
+        {
+          "word": "丼 (どん / don)",
+          "meaning": "덮밥 / Rice bowl"
+        }
+      ]
+    },
+    {
+      "id": "ja_mistrans_kitsune",
+      "lang": "ja",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "きつねうどん / たぬきうどん",
+      "meaning": "달콤 짭조름한 유부를 올린 우동(키츠네) & 바삭한 텐카스(튀김 부스러기)를 올린 우동(타누키) — 여우·너구리 고기 아님! / Udon with sweet fried tofu pouch (Kitsune) or crispy tempura bits (Tanuki) — No fox or raccoon!",
+      "meaning_ko": "달콤 짭조름한 유부를 올린 우동(키츠네) & 바삭한 텐카스(튀김 부스러기)를 올린 우동(타누키) — 여우·너구리 고기 아님!",
+      "meaning_en": "Udon with sweet fried tofu pouch (Kitsune) or crispy tempura bits (Tanuki) — No fox or raccoon!",
+      "literal_meaning": "여우 우동 / 너구리 우동 / Fox Udon / Raccoon Dog Udon",
+      "literal_meaning_ko": "여우 우동 / 너구리 우동",
+      "literal_meaning_en": "Fox Udon / Raccoon Udon",
+      "pronunciation": "ki-tsu-ne u-don / ta-nu-ki u-don",
+      "pronunciation_ko": "키츠네 우동 / 타누키 우동",
+      "pronunciation_en": "kee-tsoo-neh oo-don / tah-noo-kee oo-don",
+      "example": "温かいきつねうどんを一つください。",
+      "exampleMeaning": "따뜻한 유부 우동(키츠네 우동) 하나 주세요. / One hot Kitsune (sweet tofu) udon, please.",
+      "nuance": "💡 일본 설화에서 여우(きつね)가 유부를 가장 좋아한다고 전해져서 유부가 올라간 요리를 모두 '키츠네'라고 부릅니다.",
+      "word_breakdown": [
+        {
+          "word": "きつね (kitsune)",
+          "meaning": "달콤한 유부 토핑 (직역: 여우) / Sweet fried tofu (lit. fox)"
+        },
+        {
+          "word": "たぬき (tanuki)",
+          "meaning": "바삭한 튀김옷 고명 (직역: 너구리) / Tempura flakes (lit. raccoon)"
+        }
+      ]
+    },
+    {
+      "id": "th_mistrans_khaiyiaoma",
+      "lang": "th",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "กะเพราไข่เยี่ยวม้า (Kaphrao Khai Yiao Ma)",
+      "meaning": "고소한 삭힌 오리알(송화단)과 다진 돼지고기를 바질과 함께 바삭하게 볶은 태국 인기 요리 (말 오줌 전혀 없음!) / Crispy century egg & minced pork stir-fried with Thai holy basil (No horse urine!)",
+      "meaning_ko": "고소한 삭힌 오리알(송화단)과 다진 돼지고기를 바질과 함께 바삭하게 볶은 태국 인기 요리 (말 오줌 전혀 없음!)",
+      "meaning_en": "Crispy century egg & minced pork stir-fried with Thai holy basil (No horse urine!)",
+      "literal_meaning": "바질 말 오줌 달걀 볶음 / Basil Horse Urine Egg",
+      "literal_meaning_ko": "말 오줌 계란 바질 볶음 (카이 여우 마)",
+      "literal_meaning_en": "Horse Urine Egg with Basil",
+      "pronunciation": "ka-phrao khai yiao ma",
+      "pronunciation_ko": "까파오 카이 여우 마",
+      "pronunciation_en": "gah-praow kai yee-ow mah",
+      "example": "ขอกะเพราไข่เยี่ยวม้าเผ็ดน้อย ไม่ใส่ผักชีครับ/ค่ะ",
+      "exampleMeaning": "까파오 카이 여우 마(송화단 바질 돼지고기 볶음) 덜 맵게, 고수 빼고 주세요. / One Kaphrao Century Egg, less spicy, no cilantro please.",
+      "nuance": "💡 태국어로 송화단(삭힌 알)의 암모니아 향 때문에 옛날부터 '말 오줌 알(ไข่เยี่ยวม้า)'이라 불렀고, 구글/파파고 번역기가 이를 그대로 '말 오줌 계란'으로 번역해 여행자들을 경악하게 만드는 대표 메뉴입니다. 실제로는 기름에 한번 튀긴 송화단이라 고소하고 정말 맛있습니다!",
+      "word_breakdown": [
+        {
+          "word": "กะเพรา (kaphrao)",
+          "meaning": "태국 홀리 바질 볶음 / Thai holy basil stir-fry"
+        },
+        {
+          "word": "ไข่เยี่ยวม้า (khai yiao ma)",
+          "meaning": "송화단·삭힌 오리알 (직역: 말 오줌 알) / Century egg (lit. horse urine egg)"
+        }
+      ]
+    },
+    {
+      "id": "it_mistrans_peperoni",
+      "lang": "it",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "Pizza alla Diavola (⚠️ Pizza ai Peperoni 아님!)",
+      "meaning": "[이탈리아 오번역 1위] 매콤한 페퍼로니 살라미 피자를 시키려면 '디아볼라(Diavola)'를 시켜야 합니다! 이탈리아어로 'Peperoni'는 햄이 아니라 '파프리카/피망'입니다! / Order 'Pizza Diavola' for spicy pepperoni salami! In Italian, 'Peperoni' means Bell Peppers, NOT meat!",
+      "meaning_ko": "[이탈리아 오번역 1위] 매콤한 페퍼로니 살라미 피자를 시키려면 '디아볼라(Diavola)'를 시켜야 합니다! 이탈리아어로 'Peperoni'는 햄이 아니라 '파프리카/피망'입니다!",
+      "meaning_en": "Order 'Pizza Diavola' for spicy pepperoni salami! In Italian, 'Peperoni' means Bell Peppers, NOT meat!",
+      "literal_meaning": "Pizza ai Peperoni = 파프리카 야채 피자 (고기가 한 점도 안 나옴!) / Pizza ai Peperoni = Bell Pepper Veggie Pizza",
+      "literal_meaning_ko": "피자 아이 페페로니 = 피망 야채 피자 (페퍼로니 햄 아님!)",
+      "literal_meaning_en": "Pizza ai Peperoni = Bell Pepper Pizza (No salami!)",
+      "pronunciation": "pit-tsa al-la dya-vo-la",
+      "pronunciation_ko": "피자 알라 디아볼라 (매콤 살라미 피자)",
+      "pronunciation_en": "peet-tsah ahl-lah dyah-voh-lah",
+      "example": "Vorrei una Pizza alla Diavola (con salame piccante) e un bicchiere di vino rosso.",
+      "exampleMeaning": "피자 디아볼라(페퍼로니 살라미 피자) 한 판과 레드와인 한 잔 주세요. / I'd like a Pizza Diavola (with spicy salami) and a glass of red wine.",
+      "nuance": "🚨 로마·밀라노·피렌체 피자집에서 'Pizza ai Peperoni'를 시키면 소시지/햄은 하나도 없고 구운 피망만 잔뜩 올라간 채식 피자가 나옵니다! 햄이 올라간 페퍼로니 피자는 반드시 'Pizza Diavola(악마의 매운 살라미 피자)'로 주문하세요.",
+      "word_breakdown": [
+        {
+          "word": "Diavola",
+          "meaning": "매콤한 페퍼로니 살라미 피자 (직역: 악마풍) / Spicy salami pizza"
+        },
+        {
+          "word": "Peperoni (이탈리아어)",
+          "meaning": "⚠️ 파프리카, 피망 (햄이 아님!) / Bell peppers (NOT pepperoni salami!)"
+        }
+      ]
+    },
+    {
+      "id": "fr_mistrans_entree",
+      "lang": "fr",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "Entrée vs Plat principal (et une carafe d'eau)",
+      "meaning": "[프랑스 메뉴판 주의] 프랑스에서 'Entrée(앙트레)'는 메인 요리가 아니라 '전채 요리(애피타이저)'입니다! 메인 요리는 'Plat(플라)', 무료 수돗물은 'Carafe d'eau(카라프 도)'라고 주문하세요. / In France, 'Entrée' is the Starter/Appetizer, NOT the main course ('Plat')! Ask for 'une carafe d'eau' for free tap water.",
+      "meaning_ko": "[프랑스 메뉴판 주의] 프랑스에서 'Entrée(앙트레)'는 메인 요리가 아니라 '전채 요리(애피타이저)'입니다! 메인 요리는 'Plat(플라)', 무료 수돗물은 'Carafe d'eau(카라프 도)'라고 주문하세요.",
+      "meaning_en": "In France, 'Entrée' is the Starter/Appetizer, NOT the main course ('Plat')! Ask for 'une carafe d'eau' for free tap water.",
+      "literal_meaning": "Entrée = 메인 요리(미국식 영어 오번역) / 물 한 병 = 유료 생수 8유로 청구!",
+      "literal_meaning_ko": "앙트레 = 입장/전채 요리 (미국식 영어에서는 메인 요리로 잘못 쓰임)",
+      "literal_meaning_en": "Entrée = Starter in France (False friend with US English 'entree')",
+      "pronunciation": "ahng-tray / plah prang-see-pahl / kah-rahf doh",
+      "pronunciation_ko": "앙트레 (전채) / 플라 프랑시팔 (메인) / 카라프 도 (무료 물병)",
+      "pronunciation_en": "ahng-tray / plah pran-see-pahl / kah-rahf doh",
+      "example": "Comme plat principal, je prends le poulet rôti, et une carafe d'eau, s'il vous plaît.",
+      "exampleMeaning": "메인 요리(플라)로는 로스트 치킨을 주시고, 무료 물 한 병(카라프 도) 부탁드립니다. / For the main course, I'll have the roast chicken, and a pitcher of tap water, please.",
+      "nuance": "💡 미국 영어에서는 Entrée가 메인 요리지만 본고장 프랑스에서는 식사의 '입구(전채 샐러드/수프)'입니다. 또한 그냥 'Water(De l'eau)'를 달라고 하면 비싼 에비앙 유료 생수를 따서 7~9유로를 청구하므로 꼭 'Une carafe d'eau(카라프 도)'라고 말하세요!",
+      "word_breakdown": [
+        {
+          "word": "Entrée",
+          "meaning": "전채 요리, 애피타이저 / Starter, appetizer"
+        },
+        {
+          "word": "Plat (principal)",
+          "meaning": "진짜 메인 요리 / Main course"
+        },
+        {
+          "word": "Une carafe d'eau",
+          "meaning": "무료 식수 피처 / Free pitcher of tap water"
+        }
+      ]
+    },
+    {
+      "id": "es_mistrans_ropavieja",
+      "lang": "es",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "Ropa Vieja",
+      "meaning": "결대로 부드럽게 찢은 소고기를 토마토·피망·마늘·레드와인 소스에 푹 졸여낸 스페인·쿠바 대표 비프 스튜 / Slow-braised shredded flank steak in rich tomato, bell pepper & red wine sauce",
+      "meaning_ko": "결대로 부드럽게 찢은 소고기를 토마토·피망·마늘·레드와인 소스에 푹 졸여낸 스페인·쿠바 대표 비프 스튜",
+      "meaning_en": "Slow-braised shredded flank steak in rich tomato, bell pepper & red wine sauce",
+      "literal_meaning": "헌 옷 / 낡은 빨래 조각 / Old Clothes",
+      "literal_meaning_ko": "헌 옷 / 낡은 옷 (로파 비에하)",
+      "literal_meaning_en": "Old Clothes / Tattered Rags",
+      "pronunciation": "ro-pa bye-ha",
+      "pronunciation_ko": "로파 비에하",
+      "pronunciation_en": "roh-pah vyeh-hah",
+      "example": "Quisiera una ración de ropa vieja y una copa de vino tinto, por favor.",
+      "exampleMeaning": "로파 비에하(소고기 결 스튜) 1인분과 레드와인 한 잔 주세요. / I would like a portion of Ropa Vieja and a glass of red wine, please.",
+      "nuance": "💡 길게 찢어진 소고기와 알록달록한 피망·토마토가 어우러진 모습이 알록달록한 천 조각(헌 옷) 같다고 해서 붙은 이름입니다. 한국의 장조림에 토마토·와인 풍미를 더한 맛이라 호불호 없이 정말 맛있습니다.",
+      "word_breakdown": [
+        {
+          "word": "Ropa",
+          "meaning": "옷 (결대로 찢은 부드러운 소고기 비유) / Clothes (shredded beef)"
+        },
+        {
+          "word": "Vieja",
+          "meaning": "오래된, 푹 고아낸 / Old, slow-braised"
+        }
+      ]
+    },
+    {
+      "id": "de_mistrans_kalterhund",
+      "lang": "de",
+      "type": "mistranslation",
+      "category": "Mistranslation Decoder",
+      "tone": "Polite",
+      "text": "Kalter Hund (Kalte Schnauze)",
+      "meaning": "버터 비스킷과 진한 다크 초콜릿 가나슈를 겹겹이 쌓아 차갑게 굳힌 독일 전통 초콜릿 케이크 (개고기 아님!) / Classic German no-bake layered chocolate & butter biscuit cake (No dog!)",
+      "meaning_ko": "버터 비스킷과 진한 다크 초콜릿 가나슈를 겹겹이 쌓아 차갑게 굳힌 독일 전통 초콜릿 케이크 (개고기 아님!)",
+      "meaning_en": "Classic German no-bake layered chocolate & butter biscuit cake (No dog!)",
+      "literal_meaning": "차가운 개 / 차가운 개 주둥이 / Cold Dog / Cold Snout",
+      "literal_meaning_ko": "차가운 개 (칼터 훈트)",
+      "literal_meaning_en": "Cold Dog / Cold Snout",
+      "pronunciation": "kal-ter hunt",
+      "pronunciation_ko": "칼터 훈트",
+      "pronunciation_en": "kahl-ter hoont",
+      "example": "Ein Stück Kalter Hund und einen Kaffee, bitte.",
+      "exampleMeaning": "칼터 훈트(초콜릿 비스킷 케이크) 한 조각과 커피 한 잔 주세요. / A piece of Kalter Hund cake and a coffee, please.",
+      "nuance": "💡 광산에서 쓰던 네모난 광차(Hunt) 틀 모양과 반질반질하고 차가운 초콜릿 표면이 강아지의 촉촉한 코(Kalte Schnauze)를 닮았다고 해서 붙은 독일의 대표 홈메이드 디저트입니다.",
+      "word_breakdown": [
+        {
+          "word": "Kalter",
+          "meaning": "차가운 (오븐에 굽지 않고 냉장해 굳힌) / Cold, chilled"
+        },
+        {
+          "word": "Hund",
+          "meaning": "사각 틀 케이크 (직역: 개 / 광차 Hunt에서 유래) / Cake pan (lit. dog)"
+        }
+      ]
+    }
+  ]
+}
